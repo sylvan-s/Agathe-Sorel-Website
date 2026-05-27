@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agathesorel.co.uk/sitemap.xml
