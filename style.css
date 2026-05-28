@@ -2045,8 +2045,8 @@ button {
 
 .artwork-showcases-section {
     max-width: var(--max-width);
-    margin: 80px auto 40px;
-    padding: 80px 30px 40px;
+    margin: 20px auto 40px;
+    padding: 30px 30px 40px;
     border-top: 0.5px solid rgba(26, 26, 26, 0.15);
 }
 
