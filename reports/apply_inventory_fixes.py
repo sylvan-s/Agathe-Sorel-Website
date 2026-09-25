@@ -1,7 +1,7 @@
 """Apply 2014-10 inventory values to database/artworks.json and artworks.csv.
 
-Only confident ("exact") matches from crosscheck.py are applied; "probable"
-matches are left for manual review. For each one:
+Confident ("exact") and "probable" matches from crosscheck.py are applied
+(probable matches were reviewed and accepted). For each one:
   - technique_detail <- inventory technique (generic `technique` is kept for filters)
   - date             <- inventory year, when the inventory has one
   - dimensions       <- inventory size ("W x H mm"), when the inventory has one
@@ -28,13 +28,13 @@ changes = []
 for art in site:
     art.setdefault("technique_detail", "")
 for r in rows:
-    if r["match"] != "exact":
+    if r["match"] not in ("exact", "probable"):
         continue
     art = site[r["site_index"]]
     new = {"technique_detail": r["inv_technique"], "date": r["inv_year"], "dimensions": fmt_dims(r["inv_size_mm"])}
     for field, val in new.items():
         if val and art.get(field) != val:
-            changes.append([r["site_index"], art["title"], field, art.get(field) or "", val])
+            changes.append([r["site_index"], art["title"], r["match"], field, art.get(field) or "", val])
             art[field] = val
 
 # Keep technique_detail next to technique in both files.
@@ -61,8 +61,8 @@ with open(CSV_PATH, "w", newline="") as f:
 
 with open(f"{OUT}/applied_changes.csv", "w", newline="") as f:
     w = csv.writer(f)
-    w.writerow(["site_index", "title", "field", "old", "new"])
+    w.writerow(["site_index", "title", "match", "field", "old", "new"])
     w.writerows(changes)
 
 from collections import Counter
-print(len(changes), "field changes:", Counter(c[2] for c in changes))
+print(len(changes), "field changes:", Counter(c[3] for c in changes))

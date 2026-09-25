@@ -1,350 +1,393 @@
-site_index,title,field,old,new
-67,Vagabondage,technique_detail,,"Deep bite, engraving & drilling. Colour viscosity printed in purple-black, orange & yellow"
-67,Vagabondage,dimensions,650 x 600 mm,500 x 660 mm
-68,Saule Pleureur,technique_detail,,Line engraving printed in black
-68,Saule Pleureur,dimensions,600 x 500 mm,500 x 660 mm
-69,Via Siena,technique_detail,,"Deep bite, aquatint, colour viscosity printed in brown, purple & orange"
-69,Via Siena,dimensions,650 x 600 mm,500 x 660 mm
-71,Croisement des Chemins,technique_detail,,"Scraper engraving, aquatint. Colour viscosity print in black orange & blue"
-72,Maree,technique_detail,,"Etching & engraving, deep bite. Colour viscosity print in red and blue"
-73,Apres la Moisson,technique_detail,,"Scraper sculpted plate, engraving. Colour viscosity print in purple-black, blue & yellow"
-74,Le Bois Endormant,technique_detail,,"Deep etching with line etching, scraper engraving. Colour viscosity print in black, yellow and green"
-75,Midi,technique_detail,,"Deep bite, engraving. Colour viscosity print in black, blue & red"
-76,Libellule,technique_detail,,Line engraving printed in black
-77,Vue sur la Montagne,technique_detail,,"Deep bite, colour viscosity print in black, blue, orange & olive"
-78,Pluie d'Avril,technique_detail,,"Deep bite, Scraper engraving, aquatint. Colour viscosity print in blue-black, and orange"
-79,Troubled Square,technique_detail,,"Deep bitten & cut plate. Colour viscosity print in black, blue & orange"
-79,Troubled Square,dimensions,800 x 590 mm,780 x 600 mm
-80,Fumee,technique_detail,,Line engraving printed in black
-80,Fumee,dimensions,800 x 590 mm,500 x 660 mm
-81,Peacock,technique_detail,,"Deep bite, gauge & scraper engraving. Colour viscosity print in orange, brown & purple"
-82,Hopfields,technique_detail,,Line engraving printed in black
-82,Hopfields,dimensions,690 x 400 mm,590 x 410 mm
-83,Petroushka (triptych),technique_detail,,"Pressed metal relief, intaglio & surface printed in black 2 part vignette"
-83,Petroushka (triptych),dimensions,262 x 251 mm,500 x 650 mm
-84,Electronics for Beginners,technique_detail,,"Deep bite, engraving & drilling. Colour viscosity print in blue-black, red & yellow"
-84,Electronics for Beginners,dimensions,660 x 500 mm,780 x 600 mm
-85,Suffragette,technique_detail,,Pressed metal collage & engraving printed in red & black
-86,Foundry,technique_detail,,"Deep bite, line engraving, drilling, printed in brown-black & red"
-86,Foundry,dimensions,300 x 340 mm,390 x 570 mm
-87,Outsiders,technique_detail,,"Deep bite, aquatint & dry point, printed in black, grey, red,& green vignette"
-88,Box Shapes,technique_detail,,"Aquatint & hardboard cut outs printed in black, ochre, and blue-black"
-88,Box Shapes,dimensions,600 x 780 mm,580 x 570 mm
-89,Two Cultures,technique_detail,,"Photo gravure, dry point, engraving & brass cut out Printed in black green, yellow, brown & red vignette"
-90,Petra,technique_detail,,Line engraving & deep bite printed in black vignette
-91,Le Balcon by Jean Genet (Artist's boo title page 1),technique_detail,,"Line engraving, photo etching, gilding. Colour viscosity print printed in black, orange, & pink"
-91,Le Balcon by Jean Genet (Artist's boo title page 1),date,1959,1964
-91,Le Balcon by Jean Genet (Artist's boo title page 1),dimensions,,640 x 500 mm
-92,The General (Le Balcon.. page 2),technique_detail,,Line-engraving & aquatint printed in black. Gilded
-92,The General (Le Balcon.. page 2),dimensions,670 x 500 mm,640 x 500 mm
-93,The Judge (Le Balcon.. page 3),technique_detail,,"Line-engraving, aquatint, soft ground etching & drilling, printed in black"
-93,The Judge (Le Balcon.. page 3),dimensions,670 x 500 mm,640 x 500 mm
-94,Chantal (Le Balcon.. page 4),technique_detail,,"Line-engraving, aquatint, drilling printed in black, red, blue. Gilded"
-94,Chantal (Le Balcon.. page 4),dimensions,670 x 500 mm,640 x 500 mm
-95,Mme. The Queen (Le Balcon.. page 5),technique_detail,,"Sugar aquatint, printed in black, red & yellow"
-95,Mme. The Queen (Le Balcon.. page 5),dimensions,670 x 500 mm,640 x 500 mm
-96,The Bishop (Le Balcon.. page 6),technique_detail,,"Line-engraving, aquatint & drilling, printed in black. Gilded"
-96,The Bishop (Le Balcon.. page 6),dimensions,670 x 500 mm,640 x 500 mm
-97,The Orator & the Crowd (Le Balcon.. page 7) jpg,technique_detail,,"Line-engraving, hammered & cut plate. Colour viscosity print in red, blue, & black"
-97,The Orator & the Crowd (Le Balcon.. page 7) jpg,dimensions,,640 x 500 mm
-98,The Queen (Le Balcon.. page 8),technique_detail,,"Line-engraving, soft ground, open bite & drilling, printed in black and yellow"
-98,The Queen (Le Balcon.. page 8),dimensions,670 x 500 mm,640 x 500 mm
-99,Mausoleum for the chief of the secret police (Le Balcon),technique_detail,,"Line engraving, sugar aquatint, metal mesh cut-out drilled. Printed in black & Gilded"
-99,Mausoleum for the chief of the secret police (Le Balcon),date,1959,1964
-99,Mausoleum for the chief of the secret police (Le Balcon),dimensions,,640 x 500 mm
-100,Everyday Irreality (Le Balcon.. page 10) 67,technique_detail,,"Line engraving, sugar aquatint, photo etching drilled. Printed in black. Mirror foil collage"
-100,Everyday Irreality (Le Balcon.. page 10) 67,dimensions,,640 x 500 mm
-101,The Fire (Le Balcon.. page 11),technique_detail,,"Brushed aquatint & deep bite, printed in black, red & mauve"
-101,The Fire (Le Balcon.. page 11),dimensions,670 x 500 mm,640 x 500 mm
-102,Blind Landing,technique_detail,,"Pressed & extruded metal, surface & intaglio print. Vignette. Printed in black, green & red"
-103,Beemaster,technique_detail,,"Deep etched, engraved & drilled. Colour viscosity printed in blue & orange. vignette"
-104,The Artists Skin,technique_detail,,Hammered & woven brass vignette. Printed in brown & orange. vignette
-104,The Artists Skin,date,1959,1965
-104,The Artists Skin,dimensions,800 x 590 mm,800 x 600 mm
-105,The Miracle Worker,technique_detail,,"Line engraving, letter punch, hammered, surface & intaglio, printed in black. Vignette"
-105,The Miracle Worker,dimensions,780 x 600 mm,580 x 460 mm
-106,Mass Hysteria,technique_detail,,"Deep-bite, drilling & metal foil collage printed in black, brown, ochre & red"
-106,Mass Hysteria,dimensions,780 x 600 mm,580 x 460 mm
-107,Curven Gallert Exhibition Poster,technique_detail,,"Folded bronze cut out, line engraving & litho vignette. Printed in black, yellow & red. vignette"
-108,Meltingpoint,technique_detail,,"Deep-bite drilling. Colour viscosity print in black, red & mauve"
-108,Meltingpoint,dimensions,780 x 600 mm,800 x 590 mm
-109,The Escapist,dimensions,780 x 600 mm,800 x 600 mm
-116,Sappho,technique_detail,,"Line engraving, & brass cut-out, printed in black, ochre, pink & red"
-117,The Wise and Foolish Virgin,technique_detail,,"Line engraving, aquatint, hammered brass, photogravure & plastic engraving, printed in black, blue & yellow"
-118,Old Wife's Tale,technique_detail,,"Line engraving, aquatint & surface rolled brass, printed in black, ochre, pink & red"
-119,Play,technique_detail,,"Photogravure, aquatint, cutout & rope. Vignette. Printed in black, green, magenta, yellow & gray"
-120,Pool on the 30th Floor,technique_detail,,"Line engraving, aquatint, drypoint & metal cut-out vignette. Printed in blue, grey, red,& ultramarine"
-121,Three new Creatures,technique_detail,,"Deep bite, dry point, heat branded plastic, printed in blue, red, black, yellow, mauve & ochre"
-122,Diver and Dreamer,technique_detail,,"Deep bite, aquatint& plastic engraving, printed in purple-black, ochre, orange, & yellow vignette"
-122,Diver and Dreamer,dimensions,780 x 600 mm,800 x 600 mm
-123,Observed in High Spirits,technique_detail,,"Deep bite, aquatint, surface rolled brass cut out, printed in black, brown, yellow, red, green, & blue"
-123,Observed in High Spirits,dimensions,780 x 600 mm,600 x 780 mm
-124,By the Drunken Photographer,technique_detail,,"Line engraving, aquatint & surface rolled brass cut out, printed in black, green & brown"
-125,Discarded Dreams,technique_detail,,"Line engraving, surface rolled brass cut out, printed in black, red, ochre, blue & green"
-125,Discarded Dreams,dimensions,780 x 600 mm,600 x 780 mm
-126,Green People,technique_detail,,"Photo etching, deep bite & surface printed brass cut out. vignette"
-126,Green People,dimensions,780 x 600 mm,800 x 600 mm
-127,Birds,technique_detail,,"Photo etched intaglio & plastic cut out, printed in blue-black, green, blue & yellow"
-128,Six Months in the Air,technique_detail,,"Deep etched, engraved, aquatint brass cut out, printed in brown-black, red, yellow, pink & purple"
-129,Balance,technique_detail,,"Line engraving, aquatint, dry point, brass cut out, printed in black, blue, yellow & green Vignette"
-130,"Bird, Land and Ribs",technique_detail,,"Deep bite, etching, aquatint & stencil, printed in black & blue Vignette"
-131,Danger,technique_detail,,"Photo etching & mezzotint on plastics, printed in green black, blue-black, yellow, brown, & green"
-132,Bravado,technique_detail,,"Etching & deep bite with brass cut outs, printed in black, red, yellow, purple,& ochre Vignette"
-133,Beginning,technique_detail,,"Line engraving, aquatint & brass cut out, printed in black, red, & yellow Vignette"
-134,Heroes in Perspective,technique_detail,,"Heat branded plastic, photo etching & line engraving, printed in black, blue, ochre & red Vignette"
-134,Heroes in Perspective,dimensions,600 x 780 mm,600 x 789 mm
-135,Temptations,technique_detail,,"Sugar aquatint, deep bite, machine-engraving & heat branded plastic, printed in blue-black, brown, pink, magenta & turquoise"
-136,The Sculpture Garden,technique_detail,,"Line engraving, aquatint, with dry point on plastics, printed in green-black, red & yellow Vignette"
-136,The Sculpture Garden,dimensions,600 x 780 mm,600 x 800 mm
-137,Posessions,technique_detail,,"Dry point on plastics, etching, aquatint on copper printed in green-black, red & yellow Vignette"
-137,Posessions,dimensions,780 x 600 mm,800 x 600 mm
-138,Shell,technique_detail,,"Multi layered plastic cut out, dry point, engraving, printed in brown, mauve, blue, yellow, red & olive green Vignette"
-138,Shell,dimensions,780 x 600 mm,800 x 600 mm
-139,New Dove,technique_detail,,"Computer generated litho & surface print in black, grey, red & orange Vignette"
-139,New Dove,dimensions,780 x 600 mm,800 x 600 mm
-140,The Preservation of Life,technique_detail,,"Line engraving & dry point on plastic, printed in blue, brown & olive Vignette"
-140,The Preservation of Life,dimensions,780 x 600 mm,800 x 600 mm
-141,Starlet,technique_detail,,"Folded, hammered brass & extruded metal cut-out, printed in blue, black with mirror foil applied Vignette"
-141,Starlet,dimensions,780 x 600 mm,800 x 600 mm
-142,Virtuosos,technique_detail,,"Line engraving, aquatint & brass cut outs, printed in brown-black, grey yellow, red & olive"
-143,Homes,technique_detail,,"Dry point on plastic, printed in brown-black & green Vignette"
-143,Homes,dimensions,780 x 600 mm,600 x 780 mm
-144,Dark Satanic Mills,technique_detail,,"Photo etching, heat branded plastic & plastic engraving, printed in brown-black, grey & green"
-145,Blueprint for Survival,technique_detail,,"Photo etching & plastic engraving, printed in purple-black, blue, orange & purple"
-146,Sunbathers,technique_detail,,"Plastic engraving, dry point & aquatint, printed in blue, green, orange, mauve & turquoise"
-147,Let's go and Watch,technique_detail,,"Photo etching, line engraving, soft ground & plastic engraving, printed in black, yellow, red & green. vignette"
-148,Swinger,technique_detail,,"Machine engraved and heat-branded plastics, dry point, and mezzotint, printed in black, blue, red, ochre & magenta vignette"
-149,Watching the Garden Grow,technique_detail,,"Heat branded plastic & mezzotint, printed in black, blue, yellow, & ochre. vignette"
-149,Watching the Garden Grow,dimensions,,780 x 600 mm
-150,Nocturn,technique_detail,,"Line engraving & aquatint on copper & dry pointed plastic, printed in black, brown, blue & mauve vignette"
-151,By the Drunken Photographer,technique_detail,,"Line engraving, aquatint & folded brass cut-outs, printed in black, green & brown"
-152,On the Farm,technique_detail,,"Heat branded plastic, bubble wrap, dry point, printed in black, blue, red & ochre vignette"
-153,Bougainvillea,technique_detail,,"Line engraving & mezzotint on copper & heat branded plastic, printed in black, red, blue, yellow & brown. vignette"
-154,Rechargeing Batteries,technique_detail,,"Mezzotint And heat-branding on plastic, printed in black, grey, brown,& pink"
-156,The Grand Bathroom,technique_detail,,"Engraving on plastic cut-outs, printed in black, blue, green yellow & brown vignette"
-156,The Grand Bathroom,dimensions,600 x 780 mm,780 x 600 mm
-157,Give & Take,technique_detail,,"Heat branding & dry-pointing on plastic, printed in black, blue, red, yellow & orange, vignette"
-157,Give & Take,dimensions,600 x 780 mm,780 x 600 mm
-220,Woman in Waves,technique_detail,,Photo litho
-158,Contentment or Dog Scratching it's Back,technique_detail,,"Heat branded engraved plastic & dry point, printed in black, ochre, grey & brown. vignette"
-159,Water Sculpture,technique_detail,,"Deep-bite on copper, engraving & dry-point on plastic, printed in purple, blue, brown & burnt Siena"
-190,Biplanes and Catamarans,technique_detail,,"Heat branded plastic & plastic engraving, printed in black, orange & red Vignette"
-191,Agnus Dei,technique_detail,,"Plastic engraving & mezzotint, printed in black, blue, grey red, yellow, mauve & orange"
-192,Sphinx,technique_detail,,"Computer generated photo etching & plastic engraving, printed in black, grey, blue, brown, orange & blue"
-193,The Waterhole,technique_detail,,"Photo litho, plastic engraving & woodcut, printed in black, pink, brown, green, red, grey & ochre Vignette"
-194,Colours Must Sing,technique_detail,,"Engraving on plastic, mezzotint & dry point, printed in black, red, pink, blue, orange & yellow. Vignette"
-195,Orpheus,technique_detail,,"Dry point on heat branded plastics & aquatint on copper, printed in black, red, grey, orange & green Vignette"
-196,Tournament,technique_detail,,"Brushed aquatint, line engraving, colour intaglio & surface print, printed in black, red, green-black, blue, ochre & yellow"
-197,Gipsies,technique_detail,,"Etching & aquatint, heat-branded plastic, printed in black, ochre, red, pink, orange & blue Vignette"
-198,Let the Angels Sing,technique_detail,,"Plastics engraving, heat branding & mezzotint, printed in black, blue, grey & orange"
-199,Before the Pilons Came,technique_detail,,"Engraving, heat branding & mezzotint, printed in red, blue, green, yellow & burnt Siena. Vignette"
-200,Historic Couple,technique_detail,,"Heat branded plastic, engraving, mezzotint, printed in black, blue, red, grey, yellow & brown Vignette"
-201,Weight Watcher,technique_detail,,"Etching & heat branded plastic, printed in black, ochre, pink & grey"
-201,Weight Watcher,dimensions,590 x 800 mm,780 x 600 mm
-202,Lady in a Hammock,technique_detail,,"Photo etching & line engraving on plastic, printed in black, grey & brown Vignette"
-203,The Road is Up,technique_detail,,"Heat branded plastic & dry point, printed in black, blue, red, ochre, brown & purple"
-204,Lanzarote,technique_detail,,"Heat branded plastic, dry point, etched plastic, printed in black, pink, yellow, blue, & green Vignette"
-205,Hello and Goodby,technique_detail,,"Photo litho & plastics engraving, printed in black, red, grey & yellow Vignette (Two sheets)"
-205,Hello and Goodby,dimensions,780 x 110 mm,780 x 108 mm
-206,The Bird the Snake & the Stone Lion,technique_detail,,"Brushed aquatint, line engraving on zinc & copper, Printed in purple, green, blue, brown,& mauve"
-207,Roots,technique_detail,,"Plastic engraving & mezzotint, printed in black, grey, green, pink, yellow & red Vignette"
-208,The Birdman,technique_detail,,"Sugar aquatint, plastic engraving"
-209,Allegory,technique_detail,,"Engraving & heat branding & mezzotint on plastic, printed on black, yellow, pink & blue Vignette"
-209,Allegory,date,1976,1985
-210,Mother Nature,technique_detail,,"Plastic engraving, printed in black, grey, burnt Siena Vignette"
-211,Shadows in a Tudor Barn,technique_detail,,"Photo litho, heat branding, engraving on plastic, printed in black, blue & orange"
-212,The Lure of Lost Cultures,technique_detail,,"Mezzotint & heat branding on plastic printed in black, brown, blue & turquoise"
-213,The Wind,technique_detail,,"Engraving, heat branding, dry point, on plastic, printed in brown, black, blue & pink. vignette"
-216,I Wish you Were Here,technique_detail,,"Etching, aquatint & coloured, plastic engraving printed in black, blue, yellow, red, green & magenta"
-217,Loops,technique_detail,,Colour aquatint & line engraving on plastic
-214,Penthouse,technique_detail,,Etching and plastics engraving
-218,And the Midgets Would Rule,technique_detail,,"Photo etching & coloured mezzotint on plastic, printed in black, grey & orange"
-219,The Silver Screen,technique_detail,,"Photo etching & coloured mezzotint on plastic, printed in green-black, pink, blue & ochre"
-221,Step into the Future,technique_detail,,"Plastic engraving, photo etching & woodcut, printed in ochre, red, blue, & black. vignette"
-221,Step into the Future,dimensions,600 x 780 mm,780 x 600 mm
-222,Airport Beach,technique_detail,,Etching and plastic engraving
-223,Ego the Goat,technique_detail,,"Photo etching, line engraving, aquatint & plastic cut-out, printed in purple black, orange & light green"
-223,Ego the Goat,dimensions,600 x 800 mm,600 x 780 mm
-224,The Dead and the Living (from triptych),technique_detail,,"Computer generated photo etching & woodcut, printed in black, raw umber & green"
-225,Titania (from triptych),technique_detail,,"Computer generated etching, line engraving & aquatint, printed in black, grey, red, green & blue"
-225,Titania (from triptych),dimensions,800 x 600 mm,780 x 600 mm
-226,Swansong (from-triptych),technique_detail,,"Line engraving & aquatint with plastic cut-outs, printed in brown-red, grey, magenta & yellow"
-228,The Venus Flytrap,technique_detail,,"Digital montage & woodcut, printed in black, blue, red green, orange & yellow"
-229,Madame Guillotine (Deptford Market),technique_detail,,"Digital montage & woodcut & Litho, printed in black, brown, purple & light green"
-230,Stallholders (Deptford Market),technique_detail,,"Digital montage with litho, aquatint & woodcut, printed in black, green, yellow, orange, blue & brown"
-230,Stallholders (Deptford Market),dimensions,600 x 780 mm,780 x 600 mm
-231,Market Vendor (Deptford Market),technique_detail,,"Digital litho, aquatint & woodcut, printed in black, red, blue, yellow & lilac"
-232,Pile them High and Sell them Cheep (Deptford Market),technique_detail,,"Digital montage, printed in black vignette"
-232,Pile them High and Sell them Cheep (Deptford Market),date,1976,1996
-232,Pile them High and Sell them Cheep (Deptford Market),dimensions,,780 x 600 mm
-17,The Reincarnation of a Cactus,technique_detail,,"Digital montage, printed in black. vignette"
-17,The Reincarnation of a Cactus,date,1996,1997
-18,The Ghost of el Greco with poem (Catalana Blanca),technique_detail,,"Digital montage, printed in black vignette"
-19,The Ghost of el Greco (Catalana Blanca),technique_detail,,"Digital montage, printed in black. vignette"
-19,The Ghost of el Greco (Catalana Blanca),dimensions,,780 x 600 mm
-20,Catalana Blanca (Catalana Blanca),technique_detail,,"Digital montage, printed in black. vignette"
-21,Nijinsky (Catalana Blanca),technique_detail,,"Digital montage, printed in black. vignette"
-22,Metamorphosis (Catalana Blanca),technique_detail,,"Photo etching, aquatint & plastic engraving, printed in black grey, red & green"
-23,Monument to a Housewife,technique_detail,,"Digital montage, printed in black Vignette"
-24,Still life with Beans,technique_detail,,Digital litho and watercolour
-25,From Van Gogh to Einstein,technique_detail,,"Digital montage with litho, aquatint & woodcut, Vignette (Several sizes)"
-26,The bowels of the earth,technique_detail,,Digital litho & aquatint. Vignette
-26,The bowels of the earth,dimensions,780 x 600 mm,600 x 780 mm
-27,Palmroots Searching for Water,technique_detail,,Digital montage & plastic engraving
-8,In the Patio,technique_detail,,Digital print and woodcut
-8,In the Patio,date,2011,1997
-29,"Getting High, (kite made of orange peel, wire & rubber band)",technique_detail,,Digital montage. vignette
-29,"Getting High, (kite made of orange peel, wire & rubber band)",date,1996,1998
-30,Twiggy - Face,technique_detail,,Digital montage. vignette
-30,Twiggy - Face,dimensions,900 x 630 mm,900 x 680 mm
-31,Twiggy - Nude,technique_detail,,Digital montage printed in black vignette
-32,Nunhead Cemetery,technique_detail,,"Digital montage, plastic engraving & woodcut, printed in black, brown, red, green & yellow vignette"
-33,The Collector,technique_detail,,Etching and surface print
-34,Figs and Old Rope,technique_detail,,Digital montage and wood cut
-34,Figs and Old Rope,dimensions,600 x 800 mm,760 x 560 mm
-35,Sheets Drying (Washday),technique_detail,,Digital montage printed in black. vignette
-36,Mantegna's Kitche (Washday),technique_detail,,Digital montage printed in black. vignette
-37,Annunciation (Washday),technique_detail,,Digital montage. vignette
-38,Sheets & Hay (Washday),technique_detail,,Digital montage. vignette
-39,Sheets with Flowers & Basket (Washday),technique_detail,,Digital montage. Vignette
-39,Sheets with Flowers & Basket (Washday),dimensions,,630 x 900 mm
-40,Sheet & cooking pot (Washday),technique_detail,,Digital montage. Vignette
-41,Fishwife (Washday),technique_detail,,Digital montage. Vignette
-42,Sheet sculpture (Washday),technique_detail,,"Digital montage, watercolour. Vignette"
-43,Dawn (Helios),technique_detail,,"Digital montage, watercolour. Vignette"
-43,Dawn (Helios),dimensions,,680 x 780 mm
-44,Morning (Helios),technique_detail,,"Digital montage, watercolour. Vignette"
-44,Morning (Helios),dimensions,,900 x 700 mm
-45,Midday (Helios),technique_detail,,"Digital montage, watercolour. Vignette"
-45,Midday (Helios),dimensions,,900 x 640 mm
-46,Dusk (Helios),technique_detail,,"Digital montage, watercolour. Vignette"
-46,Dusk (Helios),dimensions,,680 x 780 mm
-47,The cockerel Sheherezade (Helios),technique_detail,,Digital montage Vignette
-47,The cockerel Sheherezade (Helios),dimensions,,830 x 670 mm
-48,Tablewear,technique_detail,,"Digital montage, watercolour. Vignette"
-49,Variable Lights,technique_detail,,"Line engraving & woodcut printed in black, red, blue, yellow, green, brown, mauve, orange & ochre"
-49,Variable Lights,dimensions,107 x 60 mm,107 x 760 mm
-50,Mobius Striptease,technique_detail,,Litho & brushed sand in acrylic box
-51,Book of Sand Cover (Artists Book with poems by David Gascoyne),technique_detail,,Line engraving on acrylic
-51,Book of Sand Cover (Artists Book with poems by David Gascoyne),date,1996,2001
-51,Book of Sand Cover (Artists Book with poems by David Gascoyne),dimensions,,340 x 280 mm
-53,Blake (The Book of Sand),technique_detail,,Digital montage. vignette
-54,Men seen afar (The Book of Sand),technique_detail,,Digital montage. vignette
-55,Winged Creatures (The Book of Sand),technique_detail,,Digital montage. vignette
-55,Winged Creatures (The Book of Sand),dimensions,780 x 530 mm,800 x 530 mm
-56,The Round Dance (The Book of Sand),technique_detail,,Digital montage. Vignette
-56,The Round Dance (The Book of Sand),dimensions,900 x 630 mm,630 x 900 mm
-57,The Janus Gaze (The Book of Sand),technique_detail,,Digital montage. Vignette
-57,The Janus Gaze (The Book of Sand),dimensions,800 x 590 mm,800 x 630 mm
-58,Patterns Flow Like Rivers (The Book of Sand),technique_detail,,Digital montage. Vignette
-58,Patterns Flow Like Rivers (The Book of Sand),dimensions,,900 x 630 mm
-59,Women Waiting fot their Lovers (The Book of Sand),technique_detail,,Digital montage. Vignette
-59,Women Waiting fot their Lovers (The Book of Sand),dimensions,,900 x 630 mm
-52,The Spanish Couple (The Book of Sand),technique_detail,,Digital montage
-60,Prelimilaries to Farewell (The Book of Sand),technique_detail,,Digital montage. Vignette
-60,Prelimilaries to Farewell (The Book of Sand),dimensions,,630 x 900 mm
-61,The Desert (Ghost Stories),technique_detail,,Digital montage Vignette
-62,Scarecrows and Ghosts (Ghost Stories),technique_detail,,Digital montage. Vignette
-63,Scare Crow and Rabbit Scare (Ghost Stories),technique_detail,,Digital montage & watercolour Vignette
-63,Scare Crow and Rabbit Scare (Ghost Stories),dimensions,,780 x 600 mm
-64,Dejeuner sans Herbes (Ghost Stories),technique_detail,,Digital montage and watercolour
-65,Ghost Story (Ghost Stories),technique_detail,,Chair Persons
-66,Chair Persons,technique_detail,,Digital montage Vignette
-160,No Exit (Shipyard),technique_detail,,Digital montage & watercolour Vignette
-160,No Exit (Shipyard),dimensions,1180 x 790 mm,1180 x 600 mm
-161,Shipyard Aerial View (Shipyard),technique_detail,,Digital montage & watercolour Vignette
-162,Figurehead (Shipyard),technique_detail,,Digital montage. Vignette
-163,Augustine's Shipyard (Shipyard),technique_detail,,"Digital montage & woodcut, printed in black, orange, blue, yellow & raw umber. Vignette"
-164,Kabuki 1 (Shipyard),technique_detail,,"Digital montage and woodcut, printed in black, Vignette"
-164,Kabuki 1 (Shipyard),dimensions,880 x 800 mm,850 x 800 mm
-165,Odyssey (Shipyard),technique_detail,,Digital montage & watercolour Vignette
-165,Odyssey (Shipyard),dimensions,630 x 900 mm,600 x 900 mm
-166,Lobster Pots (Shipyard),technique_detail,,Digital montage & watercolour Vignette
-169,Refit (Shipyard),technique_detail,,Engraving with light digital print with woodcut
-170,Free (The Gates of Hell - Detail),technique_detail,,Digital montage and watercolour (Several sizes)
-171,The Gates of Hell,technique_detail,,Digital montage and watercolour
-171,The Gates of Hell,dimensions,951 x 820 mm,1350 x 900 mm
-172,Afterlife,technique_detail,,Digital print& Woodcut
-173,Another Butterfly,technique_detail,,Digital Montage with woodcut
-175,Grunewald,technique_detail,,Digital montage& Woodcut (2 versions)
-175,Grunewald,date,2004,2003
-177,Self Protection,technique_detail,,Digital montage and collage
-180,Stones in Sunlight and Moonlight (Floating World),technique_detail,,Digital montage & Woodcut
-180,Stones in Sunlight and Moonlight (Floating World),date,2002,2006
-181,The Floating World (Floating World),technique_detail,,Digital montage
-181,The Floating World (Floating World),date,2002,2006
-113,Grass,technique_detail,,Digital montage and wood cut
-113,Grass,date,2007,2006
-182,Crusade (Floating World),technique_detail,,Digital montage and wood cut
-182,Crusade (Floating World),date,2002,2006
-183,Walking on Water (Floating World),technique_detail,,Digital montage and woodcut
-183,Walking on Water (Floating World),date,2002,2006
-178,Mirage (Floating World),technique_detail,,Digital montage with woodcut
-178,Mirage (Floating World),date,2002,2006
-178,Mirage (Floating World),dimensions,800 x 600 mm,642 x 514 mm
-184,Engraved Sculpture (Floating World),technique_detail,,Digital montage and watercolour
-184,Engraved Sculpture (Floating World),date,2002,2006
-184,Engraved Sculpture (Floating World),dimensions,870 x 610 mm,750 x 560 mm
-179,Sculpture in Grass and Stubble (Floating World),technique_detail,,Digital Montage with woodcut
-179,Sculpture in Grass and Stubble (Floating World),date,2002,2006
-179,Sculpture in Grass and Stubble (Floating World),dimensions,1005 x 960 mm,1070 x 680 mm
-188,Picnic,technique_detail,,Digital print (1 framed)
-188,Picnic,date,2002,2006
-188,Picnic,dimensions,920 x 1280 mm,970 x 1220 mm
-189,The Grand Memorabilia,technique_detail,,Digital montage (original Collage)
-189,The Grand Memorabilia,date,2002,2006
-189,The Grand Memorabilia,dimensions,330 x 500 mm,550 x 900 mm
-111,Amazon,technique_detail,,Plastics engraving
-111,Amazon,date,2007,2006
-111,Amazon,dimensions,670 x 760 mm,650 x 760 mm
-7,Tatjana's Letter,technique_detail,,Digital print
-7,Tatjana's Letter,date,2011,2002
-14,Lorca's Flowers,technique_detail,,Digital print
-14,Lorca's Flowers,dimensions,300 x 490 mm,300 x 210 mm
-6,Dotty Sculls,technique_detail,,Digital Print
-6,Dotty Sculls,date,2011,2013
-110,The broken fence,technique_detail,,Digital montage and surface print
-110,The broken fence,date,2007,2008
-110,The broken fence,dimensions,920 x 1280 mm,1280 x 920 mm
-368,01 Three Youths,technique_detail,,Watercolour and collage
-369,02 Airport Beach,technique_detail,,Watercolour and collage
-370,03 At the Well,technique_detail,,Watercolour and collage
-371,03 Banter,technique_detail,,Watercolour and collage
-371,03 Banter,dimensions,200 x 280 mm,280 x 200 mm
-372,04 Elders,technique_detail,,Watercolour and collage
-373,05 Girls playing Beachball,technique_detail,,Watercolour and collage
-374,06 Music and Dance,technique_detail,,Watercolour and collage
-375,07 Salome,technique_detail,,Watercolour and collage
-376,08 Sexy Woman,technique_detail,,Watercolour and collage
-377,09 The Entrance,technique_detail,,Watercolour and collage
-378,10 The Faun,technique_detail,,Watercolour and collage
-379,11 The Procession,technique_detail,,Watercolour and collage
-380,12 Woman with Bananas,technique_detail,,Watercolour collage
-409,Bikaner lake 1,technique_detail,,watercolour
-409,Bikaner lake 1,date,,2007
-410,Bikaner lake 2,technique_detail,,watercolour
-410,Bikaner lake 2,date,,2007
-411,Hill Station Aurangabad,technique_detail,,watercolour
-411,Hill Station Aurangabad,date,,2007
-417,Pottery Stall Aurangabad,technique_detail,,Watercolour
-417,Pottery Stall Aurangabad,date,,2007
-413,Pushkar Sunset,technique_detail,,watercolour
-413,Pushkar Sunset,date,,2007
-415,Taj Garden,technique_detail,,Watercolour
-415,Taj Garden,date,,2007
-416,Varanasi Gats,technique_detail,,Watercolour
-416,Varanasi Gats,date,,2007
-418,Pushkar Farmland,technique_detail,,watercolour
-418,Pushkar Farmland,date,,2007
-439,14 Mother and Daoughter on the Beach,technique_detail,,watercolour
-435,10 The Thorn,technique_detail,,watercolour
-435,10 The Thorn,dimensions,200 x 280 mm,630 x 480 mm
-440,15 Dotty Women,technique_detail,,watercolour
-440,15 Dotty Women,date,,1998
-443,18 Figures on a Cloudy Beach,technique_detail,,watercolour
-443,18 Figures on a Cloudy Beach,dimensions,430 x 590 mm,430 x 540 mm
-448,23 The Cockerel Sheherezade,technique_detail,,watercolour
-448,23 The Cockerel Sheherezade,date,2001,2002
-448,23 The Cockerel Sheherezade,dimensions,570 x 450 mm,470 x 600 mm
-455,30 The green Mine,technique_detail,,watercolour
-455,30 The green Mine,date,,1980
+site_index,title,match,field,old,new
+67,Vagabondage,exact,technique_detail,,"Deep bite, engraving & drilling. Colour viscosity printed in purple-black, orange & yellow"
+67,Vagabondage,exact,dimensions,650 x 600 mm,500 x 660 mm
+68,Saule Pleureur,exact,technique_detail,,Line engraving printed in black
+68,Saule Pleureur,exact,dimensions,600 x 500 mm,500 x 660 mm
+69,Via Siena,exact,technique_detail,,"Deep bite, aquatint, colour viscosity printed in brown, purple & orange"
+69,Via Siena,exact,dimensions,650 x 600 mm,500 x 660 mm
+71,Croisement des Chemins,exact,technique_detail,,"Scraper engraving, aquatint. Colour viscosity print in black orange & blue"
+72,Maree,exact,technique_detail,,"Etching & engraving, deep bite. Colour viscosity print in red and blue"
+73,Apres la Moisson,exact,technique_detail,,"Scraper sculpted plate, engraving. Colour viscosity print in purple-black, blue & yellow"
+74,Le Bois Endormant,exact,technique_detail,,"Deep etching with line etching, scraper engraving. Colour viscosity print in black, yellow and green"
+75,Midi,exact,technique_detail,,"Deep bite, engraving. Colour viscosity print in black, blue & red"
+76,Libellule,exact,technique_detail,,Line engraving printed in black
+77,Vue sur la Montagne,exact,technique_detail,,"Deep bite, colour viscosity print in black, blue, orange & olive"
+78,Pluie d'Avril,exact,technique_detail,,"Deep bite, Scraper engraving, aquatint. Colour viscosity print in blue-black, and orange"
+79,Troubled Square,exact,technique_detail,,"Deep bitten & cut plate. Colour viscosity print in black, blue & orange"
+79,Troubled Square,exact,dimensions,800 x 590 mm,780 x 600 mm
+80,Fumee,exact,technique_detail,,Line engraving printed in black
+80,Fumee,exact,dimensions,800 x 590 mm,500 x 660 mm
+81,Peacock,exact,technique_detail,,"Deep bite, gauge & scraper engraving. Colour viscosity print in orange, brown & purple"
+82,Hopfields,exact,technique_detail,,Line engraving printed in black
+82,Hopfields,exact,dimensions,690 x 400 mm,590 x 410 mm
+83,Petroushka (triptych),exact,technique_detail,,"Pressed metal relief, intaglio & surface printed in black 2 part vignette"
+83,Petroushka (triptych),exact,dimensions,262 x 251 mm,500 x 650 mm
+84,Electronics for Beginners,exact,technique_detail,,"Deep bite, engraving & drilling. Colour viscosity print in blue-black, red & yellow"
+84,Electronics for Beginners,exact,dimensions,660 x 500 mm,780 x 600 mm
+85,Suffragette,exact,technique_detail,,Pressed metal collage & engraving printed in red & black
+86,Foundry,exact,technique_detail,,"Deep bite, line engraving, drilling, printed in brown-black & red"
+86,Foundry,exact,dimensions,300 x 340 mm,390 x 570 mm
+87,Outsiders,exact,technique_detail,,"Deep bite, aquatint & dry point, printed in black, grey, red,& green vignette"
+88,Box Shapes,exact,technique_detail,,"Aquatint & hardboard cut outs printed in black, ochre, and blue-black"
+88,Box Shapes,exact,dimensions,600 x 780 mm,580 x 570 mm
+89,Two Cultures,exact,technique_detail,,"Photo gravure, dry point, engraving & brass cut out Printed in black green, yellow, brown & red vignette"
+90,Petra,exact,technique_detail,,Line engraving & deep bite printed in black vignette
+91,Le Balcon by Jean Genet (Artist's boo title page 1),exact,technique_detail,,"Line engraving, photo etching, gilding. Colour viscosity print printed in black, orange, & pink"
+91,Le Balcon by Jean Genet (Artist's boo title page 1),exact,date,1959,1964
+91,Le Balcon by Jean Genet (Artist's boo title page 1),exact,dimensions,,640 x 500 mm
+92,The General (Le Balcon.. page 2),exact,technique_detail,,Line-engraving & aquatint printed in black. Gilded
+92,The General (Le Balcon.. page 2),exact,dimensions,670 x 500 mm,640 x 500 mm
+93,The Judge (Le Balcon.. page 3),exact,technique_detail,,"Line-engraving, aquatint, soft ground etching & drilling, printed in black"
+93,The Judge (Le Balcon.. page 3),exact,dimensions,670 x 500 mm,640 x 500 mm
+94,Chantal (Le Balcon.. page 4),exact,technique_detail,,"Line-engraving, aquatint, drilling printed in black, red, blue. Gilded"
+94,Chantal (Le Balcon.. page 4),exact,dimensions,670 x 500 mm,640 x 500 mm
+95,Mme. The Queen (Le Balcon.. page 5),exact,technique_detail,,"Sugar aquatint, printed in black, red & yellow"
+95,Mme. The Queen (Le Balcon.. page 5),exact,dimensions,670 x 500 mm,640 x 500 mm
+96,The Bishop (Le Balcon.. page 6),exact,technique_detail,,"Line-engraving, aquatint & drilling, printed in black. Gilded"
+96,The Bishop (Le Balcon.. page 6),exact,dimensions,670 x 500 mm,640 x 500 mm
+97,The Orator & the Crowd (Le Balcon.. page 7) jpg,exact,technique_detail,,"Line-engraving, hammered & cut plate. Colour viscosity print in red, blue, & black"
+97,The Orator & the Crowd (Le Balcon.. page 7) jpg,exact,dimensions,,640 x 500 mm
+98,The Queen (Le Balcon.. page 8),exact,technique_detail,,"Line-engraving, soft ground, open bite & drilling, printed in black and yellow"
+98,The Queen (Le Balcon.. page 8),exact,dimensions,670 x 500 mm,640 x 500 mm
+99,Mausoleum for the chief of the secret police (Le Balcon),exact,technique_detail,,"Line engraving, sugar aquatint, metal mesh cut-out drilled. Printed in black & Gilded"
+99,Mausoleum for the chief of the secret police (Le Balcon),exact,date,1959,1964
+99,Mausoleum for the chief of the secret police (Le Balcon),exact,dimensions,,640 x 500 mm
+100,Everyday Irreality (Le Balcon.. page 10) 67,exact,technique_detail,,"Line engraving, sugar aquatint, photo etching drilled. Printed in black. Mirror foil collage"
+100,Everyday Irreality (Le Balcon.. page 10) 67,exact,dimensions,,640 x 500 mm
+101,The Fire (Le Balcon.. page 11),exact,technique_detail,,"Brushed aquatint & deep bite, printed in black, red & mauve"
+101,The Fire (Le Balcon.. page 11),exact,dimensions,670 x 500 mm,640 x 500 mm
+102,Blind Landing,exact,technique_detail,,"Pressed & extruded metal, surface & intaglio print. Vignette. Printed in black, green & red"
+103,Beemaster,exact,technique_detail,,"Deep etched, engraved & drilled. Colour viscosity printed in blue & orange. vignette"
+104,The Artists Skin,exact,technique_detail,,Hammered & woven brass vignette. Printed in brown & orange. vignette
+104,The Artists Skin,exact,date,1959,1965
+104,The Artists Skin,exact,dimensions,800 x 590 mm,800 x 600 mm
+105,The Miracle Worker,exact,technique_detail,,"Line engraving, letter punch, hammered, surface & intaglio, printed in black. Vignette"
+105,The Miracle Worker,exact,dimensions,780 x 600 mm,580 x 460 mm
+106,Mass Hysteria,exact,technique_detail,,"Deep-bite, drilling & metal foil collage printed in black, brown, ochre & red"
+106,Mass Hysteria,exact,dimensions,780 x 600 mm,580 x 460 mm
+107,Curven Gallert Exhibition Poster,exact,technique_detail,,"Folded bronze cut out, line engraving & litho vignette. Printed in black, yellow & red. vignette"
+108,Meltingpoint,exact,technique_detail,,"Deep-bite drilling. Colour viscosity print in black, red & mauve"
+108,Meltingpoint,exact,dimensions,780 x 600 mm,800 x 590 mm
+109,The Escapist,exact,dimensions,780 x 600 mm,800 x 600 mm
+116,Sappho,exact,technique_detail,,"Line engraving, & brass cut-out, printed in black, ochre, pink & red"
+117,The Wise and Foolish Virgin,exact,technique_detail,,"Line engraving, aquatint, hammered brass, photogravure & plastic engraving, printed in black, blue & yellow"
+118,Old Wife's Tale,exact,technique_detail,,"Line engraving, aquatint & surface rolled brass, printed in black, ochre, pink & red"
+119,Play,exact,technique_detail,,"Photogravure, aquatint, cutout & rope. Vignette. Printed in black, green, magenta, yellow & gray"
+120,Pool on the 30th Floor,exact,technique_detail,,"Line engraving, aquatint, drypoint & metal cut-out vignette. Printed in blue, grey, red,& ultramarine"
+121,Three new Creatures,exact,technique_detail,,"Deep bite, dry point, heat branded plastic, printed in blue, red, black, yellow, mauve & ochre"
+122,Diver and Dreamer,exact,technique_detail,,"Deep bite, aquatint& plastic engraving, printed in purple-black, ochre, orange, & yellow vignette"
+122,Diver and Dreamer,exact,dimensions,780 x 600 mm,800 x 600 mm
+123,Observed in High Spirits,exact,technique_detail,,"Deep bite, aquatint, surface rolled brass cut out, printed in black, brown, yellow, red, green, & blue"
+123,Observed in High Spirits,exact,dimensions,780 x 600 mm,600 x 780 mm
+124,By the Drunken Photographer,exact,technique_detail,,"Line engraving, aquatint & surface rolled brass cut out, printed in black, green & brown"
+125,Discarded Dreams,exact,technique_detail,,"Line engraving, surface rolled brass cut out, printed in black, red, ochre, blue & green"
+125,Discarded Dreams,exact,dimensions,780 x 600 mm,600 x 780 mm
+126,Green People,exact,technique_detail,,"Photo etching, deep bite & surface printed brass cut out. vignette"
+126,Green People,exact,dimensions,780 x 600 mm,800 x 600 mm
+127,Birds,exact,technique_detail,,"Photo etched intaglio & plastic cut out, printed in blue-black, green, blue & yellow"
+128,Six Months in the Air,exact,technique_detail,,"Deep etched, engraved, aquatint brass cut out, printed in brown-black, red, yellow, pink & purple"
+129,Balance,exact,technique_detail,,"Line engraving, aquatint, dry point, brass cut out, printed in black, blue, yellow & green Vignette"
+130,"Bird, Land and Ribs",exact,technique_detail,,"Deep bite, etching, aquatint & stencil, printed in black & blue Vignette"
+131,Danger,exact,technique_detail,,"Photo etching & mezzotint on plastics, printed in green black, blue-black, yellow, brown, & green"
+132,Bravado,exact,technique_detail,,"Etching & deep bite with brass cut outs, printed in black, red, yellow, purple,& ochre Vignette"
+133,Beginning,exact,technique_detail,,"Line engraving, aquatint & brass cut out, printed in black, red, & yellow Vignette"
+134,Heroes in Perspective,exact,technique_detail,,"Heat branded plastic, photo etching & line engraving, printed in black, blue, ochre & red Vignette"
+134,Heroes in Perspective,exact,dimensions,600 x 780 mm,600 x 789 mm
+135,Temptations,exact,technique_detail,,"Sugar aquatint, deep bite, machine-engraving & heat branded plastic, printed in blue-black, brown, pink, magenta & turquoise"
+136,The Sculpture Garden,exact,technique_detail,,"Line engraving, aquatint, with dry point on plastics, printed in green-black, red & yellow Vignette"
+136,The Sculpture Garden,exact,dimensions,600 x 780 mm,600 x 800 mm
+137,Posessions,exact,technique_detail,,"Dry point on plastics, etching, aquatint on copper printed in green-black, red & yellow Vignette"
+137,Posessions,exact,dimensions,780 x 600 mm,800 x 600 mm
+138,Shell,exact,technique_detail,,"Multi layered plastic cut out, dry point, engraving, printed in brown, mauve, blue, yellow, red & olive green Vignette"
+138,Shell,exact,dimensions,780 x 600 mm,800 x 600 mm
+139,New Dove,exact,technique_detail,,"Computer generated litho & surface print in black, grey, red & orange Vignette"
+139,New Dove,exact,dimensions,780 x 600 mm,800 x 600 mm
+140,The Preservation of Life,exact,technique_detail,,"Line engraving & dry point on plastic, printed in blue, brown & olive Vignette"
+140,The Preservation of Life,exact,dimensions,780 x 600 mm,800 x 600 mm
+141,Starlet,exact,technique_detail,,"Folded, hammered brass & extruded metal cut-out, printed in blue, black with mirror foil applied Vignette"
+141,Starlet,exact,dimensions,780 x 600 mm,800 x 600 mm
+142,Virtuosos,exact,technique_detail,,"Line engraving, aquatint & brass cut outs, printed in brown-black, grey yellow, red & olive"
+143,Homes,exact,technique_detail,,"Dry point on plastic, printed in brown-black & green Vignette"
+143,Homes,exact,dimensions,780 x 600 mm,600 x 780 mm
+144,Dark Satanic Mills,exact,technique_detail,,"Photo etching, heat branded plastic & plastic engraving, printed in brown-black, grey & green"
+145,Blueprint for Survival,exact,technique_detail,,"Photo etching & plastic engraving, printed in purple-black, blue, orange & purple"
+146,Sunbathers,exact,technique_detail,,"Plastic engraving, dry point & aquatint, printed in blue, green, orange, mauve & turquoise"
+147,Let's go and Watch,exact,technique_detail,,"Photo etching, line engraving, soft ground & plastic engraving, printed in black, yellow, red & green. vignette"
+148,Swinger,exact,technique_detail,,"Machine engraved and heat-branded plastics, dry point, and mezzotint, printed in black, blue, red, ochre & magenta vignette"
+149,Watching the Garden Grow,exact,technique_detail,,"Heat branded plastic & mezzotint, printed in black, blue, yellow, & ochre. vignette"
+149,Watching the Garden Grow,exact,dimensions,,780 x 600 mm
+150,Nocturn,exact,technique_detail,,"Line engraving & aquatint on copper & dry pointed plastic, printed in black, brown, blue & mauve vignette"
+151,By the Drunken Photographer,exact,technique_detail,,"Line engraving, aquatint & folded brass cut-outs, printed in black, green & brown"
+152,On the Farm,exact,technique_detail,,"Heat branded plastic, bubble wrap, dry point, printed in black, blue, red & ochre vignette"
+153,Bougainvillea,exact,technique_detail,,"Line engraving & mezzotint on copper & heat branded plastic, printed in black, red, blue, yellow & brown. vignette"
+154,Rechargeing Batteries,exact,technique_detail,,"Mezzotint And heat-branding on plastic, printed in black, grey, brown,& pink"
+155,nossos,probable,technique_detail,,"Aquatint, on zinc, plastic engraving, printed red, green, blue, with pink & white plastic collage. vignette"
+155,nossos,probable,dimensions,600 x 780 mm,780 x 600 mm
+156,The Grand Bathroom,exact,technique_detail,,"Engraving on plastic cut-outs, printed in black, blue, green yellow & brown vignette"
+156,The Grand Bathroom,exact,dimensions,600 x 780 mm,780 x 600 mm
+157,Give & Take,exact,technique_detail,,"Heat branding & dry-pointing on plastic, printed in black, blue, red, yellow & orange, vignette"
+157,Give & Take,exact,dimensions,600 x 780 mm,780 x 600 mm
+220,Woman in Waves,exact,technique_detail,,Photo litho
+158,Contentment or Dog Scratching it's Back,exact,technique_detail,,"Heat branded engraved plastic & dry point, printed in black, ochre, grey & brown. vignette"
+159,Water Sculpture,exact,technique_detail,,"Deep-bite on copper, engraving & dry-point on plastic, printed in purple, blue, brown & burnt Siena"
+190,Biplanes and Catamarans,exact,technique_detail,,"Heat branded plastic & plastic engraving, printed in black, orange & red Vignette"
+191,Agnus Dei,exact,technique_detail,,"Plastic engraving & mezzotint, printed in black, blue, grey red, yellow, mauve & orange"
+192,Sphinx,exact,technique_detail,,"Computer generated photo etching & plastic engraving, printed in black, grey, blue, brown, orange & blue"
+193,The Waterhole,exact,technique_detail,,"Photo litho, plastic engraving & woodcut, printed in black, pink, brown, green, red, grey & ochre Vignette"
+194,Colours Must Sing,exact,technique_detail,,"Engraving on plastic, mezzotint & dry point, printed in black, red, pink, blue, orange & yellow. Vignette"
+195,Orpheus,exact,technique_detail,,"Dry point on heat branded plastics & aquatint on copper, printed in black, red, grey, orange & green Vignette"
+196,Tournament,exact,technique_detail,,"Brushed aquatint, line engraving, colour intaglio & surface print, printed in black, red, green-black, blue, ochre & yellow"
+197,Gipsies,exact,technique_detail,,"Etching & aquatint, heat-branded plastic, printed in black, ochre, red, pink, orange & blue Vignette"
+198,Let the Angels Sing,exact,technique_detail,,"Plastics engraving, heat branding & mezzotint, printed in black, blue, grey & orange"
+199,Before the Pilons Came,exact,technique_detail,,"Engraving, heat branding & mezzotint, printed in red, blue, green, yellow & burnt Siena. Vignette"
+200,Historic Couple,exact,technique_detail,,"Heat branded plastic, engraving, mezzotint, printed in black, blue, red, grey, yellow & brown Vignette"
+201,Weight Watcher,exact,technique_detail,,"Etching & heat branded plastic, printed in black, ochre, pink & grey"
+201,Weight Watcher,exact,dimensions,590 x 800 mm,780 x 600 mm
+202,Lady in a Hammock,exact,technique_detail,,"Photo etching & line engraving on plastic, printed in black, grey & brown Vignette"
+203,The Road is Up,exact,technique_detail,,"Heat branded plastic & dry point, printed in black, blue, red, ochre, brown & purple"
+204,Lanzarote,exact,technique_detail,,"Heat branded plastic, dry point, etched plastic, printed in black, pink, yellow, blue, & green Vignette"
+205,Hello and Goodby,exact,technique_detail,,"Photo litho & plastics engraving, printed in black, red, grey & yellow Vignette (Two sheets)"
+205,Hello and Goodby,exact,dimensions,780 x 110 mm,780 x 108 mm
+206,The Bird the Snake & the Stone Lion,exact,technique_detail,,"Brushed aquatint, line engraving on zinc & copper, Printed in purple, green, blue, brown,& mauve"
+207,Roots,exact,technique_detail,,"Plastic engraving & mezzotint, printed in black, grey, green, pink, yellow & red Vignette"
+208,The Birdman,exact,technique_detail,,"Sugar aquatint, plastic engraving"
+209,Allegory,exact,technique_detail,,"Engraving & heat branding & mezzotint on plastic, printed on black, yellow, pink & blue Vignette"
+209,Allegory,exact,date,1976,1985
+210,Mother Nature,exact,technique_detail,,"Plastic engraving, printed in black, grey, burnt Siena Vignette"
+211,Shadows in a Tudor Barn,exact,technique_detail,,"Photo litho, heat branding, engraving on plastic, printed in black, blue & orange"
+212,The Lure of Lost Cultures,exact,technique_detail,,"Mezzotint & heat branding on plastic printed in black, brown, blue & turquoise"
+213,The Wind,exact,technique_detail,,"Engraving, heat branding, dry point, on plastic, printed in brown, black, blue & pink. vignette"
+216,I Wish you Were Here,exact,technique_detail,,"Etching, aquatint & coloured, plastic engraving printed in black, blue, yellow, red, green & magenta"
+217,Loops,exact,technique_detail,,Colour aquatint & line engraving on plastic
+214,Penthouse,exact,technique_detail,,Etching and plastics engraving
+218,And the Midgets Would Rule,exact,technique_detail,,"Photo etching & coloured mezzotint on plastic, printed in black, grey & orange"
+219,The Silver Screen,exact,technique_detail,,"Photo etching & coloured mezzotint on plastic, printed in green-black, pink, blue & ochre"
+221,Step into the Future,exact,technique_detail,,"Plastic engraving, photo etching & woodcut, printed in ochre, red, blue, & black. vignette"
+221,Step into the Future,exact,dimensions,600 x 780 mm,780 x 600 mm
+222,Airport Beach,exact,technique_detail,,Etching and plastic engraving
+223,Ego the Goat,exact,technique_detail,,"Photo etching, line engraving, aquatint & plastic cut-out, printed in purple black, orange & light green"
+223,Ego the Goat,exact,dimensions,600 x 800 mm,600 x 780 mm
+224,The Dead and the Living (from triptych),exact,technique_detail,,"Computer generated photo etching & woodcut, printed in black, raw umber & green"
+225,Titania (from triptych),exact,technique_detail,,"Computer generated etching, line engraving & aquatint, printed in black, grey, red, green & blue"
+225,Titania (from triptych),exact,dimensions,800 x 600 mm,780 x 600 mm
+226,Swansong (from-triptych),exact,technique_detail,,"Line engraving & aquatint with plastic cut-outs, printed in brown-red, grey, magenta & yellow"
+228,The Venus Flytrap,exact,technique_detail,,"Digital montage & woodcut, printed in black, blue, red green, orange & yellow"
+229,Madame Guillotine (Deptford Market),exact,technique_detail,,"Digital montage & woodcut & Litho, printed in black, brown, purple & light green"
+230,Stallholders (Deptford Market),exact,technique_detail,,"Digital montage with litho, aquatint & woodcut, printed in black, green, yellow, orange, blue & brown"
+230,Stallholders (Deptford Market),exact,dimensions,600 x 780 mm,780 x 600 mm
+231,Market Vendor (Deptford Market),exact,technique_detail,,"Digital litho, aquatint & woodcut, printed in black, red, blue, yellow & lilac"
+232,Pile them High and Sell them Cheep (Deptford Market),exact,technique_detail,,"Digital montage, printed in black vignette"
+232,Pile them High and Sell them Cheep (Deptford Market),exact,date,1976,1996
+232,Pile them High and Sell them Cheep (Deptford Market),exact,dimensions,,780 x 600 mm
+17,The Reincarnation of a Cactus,exact,technique_detail,,"Digital montage, printed in black. vignette"
+17,The Reincarnation of a Cactus,exact,date,1996,1997
+18,The Ghost of el Greco with poem (Catalana Blanca),exact,technique_detail,,"Digital montage, printed in black vignette"
+19,The Ghost of el Greco (Catalana Blanca),exact,technique_detail,,"Digital montage, printed in black. vignette"
+19,The Ghost of el Greco (Catalana Blanca),exact,dimensions,,780 x 600 mm
+20,Catalana Blanca (Catalana Blanca),exact,technique_detail,,"Digital montage, printed in black. vignette"
+21,Nijinsky (Catalana Blanca),exact,technique_detail,,"Digital montage, printed in black. vignette"
+22,Metamorphosis (Catalana Blanca),exact,technique_detail,,"Photo etching, aquatint & plastic engraving, printed in black grey, red & green"
+23,Monument to a Housewife,exact,technique_detail,,"Digital montage, printed in black Vignette"
+24,Still life with Beans,exact,technique_detail,,Digital litho and watercolour
+25,From Van Gogh to Einstein,exact,technique_detail,,"Digital montage with litho, aquatint & woodcut, Vignette (Several sizes)"
+26,The bowels of the earth,exact,technique_detail,,Digital litho & aquatint. Vignette
+26,The bowels of the earth,exact,dimensions,780 x 600 mm,600 x 780 mm
+27,Palmroots Searching for Water,exact,technique_detail,,Digital montage & plastic engraving
+8,In the Patio,exact,technique_detail,,Digital print and woodcut
+8,In the Patio,exact,date,2011,1997
+29,"Getting High, (kite made of orange peel, wire & rubber band)",exact,technique_detail,,Digital montage. vignette
+29,"Getting High, (kite made of orange peel, wire & rubber band)",exact,date,1996,1998
+30,Twiggy - Face,exact,technique_detail,,Digital montage. vignette
+30,Twiggy - Face,exact,dimensions,900 x 630 mm,900 x 680 mm
+31,Twiggy - Nude,exact,technique_detail,,Digital montage printed in black vignette
+32,Nunhead Cemetery,exact,technique_detail,,"Digital montage, plastic engraving & woodcut, printed in black, brown, red, green & yellow vignette"
+33,The Collector,exact,technique_detail,,Etching and surface print
+34,Figs and Old Rope,exact,technique_detail,,Digital montage and wood cut
+34,Figs and Old Rope,exact,dimensions,600 x 800 mm,760 x 560 mm
+35,Sheets Drying (Washday),exact,technique_detail,,Digital montage printed in black. vignette
+36,Mantegna's Kitche (Washday),exact,technique_detail,,Digital montage printed in black. vignette
+37,Annunciation (Washday),exact,technique_detail,,Digital montage. vignette
+38,Sheets & Hay (Washday),exact,technique_detail,,Digital montage. vignette
+39,Sheets with Flowers & Basket (Washday),exact,technique_detail,,Digital montage. Vignette
+39,Sheets with Flowers & Basket (Washday),exact,dimensions,,630 x 900 mm
+40,Sheet & cooking pot (Washday),exact,technique_detail,,Digital montage. Vignette
+41,Fishwife (Washday),exact,technique_detail,,Digital montage. Vignette
+42,Sheet sculpture (Washday),exact,technique_detail,,"Digital montage, watercolour. Vignette"
+501,05 Self defence,probable,technique_detail,,Digital collage in colour
+501,05 Self defence,probable,date,2005,2001
+501,05 Self defence,probable,dimensions,560 x 810 mm,530 x 760 mm
+43,Dawn (Helios),exact,technique_detail,,"Digital montage, watercolour. Vignette"
+43,Dawn (Helios),exact,dimensions,,680 x 780 mm
+44,Morning (Helios),exact,technique_detail,,"Digital montage, watercolour. Vignette"
+44,Morning (Helios),exact,dimensions,,900 x 700 mm
+45,Midday (Helios),exact,technique_detail,,"Digital montage, watercolour. Vignette"
+45,Midday (Helios),exact,dimensions,,900 x 640 mm
+46,Dusk (Helios),exact,technique_detail,,"Digital montage, watercolour. Vignette"
+46,Dusk (Helios),exact,dimensions,,680 x 780 mm
+47,The cockerel Sheherezade (Helios),exact,technique_detail,,Digital montage Vignette
+47,The cockerel Sheherezade (Helios),exact,dimensions,,830 x 670 mm
+48,Tablewear,exact,technique_detail,,"Digital montage, watercolour. Vignette"
+49,Variable Lights,exact,technique_detail,,"Line engraving & woodcut printed in black, red, blue, yellow, green, brown, mauve, orange & ochre"
+49,Variable Lights,exact,dimensions,107 x 60 mm,107 x 760 mm
+50,Mobius Striptease,exact,technique_detail,,Litho & brushed sand in acrylic box
+51,Book of Sand Cover (Artists Book with poems by David Gascoyne),exact,technique_detail,,Line engraving on acrylic
+51,Book of Sand Cover (Artists Book with poems by David Gascoyne),exact,date,1996,2001
+51,Book of Sand Cover (Artists Book with poems by David Gascoyne),exact,dimensions,,340 x 280 mm
+53,Blake (The Book of Sand),exact,technique_detail,,Digital montage. vignette
+54,Men seen afar (The Book of Sand),exact,technique_detail,,Digital montage. vignette
+55,Winged Creatures (The Book of Sand),exact,technique_detail,,Digital montage. vignette
+55,Winged Creatures (The Book of Sand),exact,dimensions,780 x 530 mm,800 x 530 mm
+56,The Round Dance (The Book of Sand),exact,technique_detail,,Digital montage. Vignette
+56,The Round Dance (The Book of Sand),exact,dimensions,900 x 630 mm,630 x 900 mm
+57,The Janus Gaze (The Book of Sand),exact,technique_detail,,Digital montage. Vignette
+57,The Janus Gaze (The Book of Sand),exact,dimensions,800 x 590 mm,800 x 630 mm
+58,Patterns Flow Like Rivers (The Book of Sand),exact,technique_detail,,Digital montage. Vignette
+58,Patterns Flow Like Rivers (The Book of Sand),exact,dimensions,,900 x 630 mm
+59,Women Waiting fot their Lovers (The Book of Sand),exact,technique_detail,,Digital montage. Vignette
+59,Women Waiting fot their Lovers (The Book of Sand),exact,dimensions,,900 x 630 mm
+52,The Spanish Couple (The Book of Sand),exact,technique_detail,,Digital montage
+60,Prelimilaries to Farewell (The Book of Sand),exact,technique_detail,,Digital montage. Vignette
+60,Prelimilaries to Farewell (The Book of Sand),exact,dimensions,,630 x 900 mm
+61,The Desert (Ghost Stories),exact,technique_detail,,Digital montage Vignette
+62,Scarecrows and Ghosts (Ghost Stories),exact,technique_detail,,Digital montage. Vignette
+63,Scare Crow and Rabbit Scare (Ghost Stories),exact,technique_detail,,Digital montage & watercolour Vignette
+63,Scare Crow and Rabbit Scare (Ghost Stories),exact,dimensions,,780 x 600 mm
+64,Dejeuner sans Herbes (Ghost Stories),exact,technique_detail,,Digital montage and watercolour
+65,Ghost Story (Ghost Stories),exact,technique_detail,,Chair Persons
+66,Chair Persons,exact,technique_detail,,Digital montage Vignette
+160,No Exit (Shipyard),exact,technique_detail,,Digital montage & watercolour Vignette
+160,No Exit (Shipyard),exact,dimensions,1180 x 790 mm,1180 x 600 mm
+161,Shipyard Aerial View (Shipyard),exact,technique_detail,,Digital montage & watercolour Vignette
+162,Figurehead (Shipyard),exact,technique_detail,,Digital montage. Vignette
+163,Augustine's Shipyard (Shipyard),exact,technique_detail,,"Digital montage & woodcut, printed in black, orange, blue, yellow & raw umber. Vignette"
+164,Kabuki 1 (Shipyard),exact,technique_detail,,"Digital montage and woodcut, printed in black, Vignette"
+164,Kabuki 1 (Shipyard),exact,dimensions,880 x 800 mm,850 x 800 mm
+165,Odyssey (Shipyard),exact,technique_detail,,Digital montage & watercolour Vignette
+165,Odyssey (Shipyard),exact,dimensions,630 x 900 mm,600 x 900 mm
+166,Lobster Pots (Shipyard),exact,technique_detail,,Digital montage & watercolour Vignette
+169,Refit (Shipyard),exact,technique_detail,,Engraving with light digital print with woodcut
+170,Free (The Gates of Hell - Detail),exact,technique_detail,,Digital montage and watercolour (Several sizes)
+171,The Gates of Hell,exact,technique_detail,,Digital montage and watercolour
+171,The Gates of Hell,exact,dimensions,951 x 820 mm,1350 x 900 mm
+172,Afterlife,exact,technique_detail,,Digital print& Woodcut
+173,Another Butterfly,exact,technique_detail,,Digital Montage with woodcut
+175,Grunewald,exact,technique_detail,,Digital montage& Woodcut (2 versions)
+175,Grunewald,exact,date,2004,2003
+177,Self Protection,exact,technique_detail,,Digital montage and collage
+180,Stones in Sunlight and Moonlight (Floating World),exact,technique_detail,,Digital montage & Woodcut
+180,Stones in Sunlight and Moonlight (Floating World),exact,date,2002,2006
+181,The Floating World (Floating World),exact,technique_detail,,Digital montage
+181,The Floating World (Floating World),exact,date,2002,2006
+113,Grass,exact,technique_detail,,Digital montage and wood cut
+113,Grass,exact,date,2007,2006
+182,Crusade (Floating World),exact,technique_detail,,Digital montage and wood cut
+182,Crusade (Floating World),exact,date,2002,2006
+183,Walking on Water (Floating World),exact,technique_detail,,Digital montage and woodcut
+183,Walking on Water (Floating World),exact,date,2002,2006
+178,Mirage (Floating World),exact,technique_detail,,Digital montage with woodcut
+178,Mirage (Floating World),exact,date,2002,2006
+178,Mirage (Floating World),exact,dimensions,800 x 600 mm,642 x 514 mm
+184,Engraved Sculpture (Floating World),exact,technique_detail,,Digital montage and watercolour
+184,Engraved Sculpture (Floating World),exact,date,2002,2006
+184,Engraved Sculpture (Floating World),exact,dimensions,870 x 610 mm,750 x 560 mm
+179,Sculpture in Grass and Stubble (Floating World),exact,technique_detail,,Digital Montage with woodcut
+179,Sculpture in Grass and Stubble (Floating World),exact,date,2002,2006
+179,Sculpture in Grass and Stubble (Floating World),exact,dimensions,1005 x 960 mm,1070 x 680 mm
+185,Ragtime A,probable,technique_detail,,Digital montage and woodcut
+185,Ragtime A,probable,date,2002,2005
+185,Ragtime A,probable,dimensions,760 x 560 mm,750 x 560 mm
+186,Ragtime B,probable,technique_detail,,Digital montage and woodcut
+186,Ragtime B,probable,date,2002,2005
+186,Ragtime B,probable,dimensions,800 x 600 mm,750 x 560 mm
+187,Ragtime C,probable,technique_detail,,Digital print
+187,Ragtime C,probable,date,2002,2006
+187,Ragtime C,probable,dimensions,770 x 560 mm,750 x 560 mm
+188,Picnic,exact,technique_detail,,Digital print (1 framed)
+188,Picnic,exact,date,2002,2006
+188,Picnic,exact,dimensions,920 x 1280 mm,970 x 1220 mm
+189,The Grand Memorabilia,exact,technique_detail,,Digital montage (original Collage)
+189,The Grand Memorabilia,exact,date,2002,2006
+189,The Grand Memorabilia,exact,dimensions,330 x 500 mm,550 x 900 mm
+111,Amazon,exact,technique_detail,,Plastics engraving
+111,Amazon,exact,date,2007,2006
+111,Amazon,exact,dimensions,670 x 760 mm,650 x 760 mm
+7,Tatjana's Letter,exact,technique_detail,,Digital print
+7,Tatjana's Letter,exact,date,2011,2002
+14,Lorca's Flowers,exact,technique_detail,,Digital print
+14,Lorca's Flowers,exact,dimensions,300 x 490 mm,300 x 210 mm
+2,Indian Rug with Yellow Edges,probable,date,2011,2012
+2,Indian Rug with Yellow Edges,probable,dimensions,210 x 300 mm,300 x 210 mm
+4,No 2 Tissues,probable,technique_detail,,Digital print and collage
+4,No 2 Tissues,probable,date,2011,2012
+5,No 3 Tissues,probable,technique_detail,,Digital print and collage
+5,No 3 Tissues,probable,date,2011,2012
+6,Dotty Sculls,exact,technique_detail,,Digital Print
+6,Dotty Sculls,exact,date,2011,2013
+115,Indian rug with engraved sculpture,probable,technique_detail,,Digital montage and wood cut
+115,Indian rug with engraved sculpture,probable,date,2007,2008
+110,The broken fence,exact,technique_detail,,Digital montage and surface print
+110,The broken fence,exact,date,2007,2008
+110,The broken fence,exact,dimensions,920 x 1280 mm,1280 x 920 mm
+358,01 To challenge.jpg,probable,technique_detail,,Digital montage & Collage
+359,02 Choose Life,probable,technique_detail,,Digital montage & Collage
+360,03 Music Turns Back Clock,probable,technique_detail,,Digital montage & Collage
+361,04 Inspire Dreams,probable,technique_detail,,Digital montage
+363,06 Listen to the Heart,probable,technique_detail,,Digital montage
+365,08 Just a New Promise,probable,technique_detail,,Digital print
+362,05 Finding reasons,probable,technique_detail,,digital print
+362,05 Finding reasons,probable,dimensions,600 x 460 mm,297 x 210 mm
+364,07 Old Master 42005,probable,technique_detail,,digital print
+364,07 Old Master 42005,probable,date,,2005
+364,07 Old Master 42005,probable,dimensions,60 x 620 mm,297 x 210 mm
+368,01 Three Youths,exact,technique_detail,,Watercolour and collage
+369,02 Airport Beach,exact,technique_detail,,Watercolour and collage
+370,03 At the Well,exact,technique_detail,,Watercolour and collage
+371,03 Banter,exact,technique_detail,,Watercolour and collage
+371,03 Banter,exact,dimensions,200 x 280 mm,280 x 200 mm
+372,04 Elders,exact,technique_detail,,Watercolour and collage
+373,05 Girls playing Beachball,exact,technique_detail,,Watercolour and collage
+374,06 Music and Dance,exact,technique_detail,,Watercolour and collage
+375,07 Salome,exact,technique_detail,,Watercolour and collage
+376,08 Sexy Woman,exact,technique_detail,,Watercolour and collage
+377,09 The Entrance,exact,technique_detail,,Watercolour and collage
+378,10 The Faun,exact,technique_detail,,Watercolour and collage
+379,11 The Procession,exact,technique_detail,,Watercolour and collage
+380,12 Woman with Bananas,exact,technique_detail,,Watercolour collage
+408,Backdrop Aurangabad,probable,technique_detail,,watercolour
+408,Backdrop Aurangabad,probable,date,,2007
+407,Aurangabad Mill,probable,technique_detail,,watercolour
+407,Aurangabad Mill,probable,date,,2007
+407,Aurangabad Mill,probable,dimensions,520 x 380 mm,520 x 350 mm
+409,Bikaner lake 1,exact,technique_detail,,watercolour
+409,Bikaner lake 1,exact,date,,2007
+410,Bikaner lake 2,exact,technique_detail,,watercolour
+410,Bikaner lake 2,exact,date,,2007
+411,Hill Station Aurangabad,exact,technique_detail,,watercolour
+411,Hill Station Aurangabad,exact,date,,2007
+412,Desert with Trees Bikaner,probable,technique_detail,,watercolour
+412,Desert with Trees Bikaner,probable,date,,2007
+417,Pottery Stall Aurangabad,exact,technique_detail,,Watercolour
+417,Pottery Stall Aurangabad,exact,date,,2007
+413,Pushkar Sunset,exact,technique_detail,,watercolour
+413,Pushkar Sunset,exact,date,,2007
+415,Taj Garden,exact,technique_detail,,Watercolour
+415,Taj Garden,exact,date,,2007
+416,Varanasi Gats,exact,technique_detail,,Watercolour
+416,Varanasi Gats,exact,date,,2007
+418,Pushkar Farmland,exact,technique_detail,,watercolour
+418,Pushkar Farmland,exact,date,,2007
+439,14 Mother and Daoughter on the Beach,exact,technique_detail,,watercolour
+435,10 The Thorn,exact,technique_detail,,watercolour
+435,10 The Thorn,exact,dimensions,200 x 280 mm,630 x 480 mm
+440,15 Dotty Women,exact,technique_detail,,watercolour
+440,15 Dotty Women,exact,date,,1998
+443,18 Figures on a Cloudy Beach,exact,technique_detail,,watercolour
+443,18 Figures on a Cloudy Beach,exact,dimensions,430 x 590 mm,430 x 540 mm
+420,Children with Pet Goats Bikaner,probable,technique_detail,,watercolour
+420,Children with Pet Goats Bikaner,probable,date,,2006
+420,Children with Pet Goats Bikaner,probable,dimensions,490 x 660 mm,480 x 640 mm
+448,23 The Cockerel Sheherezade,exact,technique_detail,,watercolour
+448,23 The Cockerel Sheherezade,exact,date,2001,2002
+448,23 The Cockerel Sheherezade,exact,dimensions,570 x 450 mm,470 x 600 mm
+455,30 The green Mine,exact,technique_detail,,watercolour
+455,30 The green Mine,exact,date,,1980
