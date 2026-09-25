@@ -12,7 +12,7 @@ def table(hdr, data):
     return "\n".join(out)
 L = []
 L.append("# Inventory cross-check: website database vs 2014-10 inventory\n")
-L.append("This compares `database/artworks.json` (the website) with `database/inventory_2014-10.json`, which is treated as the source of truth for **dimensions, technique and date**. Nothing in `artworks.json` has been changed yet. The full row-by-row results are in `inventory_crosscheck.csv`, and website entries with no inventory match are in `site_only_artworks.csv`.\n")
+L.append("This compares `database/artworks.json` (the website) with `database/inventory_2014-10.json`, which is treated as the source of truth for **dimensions, technique and date**. This is a snapshot taken *before* the fixes were applied. `apply_inventory_fixes.py` then applied the inventory values to the confident matches (listed in `applied_changes.csv`). The probable matches below were left unchanged. The full row-by-row results are in `inventory_crosscheck.csv`, and website entries with no inventory match are in `site_only_artworks.csv`.\n")
 L.append("## Summary\n")
 L.append(table(["", "Count"], [
     ["Inventory items compared (Prints + Watercolours sections)", len(rows)],
