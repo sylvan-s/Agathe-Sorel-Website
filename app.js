@@ -445,6 +445,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 art.title.toLowerCase().includes(state.searchQuery) ||
                 art.subcategory.toLowerCase().includes(state.searchQuery) ||
                 (art.date && art.date.includes(state.searchQuery)) ||
+                (art.technique_detail && art.technique_detail.toLowerCase().includes(state.searchQuery)) ||
                 (art.artwork_number && art.artwork_number.includes(state.searchQuery));
                 
             // Category filter
@@ -679,7 +680,7 @@ document.addEventListener('DOMContentLoaded', () => {
         modalArtDate.innerText = artwork.date || 'Not specified';
         modalArtDimensions.innerText = artwork.dimensions || 'Dimensions variable';
         modalArtEdition.innerText = artwork.edition || 'Unique Work / Unknown';
-        modalArtTechnique.innerText = artwork.technique || 'Medium not specified';
+        modalArtTechnique.innerText = artwork.technique_detail || artwork.technique || 'Medium not specified';
         modalArtExhibitions.innerText = artwork.exhibition_locations || 'Not specified';
         modalArtCollections.innerText = artwork.represented_in_public_collections || 'Estate Archive';
         
