@@ -1,396 +1,560 @@
-inv_section,inv_no,inv_title,inv_year,inv_size_mm,inv_technique,site_index,site_category,site_subcategory,site_title,site_date,site_dimensions,site_technique,match,match_score,date_check,dim_check,technique_check
-Prints & Graphic Works (1959-2005),1,Vagabondage,1959,500x660,"Deep bite, engraving & drilling. Colour viscosity printed in purple-black, orange & yellow",67,Prints,1959-1966,Vagabondage,1959,650 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),2,Saule Pleureur,1959,500x660,Line engraving printed in black,68,Prints,1959-1966,Saule Pleureur,1959,600 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),3,Via Siena,1959,500x660,"Deep bite, aquatint, colour viscosity printed in brown, purple & orange",69,Prints,1959-1966,Via Siena,1959,650 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),4,Croisement des Chemins,1959,550x600,"Scraper engraving, aquatint. Colour viscosity print in black orange & blue",71,Prints,1959-1966,Croisement des Chemins,1959,550 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),5,Marée,1959,410x540,"Etching & engraving, deep bite. Colour viscosity print in red and blue",72,Prints,1959-1966,Maree,1959,410 x 540 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),6,Après la Moisson (K),1959,410x540,"Scraper sculpted plate, engraving. Colour viscosity print in purple-black, blue & yellow",73,Prints,1959-1966,Apres la Moisson,1959,410 x 540 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),7,Le Bois Endormant,1959,650x600,"Deep etching with line etching, scraper engraving. Colour viscosity print in black, yellow and green",74,Prints,1959-1966,Le Bois Endormant,1959,650 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),8,Midi,1959,650x600,"Deep bite, engraving. Colour viscosity print in black, blue & red",75,Prints,1959-1966,Midi,1959,650 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),9,Libellule,1959,650x600,Line engraving printed in black,76,Prints,1959-1966,Libellule,1959,650 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),10,Vue sur la Montagne,1959,650x440,"Deep bite, colour viscosity print in black, blue, orange & olive",77,Prints,1959-1966,Vue sur la Montagne,1959,650 x 440 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),12,Pluie d'Avril,1960,650x600,"Deep bite, Scraper engraving, aquatint. Colour viscosity print in blue-black, and orange",78,Prints,1959-1966,Pluie d'Avril,1960,650 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),13,Troubled Square (K),1961,780x600,"Deep bitten & cut plate. Colour viscosity print in black, blue & orange",79,Prints,1959-1966,Troubled Square,1961,800 x 590 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),14,Fumée (K),1961,500x660,Line engraving printed in black,80,Prints,1959-1966,Fumee,1961,800 x 590 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),15,Peacock,1961,650x600,"Deep bite, gauge & scraper engraving. Colour viscosity print in orange, brown & purple",81,Prints,1959-1966,Peacock,1961,650 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),16,Hopfields,1961,590x410,Line engraving printed in black,82,Prints,1959-1966,Hopfields,1961,690 x 400 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),17,Kent,1961,590x410,Deep bite colour viscosity print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),18,Petroushka (triptych) (K),1962,500x650,"Pressed metal relief, intaglio & surface printed in black 2 part vignette",83,Prints,1959-1966,Petroushka (triptych),1962,262 x 251 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),19,Electronics for Beginners (K),1962,780x600,"Deep bite, engraving & drilling. Colour viscosity print in blue-black, red & yellow",84,Prints,1959-1966,Electronics for Beginners,1962,660 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),20,Suffragette,1962,800x590,Pressed metal collage & engraving printed in red & black,85,Prints,1959-1966,Suffragette,1962,800 x 590 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),21,Foundry,1961,390x570,"Deep bite, line engraving, drilling, printed in brown-black & red",86,Prints,1959-1966,Foundry,1961,300 x 340 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),22,Outsiders,1962,780x600,"Deep bite, aquatint & dry point, printed in black, grey, red,& green vignette",87,Prints,1959-1966,Outsiders,1962,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),23,Box Shapes,1963,580x570,"Aquatint & hardboard cut outs printed in black, ochre, and blue-black",88,Prints,1959-1966,Box Shapes,1963,600 x 780 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),24,Two Cultures (K),1963,780x600,"Photo gravure, dry point, engraving & brass cut out Printed in black green, yellow, brown & red vignette",89,Prints,1959-1966,Two Cultures,1963,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),25,Charm Against Evil,1963,,Engraving and deep bite on copper,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),26,Petra,1963,670x500,Line engraving & deep bite printed in black vignette,90,Prints,1959-1966,Petra,1963,670 x 500 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),27,Le Balcon by Jean Genet (title page) (K),1964,640x500,"Line engraving, photo etching, gilding. Colour viscosity print printed in black, orange, & pink",91,Prints,1959-1966,Le Balcon by Jean Genet (Artist's boo title page 1),1959,,Artist's Book,exact,1.00,MISMATCH,missing on site,site generic
-Prints & Graphic Works (1959-2005),28,The General (Le Balcon page 2),1964,640x500,Line-engraving & aquatint printed in black. Gilded,92,Prints,1959-1966,The General (Le Balcon.. page 2),1964,670 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),29,The Judge (Le Balcon page 3) (K),1964,640x500,"Line-engraving, aquatint, soft ground etching & drilling, printed in black",93,Prints,1959-1966,The Judge (Le Balcon.. page 3),1964,670 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),30,Chantal (Le Balcon page 4),1964,640x500,"Line-engraving, aquatint, drilling printed in black, red, blue. Gilded",94,Prints,1959-1966,Chantal (Le Balcon.. page 4),1964,670 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),31,Mme. The Queen (Le Balcon page 5),1964,640x500,"Sugar aquatint, printed in black, red & yellow",95,Prints,1959-1966,Mme. The Queen (Le Balcon.. page 5),1964,670 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),32,The Bishop (Le Balcon page 6),1964,640x500,"Line-engraving, aquatint & drilling, printed in black. Gilded",96,Prints,1959-1966,The Bishop (Le Balcon.. page 6),1964,670 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),33,The Orator & the Crowd (Le Balcon page 7) (K),1964,640x500,"Line-engraving, hammered & cut plate. Colour viscosity print in red, blue, & black",97,Prints,1959-1966,The Orator & the Crowd (Le Balcon.. page 7) jpg,1964,,Print,exact,0.95,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),34,The Queen (Le Balcon page 8) (K),1964,640x500,"Line-engraving, soft ground, open bite & drilling, printed in black and yellow",98,Prints,1959-1966,The Queen (Le Balcon.. page 8),1964,670 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),35,Mausoleum for the chief of the secret police (Le Balcon page 9),1964,640x500,"Line engraving, sugar aquatint, metal mesh cut-out drilled. Printed in black & Gilded",99,Prints,1959-1966,Mausoleum for the chief of the secret police (Le Balcon),1959,,Print,exact,1.00,MISMATCH,missing on site,site generic
-Prints & Graphic Works (1959-2005),36,Everyday Irreality (Le Balcon page 10) (K),1964,640x500,"Line engraving, sugar aquatint, photo etching drilled. Printed in black. Mirror foil collage",100,Prints,1959-1966,Everyday Irreality (Le Balcon.. page 10) 67,1964,,Print,exact,0.96,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),37,The Fire (Le Balcon page 11),1964,640x500,"Brushed aquatint & deep bite, printed in black, red & mauve",101,Prints,1959-1966,The Fire (Le Balcon.. page 11),1964,670 x 500 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),38,Blind Landing (K),1964,380x480,"Pressed & extruded metal, surface & intaglio print. Vignette. Printed in black, green & red",102,Prints,1959-1966,Blind Landing,1964,380 x 480 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),39,Bee master,1964,480x380,"Deep etched, engraved & drilled. Colour viscosity printed in blue & orange. vignette",103,Prints,1959-1966,Beemaster,1964,480 x 380 mm,Print,exact,0.95,ok,ok,site generic
-Prints & Graphic Works (1959-2005),40,The Artists Skin (K),1965,800x600,Hammered & woven brass vignette. Printed in brown & orange. vignette,104,Prints,1959-1966,The Artists Skin,1959,800 x 590 mm,Print,exact,1.00,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),41,The Miracle Worker,1964,580x460,"Line engraving, letter punch, hammered, surface & intaglio, printed in black. Vignette",105,Prints,1959-1966,The Miracle Worker,1964,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),42,Mass Hysteria,1964,580x460,"Deep-bite, drilling & metal foil collage printed in black, brown, ochre & red",106,Prints,1959-1966,Mass Hysteria,1964,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),43,Curven Gallery Exhibition Poster,1965,540x450,"Folded bronze cut out, line engraving & litho vignette. Printed in black, yellow & red. vignette",107,Prints,1959-1966,Curven Gallert Exhibition Poster,1965,540 x 450 mm,Print,exact,0.97,ok,ok,site generic
-Prints & Graphic Works (1959-2005),44,Melting point,1965,800x590,"Deep-bite drilling. Colour viscosity print in black, red & mauve",108,Prints,1959-1966,Meltingpoint,1965,780 x 600 mm,Print,exact,0.96,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),45,The Escapist,1965,800x600,,109,Prints,1959-1966,The Escapist,1965,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,inventory has no technique
-Prints & Graphic Works (1959-2005),46,Sappho,1966,780x600,"Line engraving, & brass cut-out, printed in black, ochre, pink & red",116,Prints,1966-1976,Sappho,1966,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),47,The Wise and Foolish Virgin,1966,780x600,"Line engraving, aquatint, hammered brass, photogravure & plastic engraving, printed in black, blue & yellow",117,Prints,1966-1976,The Wise and Foolish Virgin,1966,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),48,Old Wife's Tale,1966,780x600,"Line engraving, aquatint & surface rolled brass, printed in black, ochre, pink & red",118,Prints,1966-1976,Old Wife's Tale,1966,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),49,Play (K),1966,780x600,"Photogravure, aquatint, cutout & rope. Vignette. Printed in black, green, magenta, yellow & gray",119,Prints,1966-1976,Play,1966,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),50,Pool on the 30th Floor,1966,780x600,"Line engraving, aquatint, drypoint & metal cut-out vignette. Printed in blue, grey, red,& ultramarine",120,Prints,1966-1976,Pool on the 30th Floor,1966,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),51,Three new Creatures,1966,600x780,"Deep bite, dry point, heat branded plastic, printed in blue, red, black, yellow, mauve & ochre",121,Prints,1966-1976,Three new Creatures,1966,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),52,Temple,1967,780x600,Etching and metal graphic,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),53,Diver and Dreamer,1976,800x600,"Deep bite, aquatint& plastic engraving, printed in purple-black, ochre, orange, & yellow vignette",122,Prints,1966-1976,Diver and Dreamer,1976,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),54,Jack boot,1976,800x600,Press metal collage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),55,The Past A/P,1976,600x780,Plastic engraving heat branding and aquatint,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),56,Observed in High Spirits (K),1967,600x780,"Deep bite, aquatint, surface rolled brass cut out, printed in black, brown, yellow, red, green, & blue",123,Prints,1966-1976,Observed in High Spirits,1967,780 x 600 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),57,By the Drunken Photographer,1967,780x600,"Line engraving, aquatint & surface rolled brass cut out, printed in black, green & brown",124,Prints,1966-1976,By the Drunken Photographer,1967,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),58,Discarded Dreams,1967,600x780,"Line engraving, surface rolled brass cut out, printed in black, red, ochre, blue & green",125,Prints,1966-1976,Discarded Dreams,1967,780 x 600 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),59,Green People,1967,800x600,"Photo etching, deep bite & surface printed brass cut out. vignette",126,Prints,1966-1976,Green People,1967,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),60,Birds,1973,780x600,"Photo etched intaglio & plastic cut out, printed in blue-black, green, blue & yellow",127,Prints,1966-1976,Birds,1973,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),61,Six Months in the Air,1968,780x600,"Deep etched, engraved, aquatint brass cut out, printed in brown-black, red, yellow, pink & purple",128,Prints,1966-1976,Six Months in the Air,1968,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),62,Moonshots,1968,780x600,Etching and brass cut out,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),63,Ribs and String,1969,,Stencil print with spray paint,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),64,Ideas for an architectural site,1968,,Drawing original,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),65,Balance,1971,780x600,"Line engraving, aquatint, dry point, brass cut out, printed in black, blue, yellow & green Vignette",129,Prints,1966-1976,Balance,1971,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),66,"Bird, Land and Ribs",1968,780x600,"Deep bite, etching, aquatint & stencil, printed in black & blue Vignette",130,Prints,1966-1976,"Bird, Land and Ribs",1968,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),67,Danger,1969,780x600,"Photo etching & mezzotint on plastics, printed in green black, blue-black, yellow, brown, & green",131,Prints,1966-1976,Danger,1969,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),68,Bravado (K),1969,600x780,"Etching & deep bite with brass cut outs, printed in black, red, yellow, purple,& ochre Vignette",132,Prints,1966-1976,Bravado,1969,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),69,Beginning (K),1970,780x600,"Line engraving, aquatint & brass cut out, printed in black, red, & yellow Vignette",133,Prints,1966-1976,Beginning,1970,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),70,Heroes in Perspective,1974,600x789,"Heat branded plastic, photo etching & line engraving, printed in black, blue, ochre & red Vignette",134,Prints,1966-1976,Heroes in Perspective,1974,600 x 780 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),71,Temptations (K),1974,600x780,"Sugar aquatint, deep bite, machine-engraving & heat branded plastic, printed in blue-black, brown, pink, magenta & turquoise",135,Prints,1966-1976,Temptations,1974,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),72,The Sculpture Garden,1974,600x800,"Line engraving, aquatint, with dry point on plastics, printed in green-black, red & yellow Vignette",136,Prints,1966-1976,The Sculpture Garden,1974,600 x 780 mm,Sculpture,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),73,Possessions,1972,800x600,"Dry point on plastics, etching, aquatint on copper printed in green-black, red & yellow Vignette",137,Prints,1966-1976,Posessions,1972,780 x 600 mm,Print,exact,0.95,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),74,Shell,1972,800x600,"Multi layered plastic cut out, dry point, engraving, printed in brown, mauve, blue, yellow, red & olive green Vignette",138,Prints,1966-1976,Shell,1972,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),75,New Dove (K),1972,800x600,"Computer generated litho & surface print in black, grey, red & orange Vignette",139,Prints,1966-1976,New Dove,1972,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),76,The Preservation of Life,1972,800x600,"Line engraving & dry point on plastic, printed in blue, brown & olive Vignette",140,Prints,1966-1976,The Preservation of Life,1972,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),77,Starlet (K),1966,800x600,"Folded, hammered brass & extruded metal cut-out, printed in blue, black with mirror foil applied Vignette",141,Prints,1966-1976,Starlet,1966,780 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),78,Virtuosos,1972,780x600,"Line engraving, aquatint & brass cut outs, printed in brown-black, grey yellow, red & olive",142,Prints,1966-1976,Virtuosos,1972,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),79,Homes,1972,600x780,"Dry point on plastic, printed in brown-black & green Vignette",143,Prints,1966-1976,Homes,1972,780 x 600 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),80,Dark Satanic Mills (K),1974,780x600,"Photo etching, heat branded plastic & plastic engraving, printed in brown-black, grey & green",144,Prints,1966-1976,Dark Satanic Mills,1974,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),81,Blueprint for Survival,1974,600x780,"Photo etching & plastic engraving, printed in purple-black, blue, orange & purple",145,Prints,1966-1976,Blueprint for Survival,1974,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),82,Sunbathers,1974,600x780,"Plastic engraving, dry point & aquatint, printed in blue, green, orange, mauve & turquoise",146,Prints,1966-1976,Sunbathers,1974,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),83,Let's go and Watch,1974,600x780,"Photo etching, line engraving, soft ground & plastic engraving, printed in black, yellow, red & green. vignette",147,Prints,1966-1976,Let's go and Watch,1974,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),84,Swinger,1974,780x600,"Machine engraved and heat-branded plastics, dry point, and mezzotint, printed in black, blue, red, ochre & magenta vignette",148,Prints,1966-1976,Swinger,1974,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),85,Watching the Garden Grow,1974,780x600,"Heat branded plastic & mezzotint, printed in black, blue, yellow, & ochre. vignette",149,Prints,1966-1976,Watching the Garden Grow,1974,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),86,Nocturne,1974,780x600,"Line engraving & aquatint on copper & dry pointed plastic, printed in black, brown, blue & mauve vignette",150,Prints,1966-1976,Nocturn,1974,780 x 600 mm,Print,exact,0.93,ok,ok,site generic
-Prints & Graphic Works (1959-2005),87,By the Drunken Photographer,1967,780x600,"Line engraving, aquatint & folded brass cut-outs, printed in black, green & brown",151,Prints,1966-1976,By the Drunken Photographer,1967,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),88,On the Farm,1975,780x600,"Heat branded plastic, bubble wrap, dry point, printed in black, blue, red & ochre vignette",152,Prints,1966-1976,On the Farm,1975,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),89,Bougainvillea,1975,780x600,"Line engraving & mezzotint on copper & heat branded plastic, printed in black, red, blue, yellow & brown. vignette",153,Prints,1966-1976,Bougainvillea,1975,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),90,Recharging Batteries (K),1975,600x780,"Mezzotint And heat-branding on plastic, printed in black, grey, brown,& pink",154,Prints,1966-1976,Rechargeing Batteries,1975,600 x 780 mm,Print,exact,0.98,ok,ok,site generic
-Prints & Graphic Works (1959-2005),91,Knossos,1975,780x600,"Aquatint, on zinc, plastic engraving, printed red, green, blue, with pink & white plastic collage. vignette",155,Prints,1966-1976,nossos,1975,600 x 780 mm,Print,probable,0.92,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),92,The Grand Bathroom (K),1975,780x600,"Engraving on plastic cut-outs, printed in black, blue, green yellow & brown vignette",156,Prints,1966-1976,The Grand Bathroom,1975,600 x 780 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),92b,Give & Take,1976,780x600,"Heat branding & dry-pointing on plastic, printed in black, blue, red, yellow & orange, vignette",157,Prints,1966-1976,Give & Take,1976,600 x 780 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),93,Woman In Waves,,600x780,Photo litho,220,Prints,1976-1996,Woman in Waves,1989,600 x 780 mm,Print,exact,1.00,inventory has no year,ok,site generic
-Prints & Graphic Works (1959-2005),94,Contentment or Dog Scratching it's Back,1975,600x780,"Heat branded engraved plastic & dry point, printed in black, ochre, grey & brown. vignette",158,Prints,1966-1976,Contentment or Dog Scratching it's Back,1975,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),95,Water Sculpture,1976,780x600,"Deep-bite on copper, engraving & dry-point on plastic, printed in purple, blue, brown & burnt Siena",159,Prints,1966-1976,Water Sculpture,1976,780 x 600 mm,Sculpture,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),96,Biplanes and Catamarans (K),1968,600x780,"Heat branded plastic & plastic engraving, printed in black, orange & red Vignette",190,Prints,1976-1996,Biplanes and Catamarans,1968,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),97,Woman at the Edge,1998,600x780,Heat branding and collage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),98,Agnus Dei,1978,600x780,"Plastic engraving & mezzotint, printed in black, blue, grey red, yellow, mauve & orange",191,Prints,1976-1996,Agnus Dei,1978,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),99,Sphinx (K),1978,600x780,"Computer generated photo etching & plastic engraving, printed in black, grey, blue, brown, orange & blue",192,Prints,1976-1996,Sphinx,1978,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),100,The Waterhole (K),1978,780x600,"Photo litho, plastic engraving & woodcut, printed in black, pink, brown, green, red, grey & ochre Vignette",193,Prints,1976-1996,The Waterhole,1978,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),101,Colours Must Sing,1978,780x600,"Engraving on plastic, mezzotint & dry point, printed in black, red, pink, blue, orange & yellow. Vignette",194,Prints,1976-1996,Colours Must Sing,1978,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),102,Orpheus,1978,600x780,"Dry point on heat branded plastics & aquatint on copper, printed in black, red, grey, orange & green Vignette",195,Prints,1976-1996,Orpheus,1978,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),103,Tournament,1970,600x780,"Brushed aquatint, line engraving, colour intaglio & surface print, printed in black, red, green-black, blue, ochre & yellow",196,Prints,1976-1996,Tournament,1970,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),104,Gipsies,1979,600x780,"Etching & aquatint, heat-branded plastic, printed in black, ochre, red, pink, orange & blue Vignette",197,Prints,1976-1996,Gipsies,1979,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),105,Let the Angels Sing,1979,780x600,"Plastics engraving, heat branding & mezzotint, printed in black, blue, grey & orange",198,Prints,1976-1996,Let the Angels Sing,1979,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),106,Before the Pilons Came,1979,600x780,"Engraving, heat branding & mezzotint, printed in red, blue, green, yellow & burnt Siena. Vignette",199,Prints,1976-1996,Before the Pilons Came,1979,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),107,Historic Couple,1979,600x780,"Heat branded plastic, engraving, mezzotint, printed in black, blue, red, grey, yellow & brown Vignette",200,Prints,1976-1996,Historic Couple,1979,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),108,Weight Watcher,1979,780x600,"Etching & heat branded plastic, printed in black, ochre, pink & grey",201,Prints,1976-1996,Weight Watcher,1979,590 x 800 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),109,Lady in a Hammock,1979,780x600,"Photo etching & line engraving on plastic, printed in black, grey & brown Vignette",202,Prints,1976-1996,Lady in a Hammock,1979,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),110,The Road is Up,1980,600x780,"Heat branded plastic & dry point, printed in black, blue, red, ochre, brown & purple",203,Prints,1976-1996,The Road is Up,1980,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),111,Lanzarote (K),1981,600x780,"Heat branded plastic, dry point, etched plastic, printed in black, pink, yellow, blue, & green Vignette",204,Prints,1976-1996,Lanzarote,1981,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),112,Hello and Goodbye (K),1981,780x108,"Photo litho & plastics engraving, printed in black, red, grey & yellow Vignette (Two sheets)",205,Prints,1976-1996,Hello and Goodby,1981,780 x 110 mm,Print,exact,0.97,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),113,The Bird the Snake & the Stone Lion,1982,600x780,"Brushed aquatint, line engraving on zinc & copper, Printed in purple, green, blue, brown,& mauve",206,Prints,1976-1996,The Bird the Snake & the Stone Lion,1982,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),114,Roots,1981,600x780,"Plastic engraving & mezzotint, printed in black, grey, green, pink, yellow & red Vignette",207,Prints,1976-1996,Roots,1981,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),115,The Bird man,1985,600x780,"Sugar aquatint, plastic engraving",208,Prints,1976-1996,The Birdman,1985,600 x 780 mm,Print,exact,0.96,ok,ok,site generic
-Prints & Graphic Works (1959-2005),116,Allegory,1985,780x600,"Engraving & heat branding & mezzotint on plastic, printed on black, yellow, pink & blue Vignette",209,Prints,1976-1996,Allegory,1976,780 x 600 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),117,Mother Nature,1983,600x780,"Plastic engraving, printed in black, grey, burnt Siena Vignette",210,Prints,1976-1996,Mother Nature,1983,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),118,Shadows in a Tudor Barn,1984,780x600,"Photo litho, heat branding, engraving on plastic, printed in black, blue & orange",211,Prints,1976-1996,Shadows in a Tudor Barn,1984,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),119,The Lure of Lost Cultures,1985,600x780,"Mezzotint & heat branding on plastic printed in black, brown, blue & turquoise",212,Prints,1976-1996,The Lure of Lost Cultures,1985,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),120,The Wind (K),1984,780x600,"Engraving, heat branding, dry point, on plastic, printed in brown, black, blue & pink. vignette",213,Prints,1976-1996,The Wind,1984,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),121,I Wish you Were Here,1988,600x780,"Etching, aquatint & coloured, plastic engraving printed in black, blue, yellow, red, green & magenta",216,Prints,1976-1996,I Wish you Were Here,1988,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),122,Loops,1985,780x600,Colour aquatint & line engraving on plastic,217,Prints,1976-1996,Loops,1985,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),123,Penthouse,1985,780x600,Etching and plastics engraving,214,Prints,1976-1996,Penthouse,1985,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),124,And the Midgets Would Rule (K),1985,600x780,"Photo etching & coloured mezzotint on plastic, printed in black, grey & orange",218,Prints,1976-1996,And the Midgets Would Rule,1985,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),125,The Silver Screen (K),1985,600x780,"Photo etching & coloured mezzotint on plastic, printed in green-black, pink, blue & ochre",219,Prints,1976-1996,The Silver Screen,1985,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),126,Step into the Future (K),1986,780x600,"Plastic engraving, photo etching & woodcut, printed in ochre, red, blue, & black. vignette",221,Prints,1976-1996,Step into the Future,1986,600 x 780 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),127,Airport beach,1988,600x780,Etching and plastic engraving,222,Prints,1976-1996,Airport Beach,1988,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),128,Airport beach Sketch,1988,600x780,Plastic engraving and collage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),129,Musicians 1,1989,600x780,"Engraved hardboard, plastic engraving & dry point, printed in black, grey, red, blue, brown, & light green",,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),130,Musicians 2,1989,410x570,Engraved plastic and Collage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),131,Ego the Goat,1988,600x780,"Photo etching, line engraving, aquatint & plastic cut-out, printed in purple black, orange & light green",223,Prints,1976-1996,Ego the Goat,1988,600 x 800 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),132,The Dead and the Living (from triptych),1989,600x780,"Computer generated photo etching & woodcut, printed in black, raw umber & green",224,Prints,1976-1996,The Dead and the Living (from triptych),1989,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),133,Titania (from triptych) (K),1989,780x600,"Computer generated etching, line engraving & aquatint, printed in black, grey, red, green & blue",225,Prints,1976-1996,Titania (from triptych),1989,800 x 600 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),134,Swansong (from triptych),1989,600x780,"Line engraving & aquatint with plastic cut-outs, printed in brown-red, grey, magenta & yellow",226,Prints,1976-1996,Swansong (from-triptych),1989,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),135,The Venus Flytrap,1991,780x600,"Digital montage & woodcut, printed in black, blue, red green, orange & yellow",228,Prints,1976-1996,The Venus Flytrap,1991,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),136,Madame Guillotine (Deptford Market) (K),1996,600x780,"Digital montage & woodcut & Litho, printed in black, brown, purple & light green",229,Prints,1976-1996,Madame Guillotine (Deptford Market),1996,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),137,Stallholders (Deptford Market),1996,780x600,"Digital montage with litho, aquatint & woodcut, printed in black, green, yellow, orange, blue & brown",230,Prints,1976-1996,Stallholders (Deptford Market),1996,600 x 780 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),138,Market Vendor (Deptford Market),1996,780x600,"Digital litho, aquatint & woodcut, printed in black, red, blue, yellow & lilac",231,Prints,1976-1996,Market Vendor (Deptford Market),1996,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),139,Pile them High and Sell them Cheap (Deptford Market) (K),1996,780x600,"Digital montage, printed in black vignette",232,Prints,1976-1996,Pile them High and Sell them Cheep (Deptford Market),1976,,Print,exact,0.98,MISMATCH,missing on site,site generic
-Prints & Graphic Works (1959-2005),140,"The Reincarnation of a Cactus (Artist's Book - Catalana Blanca, poems by Lorand Gaspar) (K)",1997,710x600,"Digital montage, printed in black. vignette",17,Prints,1996-2001,The Reincarnation of a Cactus,1996,710 x 600 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),141,The Ghost of el Greco with poem (Catalana Blanca),1997,,"Digital montage, printed in black vignette",18,Prints,1996-2001,The Ghost of el Greco with poem (Catalana Blanca),1997,,Print,exact,1.00,ok,inventory has no size,site generic
-Prints & Graphic Works (1959-2005),142,The Ghost of el Greco (Catalana Blanca) (K),1997,780x600,"Digital montage, printed in black. vignette",19,Prints,1996-2001,The Ghost of el Greco (Catalana Blanca),1997,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),143,Catalana Blanca (Catalana Blanca) (K),1997,630x900,"Digital montage, printed in black. vignette",20,Prints,1996-2001,Catalana Blanca (Catalana Blanca),1997,630 x 900 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),144,Nijinsky (Catalana Blanca) (K),1997,780x600,"Digital montage, printed in black. vignette",21,Prints,1996-2001,Nijinsky (Catalana Blanca),1997,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),145,Metamorphosis (Catalana Blanca),1997,780x600,"Photo etching, aquatint & plastic engraving, printed in black grey, red & green",22,Prints,1996-2001,Metamorphosis (Catalana Blanca),1997,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),146,Monument to a Housewife (K),1997,780x600,"Digital montage, printed in black Vignette",23,Prints,1996-2001,Monument to a Housewife,1997,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),147,Still life with Beans (K),1997,,Digital litho and watercolour,24,Prints,1996-2001,Still life with Beans,1997,600 x 780 mm,Print,exact,1.00,ok,inventory has no size,site generic
-Prints & Graphic Works (1959-2005),148,From Van Gogh to Einstein,,,"Digital montage with litho, aquatint & woodcut, Vignette (Several sizes)",25,Prints,1996-2001,From Van Gogh to Einstein,1999,600 x 430 mm,Print,exact,1.00,inventory has no year,inventory has no size,site generic
-Prints & Graphic Works (1959-2005),149,The bowels of the earth,1996,600x780,Digital litho & aquatint. Vignette,26,Prints,1996-2001,The bowels of the earth,1996,780 x 600 mm,Print,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),150,Palm roots Searching for Water (K),1997,900x630,Digital montage & plastic engraving,27,Prints,1996-2001,Palmroots Searching for Water,1997,900 x 630 mm,Print,exact,0.98,ok,ok,site generic
-Prints & Graphic Works (1959-2005),151,Seed onions,1997,800x700,Digital print and watercolour,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),152,In the Patio,1997,700x900,Digital print and woodcut,8,Prints,2011-2016,In the Patio,2011,700 x 900 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),153,"Getting High (kite made of orange peel, wire & rubber band)",1998,,Digital montage. vignette,29,Prints,1996-2001,"Getting High, (kite made of orange peel, wire & rubber band)",1996,,Print,exact,1.00,MISMATCH,inventory has no size,site generic
-Prints & Graphic Works (1959-2005),154,Twiggy - Face,1998,900x680,Digital montage. vignette,30,Prints,1996-2001,Twiggy - Face,1998,900 x 630 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),155,Twiggy - Nude,1998,780x600,Digital montage printed in black vignette,31,Prints,1996-2001,Twiggy - Nude,1998,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),156,Twiggy with red lips,1998,650x930,Digital print and woodcut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),157,Twiggy with Coloured background,1998,650x930,Digital print and woodcut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),158,Nunhead Cemetery,1998,900x630,"Digital montage, plastic engraving & woodcut, printed in black, brown, red, green & yellow vignette",32,Prints,1996-2001,Nunhead Cemetery,1998,900 x 630 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),159,The Collector,2000,780x600,Etching and surface print,33,Prints,1996-2001,The Collector,2000,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),160,The Blue Mine,2000,600x780,Etching,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),161,Mystification,2000,780x600,"Digital litho & aquatint printed in black, red, brown, blue & ochre vignette",,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),162,A Knock at the Door,2001,760x560,Etching and plastics print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),163,Figs and Old Rope,1999,760x560,Digital montage and wood cut,34,Prints,1996-2001,Figs and Old Rope,1999,600 x 800 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),164,Sheets Drying (Washday),2000,600x780,Digital montage printed in black. vignette,35,Prints,1996-2001,Sheets Drying (Washday),2000,600 x 780 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),165,Mantegna's Kitchen (Washday) (K),2000,780x600,Digital montage printed in black. vignette,36,Prints,1996-2001,Mantegna's Kitche (Washday),2000,780 x 600 mm,Print,exact,0.98,ok,ok,site generic
-Prints & Graphic Works (1959-2005),166,Annunciation (Washday),2000,780x600,Digital montage. vignette,37,Prints,1996-2001,Annunciation (Washday),2000,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),167,Sheets & Hay (Washday),2000,780x600,Digital montage. vignette,38,Prints,1996-2001,Sheets & Hay (Washday),2000,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),168,Sheets with Flowers & Basket (Washday) (K),2000,630x900,Digital montage. Vignette,39,Prints,1996-2001,Sheets with Flowers & Basket (Washday),2000,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),169,Sheet & Cooking pot (Washday),2000,780x600,Digital montage. Vignette,40,Prints,1996-2001,Sheet & cooking pot (Washday),2000,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),170,Fishwife (Washday),2000,900x600,Digital montage. Vignette,41,Prints,1996-2001,Fishwife (Washday),2000,900 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),171,Sheet sculpture (Washday),2000,900x600,"Digital montage, watercolour. Vignette",42,Prints,1996-2001,Sheet sculpture (Washday),2000,900 x 600 mm,Sculpture,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),172,Self defence,2001,530x760,Digital collage in colour,501,Watercolours & Collages,Guess who is coming for dinner,05 Self defence,2005,560 x 810 mm,"Collage, Watercolour",probable,1.00,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),173,Dawn (Helios),2000,680x780,"Digital montage, watercolour. Vignette",43,Prints,1996-2001,Dawn (Helios),2000,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),174,Morning (Helios),2000,900x700,"Digital montage, watercolour. Vignette",44,Prints,1996-2001,Morning (Helios),2000,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),175,Midday (Helios),2000,900x640,"Digital montage, watercolour. Vignette",45,Prints,1996-2001,Midday (Helios),2000,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),176,Dusk (Helios),2000,680x780,"Digital montage, watercolour. Vignette",46,Prints,1996-2001,Dusk (Helios),2000,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),177,The cockerel Sheherezade (Helios),2000,830x670,Digital montage Vignette,47,Prints,1996-2001,The cockerel Sheherezade (Helios),2000,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),178,Tablewear,2001,,"Digital montage, watercolour. Vignette",48,Prints,1996-2001,Tablewear,2001,780 x 600 mm,Print,exact,1.00,ok,inventory has no size,site generic
-Prints & Graphic Works (1959-2005),179,Variable Lights (K),2000,107x760,"Line engraving & woodcut printed in black, red, blue, yellow, green, brown, mauve, orange & ochre",49,Prints,1996-2001,Variable Lights,2000,107 x 60 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),180,Mobius Striptease (K),2001,780x600,Litho & brushed sand in acrylic box,50,Prints,1996-2001,Mobius Striptease,2001,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),181,Book of Sand Cover (Artist's Book with poems by David Gascoyne) (K),2001,340x280,Line engraving on acrylic,51,Prints,1996-2001,Book of Sand Cover (Artists Book with poems by David Gascoyne),1996,,Artist's Book,exact,1.00,MISMATCH,missing on site,site generic
-Prints & Graphic Works (1959-2005),182,Blake (The Book of Sand),2001,340x280,Digital montage. vignette,53,Prints,1996-2001,Blake (The Book of Sand),2001,340 x 280 mm,Artist's Book,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),183,Men seen afar (The Book of Sand) (K),2001,900x630,Digital montage. vignette,54,Prints,1996-2001,Men seen afar (The Book of Sand),2001,900 x 630 mm,Artist's Book,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),184,Winged Creatures (The Book of Sand),2001,800x530,Digital montage. vignette,55,Prints,1996-2001,Winged Creatures (The Book of Sand),2001,780 x 530 mm,Artist's Book,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),185,The Round Dance (The Book of Sand),2001,630x900,Digital montage. Vignette,56,Prints,1996-2001,The Round Dance (The Book of Sand),2001,900 x 630 mm,Artist's Book,exact,1.00,ok,orientation only,site generic
-Prints & Graphic Works (1959-2005),186,The Janus Gaze (The Book of Sand),2001,800x630,Digital montage. Vignette,57,Prints,1996-2001,The Janus Gaze (The Book of Sand),2001,800 x 590 mm,Artist's Book,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),188,Patterns Flow Like Rivers (The Book of Sand),2001,900x630,Digital montage. Vignette,58,Prints,1996-2001,Patterns Flow Like Rivers (The Book of Sand),2001,,Artist's Book,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),189,Women Waiting for their Lovers (The Book of Sand),2001,900x630,Digital montage. Vignette,59,Prints,1996-2001,Women Waiting fot their Lovers (The Book of Sand),2001,,Artist's Book,exact,0.98,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),190,The Spanish couple (The Book of Sand),,,Digital montage,52,Prints,1996-2001,The Spanish Couple (The Book of Sand),2001,580 x 440 mm,Artist's Book,exact,1.00,inventory has no year,inventory has no size,site generic
-Prints & Graphic Works (1959-2005),191,Preliminaries to Farewell (The Book of Sand),2001,630x900,Digital montage. Vignette,60,Prints,1996-2001,Prelimilaries to Farewell (The Book of Sand),2001,,Artist's Book,exact,0.98,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),192,The Desert (Ghost Stories) (K),2001,820x930,Digital montage Vignette,61,Prints,1996-2001,The Desert (Ghost Stories),2001,820 x 930 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),193,Scarecrows and Ghosts (Ghost Stories) (K),2001,630x900,Digital montage. Vignette,62,Prints,1996-2001,Scarecrows and Ghosts (Ghost Stories),2001,630 x 900 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),194,Scare Crow and Rabbit Scare (Ghost Stories),2001,780x600,Digital montage & watercolour Vignette,63,Prints,1996-2001,Scare Crow and Rabbit Scare (Ghost Stories),2001,,Print,exact,1.00,ok,missing on site,site generic
-Prints & Graphic Works (1959-2005),195,Déjeuner sans Herbes (Ghost Stories) (K),2001,630x900,Digital montage and watercolour,64,Prints,1996-2001,Dejeuner sans Herbes (Ghost Stories),2001,630 x 900 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),196,Combat,2001,,Digital Montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),197,Ghost Story (Ghost Stories),2001,660x760,Chair Persons,65,Prints,1996-2001,Ghost Story (Ghost Stories),2001,660 x 760 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),198,Chair Persons,2001,780x600,Digital montage Vignette,66,Prints,1996-2001,Chair Persons,2001,780 x 600 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),199,No Exit (Shipyard) (K),2002,1180x600,Digital montage & watercolour Vignette,160,Prints,2002-2006l,No Exit (Shipyard),2002,1180 x 790 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),200,Clowns,2003,850x103,Digital montage (original collage),,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),201,Clowns in Black,2003,850x103,Digital montage (original collage),,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),202,Shipyard Aerial View (Shipyard) (K),2002,1180x720,Digital montage & watercolour Vignette,161,Prints,2002-2006l,Shipyard Aerial View (Shipyard),2002,1180 x 720 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),203,Ship shapes,2002,,,167,Prints,2002-2006l,Ship Shapes (Shipyard),2002,,Print,exact,1.00,ok,inventory has no size,inventory has no technique
-Prints & Graphic Works (1959-2005),204,Shipyard Aerial View No 2 (Shipyard),2002,,"Digital montage & woodcut, printed in black, red, blue, yellow, & raw umber Vignette",,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),205,Figurehead (Shipyard) (K),2002,900x700,Digital montage. Vignette,162,Prints,2002-2006l,Figurehead (Shipyard),2002,900 x 700 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),206,Secret Patterns,2002,,Digital montage and watercolour,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),207,Augustine's Shipyard (Shipyard),2002,750x1180,"Digital montage & woodcut, printed in black, orange, blue, yellow & raw umber. Vignette",163,Prints,2002-2006l,Augustine's Shipyard (Shipyard),2002,750 x 1180 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),208,Kabuki (Shipyard) (K),2002,850x800,"Digital montage and woodcut, printed in black, Vignette",164,Prints,2002-2006l,Kabuki 1 (Shipyard),2002,880 x 800 mm,Print,exact,0.94,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),209,Odyssey (Shipyard) (K),2002,600x900,Digital montage & watercolour Vignette,165,Prints,2002-2006l,Odyssey (Shipyard),2002,630 x 900 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),210,Lobster Pots (Shipyard),2002,780x960,Digital montage & watercolour Vignette,166,Prints,2002-2006l,Lobster Pots (Shipyard),2002,780 x 960 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),211,Refit (Shipyard),2003,900x601,Engraving with light digital print with woodcut,169,Prints,2002-2006l,Refit (Shipyard),2003,900 x 601 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),212,Sculpture with grass and stubble,2001,107x680,Digital montage & woodcut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),213,To Catch a Butterfly (colour),2003,630x900,Digital montage & watercolour,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),214,Free (The Gates of Hell - Detail),2003,730x601,Digital montage & watercolour,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),215,Free (The Gates of Hell - Detail),2003,730x601,Digital montage and watercolour (Several sizes),170,Prints,2002-2006l,Free (The Gates of Hell - Detail),2003,730 x 601 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),216,The Gates of Hell,2003,1350x900,Digital montage and watercolour,171,Prints,2002-2006l,The Gates of Hell,2003,951 x 820 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),217,Picnic,2005,970x1220,Digital print& Woodcut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),218,Afterlife,,900x610,Digital print& Woodcut,172,Prints,2002-2006l,Afterlife,2004,900 x 610 mm,Print,exact,1.00,inventory has no year,ok,site generic
-Prints & Graphic Works (1959-2005),219,Another butterfly,2004,760x560,Digital Montage with woodcut,173,Prints,2002-2006l,Another Butterfly,2004,760 x 560 mm,Print,exact,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),220,To Catch a Butterfly,2004,550x760,Digital montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),221,Bark,2003,760x550,Digital Montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),222,Twigs,2003,80x620,,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),223,Grunewald,2003,780x580,Digital montage& Woodcut (2 versions),175,Prints,2002-2006l,Grunewald,2004,780 x 580 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),224,Self defence & Defence,2004,530x760,Digital montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),225,Self protection,,530x760,Digital montage and collage,177,Prints,2002-2006l,Self Protection,2004,530 x 760 mm,Print,exact,1.00,inventory has no year,ok,site generic
-Prints & Graphic Works (1959-2005),226,To Challenge (From Text messages),2005,660x460,Digital print and Wood cut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),227,Stones in sunlight and moonlight,2006,890x630,Digital montage & Woodcut,180,Prints,2002-2006l,Stones in Sunlight and Moonlight (Floating World),2002,890 x 630 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),228,The floating world,2006,642x514,Digital montage,181,Prints,2002-2006l,The Floating World (Floating World),2002,642 x 514 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),229,Grass,2006,820x620,Digital montage and wood cut,113,Prints,2007-2010,Grass,2007,820 x 620 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),230,Crusade,2006,700x1000,Digital montage and wood cut,182,Prints,2002-2006l,Crusade (Floating World),2002,700 x 1000 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),231,Walking on water (The Floating World),2006,910x700,Digital montage and woodcut,183,Prints,2002-2006l,Walking on Water (Floating World),2002,910 x 700 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),232,Mirage (The Floating World),2006,642x514,Digital montage with woodcut,178,Prints,2002-2006l,Mirage (Floating World),2002,800 x 600 mm,Print,exact,1.00,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),233,Engraved sculpture (The Floating World),2006,750x560,Digital montage and watercolour,184,Prints,2002-2006l,Engraved Sculpture (Floating World),2002,870 x 610 mm,"Engraving, Sculpture",exact,1.00,MISMATCH,MISMATCH,MISMATCH
-Prints & Graphic Works (1959-2005),234,Engraved stones (The Floating World),2006,700x900,Digital montage with woodcut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),235,Sculpture in Grass and Stubble (The Floating World),2006,1070x680,Digital Montage with woodcut,179,Prints,2002-2006l,Sculpture in Grass and Stubble (Floating World),2002,1005 x 960 mm,Sculpture,exact,1.00,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),236,Grass and netting (The Floating World),2006,560x750,Digital montage and wood cut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),237,Ragtime 1,2005,750x560,Digital montage and woodcut,185,Prints,2002-2006l,Ragtime A,2002,760 x 560 mm,Print,probable,0.89,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),238,Ragtime 2,2005,750x560,Digital montage and woodcut,186,Prints,2002-2006l,Ragtime B,2002,800 x 600 mm,Print,probable,0.89,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),239,Ragtime 3,2006,750x560,Digital print,187,Prints,2002-2006l,Ragtime C,2002,770 x 560 mm,Print,probable,0.89,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),240,Picnic,2006,970x1220,Digital print (1 framed),188,Prints,2002-2006l,Picnic,2002,920 x 1280 mm,Print,exact,1.00,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),241,The Grand Memorabilia,2006,550x900,Digital montage (original Collage),189,Prints,2002-2006l,The Grand Memorabilia,2002,330 x 500 mm,Print,exact,1.00,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),242,Memorabilia (small version),2006,,Digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),243,The Wave,,,Digital print (2 sizes),,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),244,Amazon (detail),2006,650x760,Plastics engraving,111,Prints,2007-2010,Amazon,2007,670 x 760 mm,Print,exact,1.00,MISMATCH,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),245,Tatjana's letter,2002,,Digital print,7,Prints,2011-2016,Tatjana's Letter,2011,700 x 980 mm,Print,exact,1.00,MISMATCH,inventory has no size,site generic
-Prints & Graphic Works (1959-2005),246,Kabuki,2002,880x810,Digital print and wood cut,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),247,Lorca's Flowers,2013,300x210,Digital print,14,Prints,2011-2016,Lorca's Flowers,2013,300 x 490 mm,Print,exact,1.00,ok,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),248,Indian Fabric with yellow edges,2012,300x210,,2,Prints,2011-2016,Indian Rug with Yellow Edges,2011,210 x 300 mm,Print,probable,0.88,MISMATCH,orientation only,inventory has no technique
-Prints & Graphic Works (1959-2005),249,Tissues 1,2012,300x210,Digital print and collage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),250,Tissues 2,2012,300x210,Digital print and collage,4,Prints,2011-2016,No 2 Tissues,2011,300 x 210 mm,Print,probable,0.88,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),251,Tissues 3,2012,300x210,Digital print and collage,5,Prints,2011-2016,No 3 Tissues,2011,300 x 210 mm,Print,probable,0.88,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),252,Dotty sculls,2013,297x420,Digital Print,6,Prints,2011-2016,Dotty Sculls,2011,297 x 420 mm,Print,exact,1.00,MISMATCH,ok,site generic
-Prints & Graphic Works (1959-2005),253,Sculls with colours,,420x292,Digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),255,Sculls in the News,2013,297x420,Digital Print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),256,Indian rug with engraved objects,2008,710x530,Digital montage and wood cut,115,Prints,2007-2010,Indian rug with engraved sculpture,2007,710 x 530 mm,"Engraving, Sculpture",probable,0.79,MISMATCH,ok,MISMATCH
-Prints & Graphic Works (1959-2005),257,The broken Fence,2008,1280x920,Digital montage and surface print,110,Prints,2007-2010,The broken fence,2007,920 x 1280 mm,Print,exact,1.00,MISMATCH,orientation only,site generic
-Prints & Graphic Works (1959-2005),258,Titania Inverted,2012,300x210,Digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),259,Indian rug with roots and dancer,2012,420x297,Digital montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),260,Hand and Eye coordination,2006,297x210,Digital montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),261,Twigs with Purple Sky,2014,600x800,Digital Montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),262,Grass and Twigs,2008,297x420,Digital montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),263,The Plastic Fence,2014,600x800,Digital Montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),264,Sculls in the News,2014,297x420,Digital Montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),265,The Vine Press,2014,720x520,Digital Montage,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),262b,To Challenge,2005,650x460,Digital montage & Collage,358,Livres d'artiste,Dartiste,01 To challenge.jpg,2005,650 x 460 mm,Artist's Book,probable,0.86,ok,ok,site generic
-Prints & Graphic Works (1959-2005),263b,Chose Life,2005,650x460,Digital montage & Collage,359,Livres d'artiste,Dartiste,02 Choose Life,2005,650 x 460 mm,Artist's Book,probable,0.95,ok,ok,site generic
-Prints & Graphic Works (1959-2005),264b,Music turns back clock,2005,600x460,Digital montage & Collage,360,Livres d'artiste,Dartiste,03 Music Turns Back Clock,2005,600 x 460 mm,Artist's Book,probable,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),265b,Inspire Dreams (v1),2005,650x600,Digital montage,361,Livres d'artiste,Dartiste,04 Inspire Dreams,2005,650 x 600 mm,Artist's Book,probable,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),266b,Inspire Dreams (v2),2005,600x460,Digital montage,362,Livres d'artiste,Dartiste,05 Finding reasons,2005,600 x 460 mm,Artist's Book,manual,,ok,ok,site generic
-Prints & Graphic Works (1959-2005),267b,Listen to the heart,2005,650x460,Digital montage,363,Livres d'artiste,Dartiste,06 Listen to the Heart,2005,650 x 460 mm,Artist's Book,probable,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),268b,Old Master,2005,420x600,Digital montage,364,Livres d'artiste,Dartiste,07 Old Master 42005,,60 x 620 mm,Artist's Book,manual,,missing on site,MISMATCH,site generic
-Prints & Graphic Works (1959-2005),269,Just a new Promise,2005,650x460,Digital print,365,Livres d'artiste,Dartiste,08 Just a New Promise,2005,650 x 460 mm,Artist's Book,probable,1.00,ok,ok,site generic
-Prints & Graphic Works (1959-2005),270,Cover (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),271,To challenge (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),272,Choose life (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),273,Music turns back clock (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),274,Inspire dreams (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),275,Finding Reasons (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),276,Listen to the heart (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),277,Old Master (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-Prints & Graphic Works (1959-2005),278,Just a new promise (Text Messages),2005,297x210,digital print,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",2,Three youths,1985,200x280,Watercolour and collage,368,Watercolours & Collages,Drawings mythologies 1985,01 Three Youths,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",3,Airport beach,1985,200x280,Watercolour and collage,369,Watercolours & Collages,Drawings mythologies 1985,02 Airport Beach,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",4,At the well,1985,200x280,Watercolour and collage,370,Watercolours & Collages,Drawings mythologies 1985,03 At the Well,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",5,Banter,1985,280x200,Watercolour and collage,371,Watercolours & Collages,Drawings mythologies 1985,03 Banter,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,orientation only,site generic
-"Watercolours, Sketches and Collages",6,Elders,1985,200x280,Watercolour and collage,372,Watercolours & Collages,Drawings mythologies 1985,04 Elders,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",7,Girls playing beach ball,1985,200x280,Watercolour and collage,373,Watercolours & Collages,Drawings mythologies 1985,05 Girls playing Beachball,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,0.98,ok,ok,site generic
-"Watercolours, Sketches and Collages",8,Music and dance,1985,200x280,Watercolour and collage,374,Watercolours & Collages,Drawings mythologies 1985,06 Music and Dance,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",9,Salome,1985,200x280,Watercolour and collage,375,Watercolours & Collages,Drawings mythologies 1985,07 Salome,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",10,Sexy woman,1985,280x200,Watercolour and collage,376,Watercolours & Collages,Drawings mythologies 1985,08 Sexy Woman,1985,280 x 200 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",11,The entrance,1985,200x280,Watercolour and collage,377,Watercolours & Collages,Drawings mythologies 1985,09 The Entrance,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",12,The Faun,1985,200x280,Watercolour and collage,378,Watercolours & Collages,Drawings mythologies 1985,10 The Faun,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",13,The Procession,1985,200x280,Watercolour and collage,379,Watercolours & Collages,Drawings mythologies 1985,11 The Procession,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",14,Woman with Bananas,1985,200x280,Watercolour collage,380,Watercolours & Collages,Drawings mythologies 1985,12 Woman with Bananas,1985,200 x 280 mm,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
-"Watercolours, Sketches and Collages",15,Backdrop to Arungabad,2007,380x520,watercolour,408,Watercolours & Collages,India small,Backdrop Aurangabad,,380 x 520 mm,"Collage, Watercolour",probable,0.85,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",16,Arungabad Mill (sketch),2007,520x350,watercolour,407,Watercolours & Collages,India small,Aurangabad Mill,,520 x 380 mm,"Collage, Watercolour",probable,0.90,missing on site,MISMATCH,site generic
-"Watercolours, Sketches and Collages",17,Bikaneer lake 1,2007,380x520,watercolour,409,Watercolours & Collages,India small,Bikaner lake 1,,380 x 520 mm,"Collage, Watercolour",exact,0.97,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",18,Bikaneer lake 2,2007,380x520,watercolour,410,Watercolours & Collages,India small,Bikaner lake 2,,380 x 520 mm,"Collage, Watercolour",exact,0.97,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",19,Hill Station Arungabad,2007,380x520,watercolour,411,Watercolours & Collages,India small,Hill Station Aurangabad,,380 x 520 mm,"Collage, Watercolour",exact,0.93,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",20,Desert with Trees,2007,380x520,watercolour,412,Watercolours & Collages,India small,Desert with Trees Bikaner,,380 x 520 mm,"Collage, Watercolour",probable,0.81,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",21,Pottery stall Arungabad,2007,380x520,Watercolour,417,Watercolours & Collages,India small,Pottery Stall Aurangabad,,380 x 520 mm,"Collage, Watercolour",exact,0.94,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",22,Pushkar sunset,2007,380x520,watercolour,413,Watercolours & Collages,India small,Pushkar Sunset,,380 x 520 mm,"Collage, Watercolour",exact,1.00,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",23,Taj Gardens,2007,380x520,Watercolour,415,Watercolours & Collages,India small,Taj Garden,,380 x 520 mm,"Collage, Watercolour",exact,0.95,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",24,Varanasi Ghats,2007,380x520,Watercolour,416,Watercolours & Collages,India small,Varanasi Gats,,380 x 520 mm,"Collage, Watercolour",exact,0.96,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",25,Pushkar Farmland,2007,380x520,watercolour,418,Watercolours & Collages,India small,Pushkar Farmland,,380 x 520 mm,"Collage, Watercolour",exact,1.00,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",26,Figures on the Beach,,390x560,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",27,Girls at Famara Washing (sketch),1986,480x340,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",28,Bathers Famara,1987,430x570,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",29,Mother and Daughter on the Beach,1998,630x480,watercolour,439,Watercolours & Collages,Lanzarote,14 Mother and Daoughter on the Beach,1998,630 x 480 mm,"Collage, Watercolour",exact,0.98,ok,ok,site generic
-"Watercolours, Sketches and Collages",30,The Thorn,1985,630x480,watercolour,435,Watercolours & Collages,Lanzarote,10 The Thorn,1985,200 x 280 mm,"Collage, Watercolour",exact,1.00,ok,MISMATCH,site generic
-"Watercolours, Sketches and Collages",31,Dotty Women,1998,600x420,watercolour,440,Watercolours & Collages,Lanzarote,15 Dotty Women,,600 x 420 mm,"Collage, Watercolour",exact,1.00,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",32,Figures on a cloudy beach,1998,430x540,watercolour,443,Watercolours & Collages,Lanzarote,18 Figures on a Cloudy Beach,1998,430 x 590 mm,"Collage, Watercolour",exact,1.00,ok,MISMATCH,site generic
-"Watercolours, Sketches and Collages",33,Apostle with stone arches,1996,300x210,Pencil drawing,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",34,Diver and Dreamer (sketch),,300x210,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",35,Cacti and rocks,2013,300x210,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",37,Cactus and Hosepipe,2013,660x850,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",38,Camp fire,1995,210x290,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",39,Children with Pet Goats,2006,480x640,watercolour,420,Watercolours & Collages,India small,Children with Pet Goats Bikaner,,490 x 660 mm,"Collage, Watercolour",probable,0.85,missing on site,MISMATCH,site generic
-"Watercolours, Sketches and Collages",40,Charcoal burner and old iron,,410x520,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",41,Dancer and harpist,1995,200x290,Watercolour & Collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",42,Famara Water station with male nude,,190x290,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",43,Family with pregnant woman,,210x290,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",44,Farm buildings and volcano,,210x290,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",45,Figures on a beach towel,,210x290,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",46,Funnel and rock formation,,500x760,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",48,Geometric shapes at night,,210x290,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",49,Gipsies putting up a frame tent,,280x250,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",50,Girls washing their hair,1986,680x340,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",51,Goat in a Bay with Barges,,200x300,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",52,Goats in a Bay,,200x300,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",53,Headless Woman on the Beach,,200x300,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",54,Hot Landscape with lovers,,430x570,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",55,La Geria with bird scares,1908,450x608,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",56,Lava flow with sunny background,1908,450x570,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",57,Lolita and Blue Beard,,450x570,Pen drawing and watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",58,Mother and baby on the beach,,200x290,Drawing and watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",59,Musicians no 3,,200x290,Watercolour collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",60,Nude in front of mirror,,300x200,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",61,Nude woman with Castle,,300x200,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",62,Old and Young woman at the farmhouse,,200x290,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",63,Pregnant woman with engraved stone,,200x290,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",64,Red Stone at the Bodega,,200x290,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",65,Rocks near Mala,,360x570,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",66,Roped abstract,,590x450,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",67,Ruins in the spring,,420x510,Watercolour collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",68,Seed onions,,420x510,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",69,Ruins with girls,,420x510,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",70,Step into the Future (design for Westminster sculpture competition),,350x280,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",71,Terracotta figurines,,300x190,Pen drawing,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",72,The Burial,,370x590,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",73,The Cockerel Sheherezade,2002,470x600,watercolour,448,Watercolours & Collages,Lanzarote,23 The Cockerel Sheherezade,2001,570 x 450 mm,"Collage, Watercolour",exact,1.00,MISMATCH,MISMATCH,site generic
-"Watercolours, Sketches and Collages",74,Funnel and YOYO,,500x760,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",75,Two Figures in the tomato field,1986,440x570,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",76,Talking of history,1986,440x570,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",77,Vanity,,190x240,Drawing and watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",78,Woman dressing in the doorway,,530x380,Watercolour collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",79,Annuncios house,1989,450x590,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",80,Cactus and hose pipe,2013,660x850,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",81,Descent into the crater,2001,500x600,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",83,Famara beach purifying station,1982,390x550,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",84,Femme fatale,1987,570x420,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",85,Figures with a wind shield,1987,570x420,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",87,Nude with a castle Lanzarote,1987,390x560,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",89,From Van Gogh to Einstein,2001,,"Digital print and watercolour (Several sizes, 1 framed)",,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",90,Girls on Famara beach,1989,310x480,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",91,Hillside with figures,,440x420,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",92,House with Roots Papagayo,1989,370x510,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",93,Loops,2001,660x500,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",94,Lunar landscape Lanzarote,2001,430x510,Digital montage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",95,Musician and dancer,,350x470,Watercolour collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",96,Rock formation in Mala,1998,500x670,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",97,Sky Spectacular Lanzarote,,750x560,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",98,Stone steles at Mala,1980,450x560,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",99,The green mine,1980,430x590,watercolour,455,Watercolours & Collages,Lanzarote,30 The green Mine,,430 x 590 mm,"Collage, Watercolour",exact,1.00,missing on site,ok,site generic
-"Watercolours, Sketches and Collages",100,Stone washtub,1980,450x560,Watercolour and collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",101,Hello and Goodbye,1998,390x570,Watercolour collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",102,Water well with figures,1998,450x590,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",103,Camel station,,360x540,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",104,Temptations (sketch),,200x280,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",105,Chicken run,,440x630,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",106,Dream horse,,460x560,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",107,Dried plant in a sack,,470x600,Watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",108,Figures at Famara beach,,480x640,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",109,Flowers and clouds,,420x590,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",110,Garden with dead palm,,420x590,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",111,Guess who is coming for dinner,,470x600,Watercolour collage,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",112,Geranium in the bay,,430x670,Watercolour and crayon,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",113,La Haria with clouds,,430x670,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",114,Hills with agaves,,480x630,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",115,House on top of the hill,,480x630,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",116,Vineyard with Clouds,,450x630,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",117,Vineyard with Red Hill,,430x600,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",118,Landscape with stubble and agaves,,450x630,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",119,Lichen on the rocks,,460x620,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",120,Lichen,,460x620,watercolour,,,,,,,,unmatched,,,,
-"Watercolours, Sketches and Collages",121,Mala,,450x600,watercolour,,,,,,,,unmatched,,,,
+inv_section,inv_no,inv_title,inv_year,inv_size_mm,inv_technique,site_index,site_category,site_subcategory,site_title,site_date,site_dimensions,site_dims_source,site_technique,match,match_score,date_check,dim_check,technique_check
+Prints & Graphic Works (1959-2005),1,Vagabondage,1959,500x660,"Deep bite, engraving & drilling. Colour viscosity printed in purple-black, orange & yellow",67,Prints,1959-1966,Vagabondage,1959,500 x 660 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),2,Saule Pleureur,1959,500x660,Line engraving printed in black,68,Prints,1959-1966,Saule Pleureur,1959,500 x 660 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),3,Via Siena,1959,500x660,"Deep bite, aquatint, colour viscosity printed in brown, purple & orange",69,Prints,1959-1966,Via Siena,1959,500 x 660 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),4,Croisement des Chemins,1959,550x600,"Scraper engraving, aquatint. Colour viscosity print in black orange & blue",71,Prints,1959-1966,Croisement des Chemins,1959,550 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),5,Marée,1959,410x540,"Etching & engraving, deep bite. Colour viscosity print in red and blue",72,Prints,1959-1966,Maree,1959,410 x 540 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),6,Après la Moisson (K),1959,410x540,"Scraper sculpted plate, engraving. Colour viscosity print in purple-black, blue & yellow",73,Prints,1959-1966,Apres la Moisson,1959,410 x 540 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),7,Le Bois Endormant,1959,650x600,"Deep etching with line etching, scraper engraving. Colour viscosity print in black, yellow and green",74,Prints,1959-1966,Le Bois Endormant,1959,650 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),8,Midi,1959,650x600,"Deep bite, engraving. Colour viscosity print in black, blue & red",75,Prints,1959-1966,Midi,1959,650 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),9,Libellule,1959,650x600,Line engraving printed in black,76,Prints,1959-1966,Libellule,1959,650 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),10,Vue sur la Montagne,1959,650x440,"Deep bite, colour viscosity print in black, blue, orange & olive",77,Prints,1959-1966,Vue sur la Montagne,1959,650 x 440 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),12,Pluie d'Avril,1960,650x600,"Deep bite, Scraper engraving, aquatint. Colour viscosity print in blue-black, and orange",78,Prints,1959-1966,Pluie d'Avril,1960,650 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),13,Troubled Square (K),1961,780x600,"Deep bitten & cut plate. Colour viscosity print in black, blue & orange",79,Prints,1959-1966,Troubled Square,1961,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),14,Fumée (K),1961,500x660,Line engraving printed in black,80,Prints,1959-1966,Fumee,1961,500 x 660 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),15,Peacock,1961,650x600,"Deep bite, gauge & scraper engraving. Colour viscosity print in orange, brown & purple",81,Prints,1959-1966,Peacock,1961,650 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),16,Hopfields,1961,590x410,Line engraving printed in black,82,Prints,1959-1966,Hopfields,1961,590 x 410 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),17,Kent,1961,590x410,Deep bite colour viscosity print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),18,Petroushka (triptych) (K),1962,500x650,"Pressed metal relief, intaglio & surface printed in black 2 part vignette",83,Prints,1959-1966,Petroushka (triptych),1962,500 x 650 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),19,Electronics for Beginners (K),1962,780x600,"Deep bite, engraving & drilling. Colour viscosity print in blue-black, red & yellow",84,Prints,1959-1966,Electronics for Beginners,1962,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),20,Suffragette,1962,800x590,Pressed metal collage & engraving printed in red & black,85,Prints,1959-1966,Suffragette,1962,800 x 590 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),21,Foundry,1961,390x570,"Deep bite, line engraving, drilling, printed in brown-black & red",86,Prints,1959-1966,Foundry,1961,390 x 570 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),22,Outsiders,1962,780x600,"Deep bite, aquatint & dry point, printed in black, grey, red,& green vignette",87,Prints,1959-1966,Outsiders,1962,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),23,Box Shapes,1963,580x570,"Aquatint & hardboard cut outs printed in black, ochre, and blue-black",88,Prints,1959-1966,Box Shapes,1963,580 x 570 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),24,Two Cultures (K),1963,780x600,"Photo gravure, dry point, engraving & brass cut out Printed in black green, yellow, brown & red vignette",89,Prints,1959-1966,Two Cultures,1963,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),25,Charm Against Evil,1963,,Engraving and deep bite on copper,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),26,Petra,1963,670x500,Line engraving & deep bite printed in black vignette,90,Prints,1959-1966,Petra,1963,670 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),27,Le Balcon by Jean Genet (title page) (K),1964,640x500,"Line engraving, photo etching, gilding. Colour viscosity print printed in black, orange, & pink",91,Prints,1959-1966,Le Balcon by Jean Genet (Artist's boo title page 1),1964,640 x 500 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),28,The General (Le Balcon page 2),1964,640x500,Line-engraving & aquatint printed in black. Gilded,92,Prints,1959-1966,The General (Le Balcon.. page 2),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),29,The Judge (Le Balcon page 3) (K),1964,640x500,"Line-engraving, aquatint, soft ground etching & drilling, printed in black",93,Prints,1959-1966,The Judge (Le Balcon.. page 3),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),30,Chantal (Le Balcon page 4),1964,640x500,"Line-engraving, aquatint, drilling printed in black, red, blue. Gilded",94,Prints,1959-1966,Chantal (Le Balcon.. page 4),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),31,Mme. The Queen (Le Balcon page 5),1964,640x500,"Sugar aquatint, printed in black, red & yellow",95,Prints,1959-1966,Mme. The Queen (Le Balcon.. page 5),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),32,The Bishop (Le Balcon page 6),1964,640x500,"Line-engraving, aquatint & drilling, printed in black. Gilded",96,Prints,1959-1966,The Bishop (Le Balcon.. page 6),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),33,The Orator & the Crowd (Le Balcon page 7) (K),1964,640x500,"Line-engraving, hammered & cut plate. Colour viscosity print in red, blue, & black",97,Prints,1959-1966,The Orator & the Crowd (Le Balcon.. page 7) jpg,1964,640 x 500 mm,field,Print,exact,0.95,ok,ok,site generic
+Prints & Graphic Works (1959-2005),34,The Queen (Le Balcon page 8) (K),1964,640x500,"Line-engraving, soft ground, open bite & drilling, printed in black and yellow",98,Prints,1959-1966,The Queen (Le Balcon.. page 8),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),35,Mausoleum for the chief of the secret police (Le Balcon page 9),1964,640x500,"Line engraving, sugar aquatint, metal mesh cut-out drilled. Printed in black & Gilded",99,Prints,1959-1966,Mausoleum for the chief of the secret police (Le Balcon),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),36,Everyday Irreality (Le Balcon page 10) (K),1964,640x500,"Line engraving, sugar aquatint, photo etching drilled. Printed in black. Mirror foil collage",100,Prints,1959-1966,Everyday Irreality (Le Balcon.. page 10) 67,1964,640 x 500 mm,field,Print,exact,0.96,ok,ok,site generic
+Prints & Graphic Works (1959-2005),37,The Fire (Le Balcon page 11),1964,640x500,"Brushed aquatint & deep bite, printed in black, red & mauve",101,Prints,1959-1966,The Fire (Le Balcon.. page 11),1964,640 x 500 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),38,Blind Landing (K),1964,380x480,"Pressed & extruded metal, surface & intaglio print. Vignette. Printed in black, green & red",102,Prints,1959-1966,Blind Landing,1964,380 x 480 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),39,Bee master,1964,480x380,"Deep etched, engraved & drilled. Colour viscosity printed in blue & orange. vignette",103,Prints,1959-1966,Beemaster,1964,480 x 380 mm,field,Print,exact,0.95,ok,ok,site generic
+Prints & Graphic Works (1959-2005),40,The Artists Skin (K),1965,800x600,Hammered & woven brass vignette. Printed in brown & orange. vignette,104,Prints,1959-1966,The Artists Skin,1965,800 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),41,The Miracle Worker,1964,580x460,"Line engraving, letter punch, hammered, surface & intaglio, printed in black. Vignette",105,Prints,1959-1966,The Miracle Worker,1964,580 x 460 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),42,Mass Hysteria,1964,580x460,"Deep-bite, drilling & metal foil collage printed in black, brown, ochre & red",106,Prints,1959-1966,Mass Hysteria,1964,580 x 460 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),43,Curven Gallery Exhibition Poster,1965,540x450,"Folded bronze cut out, line engraving & litho vignette. Printed in black, yellow & red. vignette",107,Prints,1959-1966,Curven Gallert Exhibition Poster,1965,540 x 450 mm,field,Print,exact,0.97,ok,ok,site generic
+Prints & Graphic Works (1959-2005),44,Melting point,1965,800x590,"Deep-bite drilling. Colour viscosity print in black, red & mauve",108,Prints,1959-1966,Meltingpoint,1965,800 x 590 mm,field,Print,exact,0.96,ok,ok,site generic
+Prints & Graphic Works (1959-2005),45,The Escapist,1965,800x600,,109,Prints,1959-1966,The Escapist,1965,800 x 600 mm,field,Print,exact,1.00,ok,ok,inventory has no technique
+Prints & Graphic Works (1959-2005),46,Sappho,1966,780x600,"Line engraving, & brass cut-out, printed in black, ochre, pink & red",116,Prints,1966-1976,Sappho,1966,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),47,The Wise and Foolish Virgin,1966,780x600,"Line engraving, aquatint, hammered brass, photogravure & plastic engraving, printed in black, blue & yellow",117,Prints,1966-1976,The Wise and Foolish Virgin,1966,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),48,Old Wife's Tale,1966,780x600,"Line engraving, aquatint & surface rolled brass, printed in black, ochre, pink & red",118,Prints,1966-1976,Old Wife's Tale,1966,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),49,Play (K),1966,780x600,"Photogravure, aquatint, cutout & rope. Vignette. Printed in black, green, magenta, yellow & gray",119,Prints,1966-1976,Play,1966,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),50,Pool on the 30th Floor,1966,780x600,"Line engraving, aquatint, drypoint & metal cut-out vignette. Printed in blue, grey, red,& ultramarine",120,Prints,1966-1976,Pool on the 30th Floor,1966,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),51,Three new Creatures,1966,600x780,"Deep bite, dry point, heat branded plastic, printed in blue, red, black, yellow, mauve & ochre",121,Prints,1966-1976,Three new Creatures,1966,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),52,Temple,1967,780x600,Etching and metal graphic,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),53,Diver and Dreamer,1976,800x600,"Deep bite, aquatint& plastic engraving, printed in purple-black, ochre, orange, & yellow vignette",122,Prints,1966-1976,Diver and Dreamer,1976,800 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),54,Jack boot,1976,800x600,Press metal collage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),55,The Past A/P,1976,600x780,Plastic engraving heat branding and aquatint,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),56,Observed in High Spirits (K),1967,600x780,"Deep bite, aquatint, surface rolled brass cut out, printed in black, brown, yellow, red, green, & blue",123,Prints,1966-1976,Observed in High Spirits,1967,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),57,By the Drunken Photographer,1967,780x600,"Line engraving, aquatint & surface rolled brass cut out, printed in black, green & brown",124,Prints,1966-1976,By the Drunken Photographer,1967,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),58,Discarded Dreams,1967,600x780,"Line engraving, surface rolled brass cut out, printed in black, red, ochre, blue & green",125,Prints,1966-1976,Discarded Dreams,1967,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),59,Green People,1967,800x600,"Photo etching, deep bite & surface printed brass cut out. vignette",126,Prints,1966-1976,Green People,1967,800 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),60,Birds,1973,780x600,"Photo etched intaglio & plastic cut out, printed in blue-black, green, blue & yellow",127,Prints,1966-1976,Birds,1973,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),61,Six Months in the Air,1968,780x600,"Deep etched, engraved, aquatint brass cut out, printed in brown-black, red, yellow, pink & purple",128,Prints,1966-1976,Six Months in the Air,1968,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),62,Moonshots,1968,780x600,Etching and brass cut out,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),63,Ribs and String,1969,,Stencil print with spray paint,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),64,Ideas for an architectural site,1968,,Drawing original,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),65,Balance,1971,780x600,"Line engraving, aquatint, dry point, brass cut out, printed in black, blue, yellow & green Vignette",129,Prints,1966-1976,Balance,1971,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),66,"Bird, Land and Ribs",1968,780x600,"Deep bite, etching, aquatint & stencil, printed in black & blue Vignette",130,Prints,1966-1976,"Bird, Land and Ribs",1968,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),67,Danger,1969,780x600,"Photo etching & mezzotint on plastics, printed in green black, blue-black, yellow, brown, & green",131,Prints,1966-1976,Danger,1969,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),68,Bravado (K),1969,600x780,"Etching & deep bite with brass cut outs, printed in black, red, yellow, purple,& ochre Vignette",132,Prints,1966-1976,Bravado,1969,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),69,Beginning (K),1970,780x600,"Line engraving, aquatint & brass cut out, printed in black, red, & yellow Vignette",133,Prints,1966-1976,Beginning,1970,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),70,Heroes in Perspective,1974,600x789,"Heat branded plastic, photo etching & line engraving, printed in black, blue, ochre & red Vignette",134,Prints,1966-1976,Heroes in Perspective,1974,600 x 789 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),71,Temptations (K),1974,600x780,"Sugar aquatint, deep bite, machine-engraving & heat branded plastic, printed in blue-black, brown, pink, magenta & turquoise",135,Prints,1966-1976,Temptations,1974,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),72,The Sculpture Garden,1974,600x800,"Line engraving, aquatint, with dry point on plastics, printed in green-black, red & yellow Vignette",136,Prints,1966-1976,The Sculpture Garden,1974,600 x 800 mm,field,Sculpture,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),73,Possessions,1972,800x600,"Dry point on plastics, etching, aquatint on copper printed in green-black, red & yellow Vignette",137,Prints,1966-1976,Posessions,1972,800 x 600 mm,field,Print,exact,0.95,ok,ok,site generic
+Prints & Graphic Works (1959-2005),74,Shell,1972,800x600,"Multi layered plastic cut out, dry point, engraving, printed in brown, mauve, blue, yellow, red & olive green Vignette",138,Prints,1966-1976,Shell,1972,800 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),75,New Dove (K),1972,800x600,"Computer generated litho & surface print in black, grey, red & orange Vignette",139,Prints,1966-1976,New Dove,1972,800 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),76,The Preservation of Life,1972,800x600,"Line engraving & dry point on plastic, printed in blue, brown & olive Vignette",140,Prints,1966-1976,The Preservation of Life,1972,800 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),77,Starlet (K),1966,800x600,"Folded, hammered brass & extruded metal cut-out, printed in blue, black with mirror foil applied Vignette",141,Prints,1966-1976,Starlet,1966,800 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),78,Virtuosos,1972,780x600,"Line engraving, aquatint & brass cut outs, printed in brown-black, grey yellow, red & olive",142,Prints,1966-1976,Virtuosos,1972,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),79,Homes,1972,600x780,"Dry point on plastic, printed in brown-black & green Vignette",143,Prints,1966-1976,Homes,1972,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),80,Dark Satanic Mills (K),1974,780x600,"Photo etching, heat branded plastic & plastic engraving, printed in brown-black, grey & green",144,Prints,1966-1976,Dark Satanic Mills,1974,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),81,Blueprint for Survival,1974,600x780,"Photo etching & plastic engraving, printed in purple-black, blue, orange & purple",145,Prints,1966-1976,Blueprint for Survival,1974,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),82,Sunbathers,1974,600x780,"Plastic engraving, dry point & aquatint, printed in blue, green, orange, mauve & turquoise",146,Prints,1966-1976,Sunbathers,1974,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),83,Let's go and Watch,1974,600x780,"Photo etching, line engraving, soft ground & plastic engraving, printed in black, yellow, red & green. vignette",147,Prints,1966-1976,Let's go and Watch,1974,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),84,Swinger,1974,780x600,"Machine engraved and heat-branded plastics, dry point, and mezzotint, printed in black, blue, red, ochre & magenta vignette",148,Prints,1966-1976,Swinger,1974,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),85,Watching the Garden Grow,1974,780x600,"Heat branded plastic & mezzotint, printed in black, blue, yellow, & ochre. vignette",149,Prints,1966-1976,Watching the Garden Grow,1974,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),86,Nocturne,1974,780x600,"Line engraving & aquatint on copper & dry pointed plastic, printed in black, brown, blue & mauve vignette",150,Prints,1966-1976,Nocturn,1974,780 x 600 mm,field,Print,exact,0.93,ok,ok,site generic
+Prints & Graphic Works (1959-2005),87,By the Drunken Photographer,1967,780x600,"Line engraving, aquatint & folded brass cut-outs, printed in black, green & brown",151,Prints,1966-1976,By the Drunken Photographer,1967,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),88,On the Farm,1975,780x600,"Heat branded plastic, bubble wrap, dry point, printed in black, blue, red & ochre vignette",152,Prints,1966-1976,On the Farm,1975,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),89,Bougainvillea,1975,780x600,"Line engraving & mezzotint on copper & heat branded plastic, printed in black, red, blue, yellow & brown. vignette",153,Prints,1966-1976,Bougainvillea,1975,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),90,Recharging Batteries (K),1975,600x780,"Mezzotint And heat-branding on plastic, printed in black, grey, brown,& pink",154,Prints,1966-1976,Rechargeing Batteries,1975,600 x 780 mm,field,Print,exact,0.98,ok,ok,site generic
+Prints & Graphic Works (1959-2005),91,Knossos,1975,780x600,"Aquatint, on zinc, plastic engraving, printed red, green, blue, with pink & white plastic collage. vignette",155,Prints,1966-1976,nossos,1975,780 x 600 mm,field,Print,probable,0.92,ok,ok,site generic
+Prints & Graphic Works (1959-2005),92,The Grand Bathroom (K),1975,780x600,"Engraving on plastic cut-outs, printed in black, blue, green yellow & brown vignette",156,Prints,1966-1976,The Grand Bathroom,1975,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),92b,Give & Take,1976,780x600,"Heat branding & dry-pointing on plastic, printed in black, blue, red, yellow & orange, vignette",157,Prints,1966-1976,Give & Take,1976,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),93,Woman In Waves,,600x780,Photo litho,220,Prints,1976-1996,Woman in Waves,1989,600 x 780 mm,field,Print,exact,1.00,inventory has no year,ok,site generic
+Prints & Graphic Works (1959-2005),94,Contentment or Dog Scratching it's Back,1975,600x780,"Heat branded engraved plastic & dry point, printed in black, ochre, grey & brown. vignette",158,Prints,1966-1976,Contentment or Dog Scratching it's Back,1975,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),95,Water Sculpture,1976,780x600,"Deep-bite on copper, engraving & dry-point on plastic, printed in purple, blue, brown & burnt Siena",159,Prints,1966-1976,Water Sculpture,1976,780 x 600 mm,field,Sculpture,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),96,Biplanes and Catamarans (K),1968,600x780,"Heat branded plastic & plastic engraving, printed in black, orange & red Vignette",190,Prints,1976-1996,Biplanes and Catamarans,1968,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),97,Woman at the Edge,1998,600x780,Heat branding and collage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),98,Agnus Dei,1978,600x780,"Plastic engraving & mezzotint, printed in black, blue, grey red, yellow, mauve & orange",191,Prints,1976-1996,Agnus Dei,1978,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),99,Sphinx (K),1978,600x780,"Computer generated photo etching & plastic engraving, printed in black, grey, blue, brown, orange & blue",192,Prints,1976-1996,Sphinx,1978,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),100,The Waterhole (K),1978,780x600,"Photo litho, plastic engraving & woodcut, printed in black, pink, brown, green, red, grey & ochre Vignette",193,Prints,1976-1996,The Waterhole,1978,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),101,Colours Must Sing,1978,780x600,"Engraving on plastic, mezzotint & dry point, printed in black, red, pink, blue, orange & yellow. Vignette",194,Prints,1976-1996,Colours Must Sing,1978,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),102,Orpheus,1978,600x780,"Dry point on heat branded plastics & aquatint on copper, printed in black, red, grey, orange & green Vignette",195,Prints,1976-1996,Orpheus,1978,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),103,Tournament,1970,600x780,"Brushed aquatint, line engraving, colour intaglio & surface print, printed in black, red, green-black, blue, ochre & yellow",196,Prints,1976-1996,Tournament,1970,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),104,Gipsies,1979,600x780,"Etching & aquatint, heat-branded plastic, printed in black, ochre, red, pink, orange & blue Vignette",197,Prints,1976-1996,Gipsies,1979,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),105,Let the Angels Sing,1979,780x600,"Plastics engraving, heat branding & mezzotint, printed in black, blue, grey & orange",198,Prints,1976-1996,Let the Angels Sing,1979,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),106,Before the Pilons Came,1979,600x780,"Engraving, heat branding & mezzotint, printed in red, blue, green, yellow & burnt Siena. Vignette",199,Prints,1976-1996,Before the Pilons Came,1979,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),107,Historic Couple,1979,600x780,"Heat branded plastic, engraving, mezzotint, printed in black, blue, red, grey, yellow & brown Vignette",200,Prints,1976-1996,Historic Couple,1979,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),108,Weight Watcher,1979,780x600,"Etching & heat branded plastic, printed in black, ochre, pink & grey",201,Prints,1976-1996,Weight Watcher,1979,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),109,Lady in a Hammock,1979,780x600,"Photo etching & line engraving on plastic, printed in black, grey & brown Vignette",202,Prints,1976-1996,Lady in a Hammock,1979,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),110,The Road is Up,1980,600x780,"Heat branded plastic & dry point, printed in black, blue, red, ochre, brown & purple",203,Prints,1976-1996,The Road is Up,1980,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),111,Lanzarote (K),1981,600x780,"Heat branded plastic, dry point, etched plastic, printed in black, pink, yellow, blue, & green Vignette",204,Prints,1976-1996,Lanzarote,1981,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),112,Hello and Goodbye (K),1981,780x108,"Photo litho & plastics engraving, printed in black, red, grey & yellow Vignette (Two sheets)",205,Prints,1976-1996,Hello and Goodby,1981,780 x 108 mm,field,Print,exact,0.97,ok,ok,site generic
+Prints & Graphic Works (1959-2005),113,The Bird the Snake & the Stone Lion,1982,600x780,"Brushed aquatint, line engraving on zinc & copper, Printed in purple, green, blue, brown,& mauve",206,Prints,1976-1996,The Bird the Snake & the Stone Lion,1982,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),114,Roots,1981,600x780,"Plastic engraving & mezzotint, printed in black, grey, green, pink, yellow & red Vignette",207,Prints,1976-1996,Roots,1981,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),115,The Bird man,1985,600x780,"Sugar aquatint, plastic engraving",208,Prints,1976-1996,The Birdman,1985,600 x 780 mm,field,Print,exact,0.96,ok,ok,site generic
+Prints & Graphic Works (1959-2005),116,Allegory,1985,780x600,"Engraving & heat branding & mezzotint on plastic, printed on black, yellow, pink & blue Vignette",209,Prints,1976-1996,Allegory,1985,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),117,Mother Nature,1983,600x780,"Plastic engraving, printed in black, grey, burnt Siena Vignette",210,Prints,1976-1996,Mother Nature,1983,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),118,Shadows in a Tudor Barn,1984,780x600,"Photo litho, heat branding, engraving on plastic, printed in black, blue & orange",211,Prints,1976-1996,Shadows in a Tudor Barn,1984,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),119,The Lure of Lost Cultures,1985,600x780,"Mezzotint & heat branding on plastic printed in black, brown, blue & turquoise",212,Prints,1976-1996,The Lure of Lost Cultures,1985,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),120,The Wind (K),1984,780x600,"Engraving, heat branding, dry point, on plastic, printed in brown, black, blue & pink. vignette",213,Prints,1976-1996,The Wind,1984,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),120b,Divine Proportions,1985,600x780,Sugar Aquatint and plastic engravings,215,Prints,1976-1996,Divine Proportions,1985,780 x 600 mm,field,Print,exact,1.00,ok,orientation only,site generic
+Prints & Graphic Works (1959-2005),121,I Wish you Were Here,1988,600x780,"Etching, aquatint & coloured, plastic engraving printed in black, blue, yellow, red, green & magenta",216,Prints,1976-1996,I Wish you Were Here,1988,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),122,Loops,1985,780x600,Colour aquatint & line engraving on plastic,217,Prints,1976-1996,Loops,1985,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),123,Penthouse,1985,780x600,Etching and plastics engraving,214,Prints,1976-1996,Penthouse,1985,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),124,And the Midgets Would Rule (K),1985,600x780,"Photo etching & coloured mezzotint on plastic, printed in black, grey & orange",218,Prints,1976-1996,And the Midgets Would Rule,1985,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),125,The Silver Screen (K),1985,600x780,"Photo etching & coloured mezzotint on plastic, printed in green-black, pink, blue & ochre",219,Prints,1976-1996,The Silver Screen,1985,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),126,Step into the Future (K),1986,780x600,"Plastic engraving, photo etching & woodcut, printed in ochre, red, blue, & black. vignette",221,Prints,1976-1996,Step into the Future,1986,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),127,Airport beach,1988,600x780,Etching and plastic engraving,222,Prints,1976-1996,Airport Beach,1988,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),128,Airport beach Sketch,1988,600x780,Plastic engraving and collage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),129,Musicians 1,1989,600x780,"Engraved hardboard, plastic engraving & dry point, printed in black, grey, red, blue, brown, & light green",,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),130,Musicians 2,1989,410x570,Engraved plastic and Collage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),131,Ego the Goat,1988,600x780,"Photo etching, line engraving, aquatint & plastic cut-out, printed in purple black, orange & light green",223,Prints,1976-1996,Ego the Goat,1988,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),132,The Dead and the Living (from triptych),1989,600x780,"Computer generated photo etching & woodcut, printed in black, raw umber & green",224,Prints,1976-1996,The Dead and the Living (from triptych),1989,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),133,Titania (from triptych) (K),1989,780x600,"Computer generated etching, line engraving & aquatint, printed in black, grey, red, green & blue",225,Prints,1976-1996,Titania (from triptych),1989,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),134,Swansong (from triptych),1989,600x780,"Line engraving & aquatint with plastic cut-outs, printed in brown-red, grey, magenta & yellow",226,Prints,1976-1996,Swansong (from-triptych),1989,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),135,The Venus Flytrap,1991,780x600,"Digital montage & woodcut, printed in black, blue, red green, orange & yellow",228,Prints,1976-1996,The Venus Flytrap,1991,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),136,Madame Guillotine (Deptford Market) (K),1996,600x780,"Digital montage & woodcut & Litho, printed in black, brown, purple & light green",229,Prints,1976-1996,Madame Guillotine (Deptford Market),1996,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),137,Stallholders (Deptford Market),1996,780x600,"Digital montage with litho, aquatint & woodcut, printed in black, green, yellow, orange, blue & brown",230,Prints,1976-1996,Stallholders (Deptford Market),1996,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),138,Market Vendor (Deptford Market),1996,780x600,"Digital litho, aquatint & woodcut, printed in black, red, blue, yellow & lilac",231,Prints,1976-1996,Market Vendor (Deptford Market),1996,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),139,Pile them High and Sell them Cheap (Deptford Market) (K),1996,780x600,"Digital montage, printed in black vignette",232,Prints,1976-1996,Pile them High and Sell them Cheep (Deptford Market),1996,780 x 600 mm,field,Print,exact,0.98,ok,ok,site generic
+Prints & Graphic Works (1959-2005),140,"The Reincarnation of a Cactus (Artist's Book - Catalana Blanca, poems by Lorand Gaspar) (K)",1997,710x600,"Digital montage, printed in black. vignette",17,Prints,1996-2001,The Reincarnation of a Cactus,1997,710 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),141,The Ghost of el Greco with poem (Catalana Blanca),1997,,"Digital montage, printed in black vignette",18,Prints,1996-2001,The Ghost of el Greco with poem (Catalana Blanca),1997,,,Print,exact,1.00,ok,inventory has no size,site generic
+Prints & Graphic Works (1959-2005),142,The Ghost of el Greco (Catalana Blanca) (K),1997,780x600,"Digital montage, printed in black. vignette",19,Prints,1996-2001,The Ghost of el Greco (Catalana Blanca),1997,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),143,Catalana Blanca (Catalana Blanca) (K),1997,630x900,"Digital montage, printed in black. vignette",20,Prints,1996-2001,Catalana Blanca (Catalana Blanca),1997,630 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),144,Nijinsky (Catalana Blanca) (K),1997,780x600,"Digital montage, printed in black. vignette",21,Prints,1996-2001,Nijinsky (Catalana Blanca),1997,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),145,Metamorphosis (Catalana Blanca),1997,780x600,"Photo etching, aquatint & plastic engraving, printed in black grey, red & green",22,Prints,1996-2001,Metamorphosis (Catalana Blanca),1997,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),146,Monument to a Housewife (K),1997,780x600,"Digital montage, printed in black Vignette",23,Prints,1996-2001,Monument to a Housewife,1997,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),147,Still life with Beans (K),1997,,Digital litho and watercolour,24,Prints,1996-2001,Still life with Beans,1997,600 x 780 mm,field,Print,exact,1.00,ok,inventory has no size,site generic
+Prints & Graphic Works (1959-2005),148,From Van Gogh to Einstein,,,"Digital montage with litho, aquatint & woodcut, Vignette (Several sizes)",25,Prints,1996-2001,From Van Gogh to Einstein,1999,600 x 430 mm,field,Print,exact,1.00,inventory has no year,inventory has no size,site generic
+Prints & Graphic Works (1959-2005),149,The bowels of the earth,1996,600x780,Digital litho & aquatint. Vignette,26,Prints,1996-2001,The bowels of the earth,1996,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),150,Palm roots Searching for Water (K),1997,900x630,Digital montage & plastic engraving,27,Prints,1996-2001,Palmroots Searching for Water,1997,900 x 630 mm,field,Print,exact,0.98,ok,ok,site generic
+Prints & Graphic Works (1959-2005),151,Seed onions,1997,800x700,Digital print and watercolour,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),152,In the Patio,1997,700x900,Digital print and woodcut,8,Prints,2011-2016,In the Patio,1997,700 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),153,"Getting High (kite made of orange peel, wire & rubber band)",1998,,Digital montage. vignette,29,Prints,1996-2001,"Getting High, (kite made of orange peel, wire & rubber band)",1998,,,Print,exact,1.00,ok,inventory has no size,site generic
+Prints & Graphic Works (1959-2005),154,Twiggy - Face,1998,900x680,Digital montage. vignette,30,Prints,1996-2001,Twiggy - Face,1998,900 x 680 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),155,Twiggy - Nude,1998,780x600,Digital montage printed in black vignette,31,Prints,1996-2001,Twiggy - Nude,1998,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),156,Twiggy with red lips,1998,650x930,Digital print and woodcut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),157,Twiggy with Coloured background,1998,650x930,Digital print and woodcut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),158,Nunhead Cemetery,1998,900x630,"Digital montage, plastic engraving & woodcut, printed in black, brown, red, green & yellow vignette",32,Prints,1996-2001,Nunhead Cemetery,1998,900 x 630 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),159,The Collector,2000,780x600,Etching and surface print,33,Prints,1996-2001,The Collector,2000,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),160,The Blue Mine,2000,600x780,Etching,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),161,Mystification,2000,780x600,"Digital litho & aquatint printed in black, red, brown, blue & ochre vignette",,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),162,A Knock at the Door,2001,760x560,Etching and plastics print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),163,Figs and Old Rope,1999,760x560,Digital montage and wood cut,34,Prints,1996-2001,Figs and Old Rope,1999,760 x 560 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),164,Sheets Drying (Washday),2000,600x780,Digital montage printed in black. vignette,35,Prints,1996-2001,Sheets Drying (Washday),2000,600 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),165,Mantegna's Kitchen (Washday) (K),2000,780x600,Digital montage printed in black. vignette,36,Prints,1996-2001,Mantegna's Kitche (Washday),2000,780 x 600 mm,field,Print,exact,0.98,ok,ok,site generic
+Prints & Graphic Works (1959-2005),166,Annunciation (Washday),2000,780x600,Digital montage. vignette,37,Prints,1996-2001,Annunciation (Washday),2000,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),167,Sheets & Hay (Washday),2000,780x600,Digital montage. vignette,38,Prints,1996-2001,Sheets & Hay (Washday),2000,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),168,Sheets with Flowers & Basket (Washday) (K),2000,630x900,Digital montage. Vignette,39,Prints,1996-2001,Sheets with Flowers & Basket (Washday),2000,630 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),169,Sheet & Cooking pot (Washday),2000,780x600,Digital montage. Vignette,40,Prints,1996-2001,Sheet & cooking pot (Washday),2000,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),170,Fishwife (Washday),2000,900x600,Digital montage. Vignette,41,Prints,1996-2001,Fishwife (Washday),2000,900 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),171,Sheet sculpture (Washday),2000,900x600,"Digital montage, watercolour. Vignette",42,Prints,1996-2001,Sheet sculpture (Washday),2000,900 x 600 mm,field,Sculpture,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),172,Self defence,2001,530x760,Digital collage in colour,501,Watercolours & Collages,Guess who is coming for dinner,05 Self defence,2001,530 x 760 mm,field,"Collage, Watercolour",probable,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),173,Dawn (Helios),2000,680x780,"Digital montage, watercolour. Vignette",43,Prints,1996-2001,Dawn (Helios),2000,680 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),174,Morning (Helios),2000,900x700,"Digital montage, watercolour. Vignette",44,Prints,1996-2001,Morning (Helios),2000,900 x 700 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),175,Midday (Helios),2000,900x640,"Digital montage, watercolour. Vignette",45,Prints,1996-2001,Midday (Helios),2000,900 x 640 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),176,Dusk (Helios),2000,680x780,"Digital montage, watercolour. Vignette",46,Prints,1996-2001,Dusk (Helios),2000,680 x 780 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),177,The cockerel Sheherezade (Helios),2000,830x670,Digital montage Vignette,47,Prints,1996-2001,The cockerel Sheherezade (Helios),2000,830 x 670 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),178,Tablewear,2001,,"Digital montage, watercolour. Vignette",48,Prints,1996-2001,Tablewear,2001,780 x 600 mm,field,Print,exact,1.00,ok,inventory has no size,site generic
+Prints & Graphic Works (1959-2005),179,Variable Lights (K),2000,107x760,"Line engraving & woodcut printed in black, red, blue, yellow, green, brown, mauve, orange & ochre",49,Prints,1996-2001,Variable Lights,2000,107 x 760 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),180,Mobius Striptease (K),2001,780x600,Litho & brushed sand in acrylic box,50,Prints,1996-2001,Mobius Striptease,2001,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),181,Book of Sand Cover (Artist's Book with poems by David Gascoyne) (K),2001,340x280,Line engraving on acrylic,51,Prints,1996-2001,Book of Sand Cover (Artists Book with poems by David Gascoyne),2001,340 x 280 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),182,Blake (The Book of Sand),2001,340x280,Digital montage. vignette,53,Prints,1996-2001,Blake (The Book of Sand),2001,340 x 280 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),183,Men seen afar (The Book of Sand) (K),2001,900x630,Digital montage. vignette,54,Prints,1996-2001,Men seen afar (The Book of Sand),2001,900 x 630 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),184,Winged Creatures (The Book of Sand),2001,800x530,Digital montage. vignette,55,Prints,1996-2001,Winged Creatures (The Book of Sand),2001,800 x 530 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),185,The Round Dance (The Book of Sand),2001,630x900,Digital montage. Vignette,56,Prints,1996-2001,The Round Dance (The Book of Sand),2001,630 x 900 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),186,The Janus Gaze (The Book of Sand),2001,800x630,Digital montage. Vignette,57,Prints,1996-2001,The Janus Gaze (The Book of Sand),2001,800 x 630 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),188,Patterns Flow Like Rivers (The Book of Sand),2001,900x630,Digital montage. Vignette,58,Prints,1996-2001,Patterns Flow Like Rivers (The Book of Sand),2001,900 x 630 mm,field,Artist's Book,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),189,Women Waiting for their Lovers (The Book of Sand),2001,900x630,Digital montage. Vignette,59,Prints,1996-2001,Women Waiting fot their Lovers (The Book of Sand),2001,900 x 630 mm,field,Artist's Book,exact,0.98,ok,ok,site generic
+Prints & Graphic Works (1959-2005),190,The Spanish couple (The Book of Sand),,,Digital montage,52,Prints,1996-2001,The Spanish Couple (The Book of Sand),2001,580 x 440 mm,field,Artist's Book,exact,1.00,inventory has no year,inventory has no size,site generic
+Prints & Graphic Works (1959-2005),191,Preliminaries to Farewell (The Book of Sand),2001,630x900,Digital montage. Vignette,60,Prints,1996-2001,Prelimilaries to Farewell (The Book of Sand),2001,630 x 900 mm,field,Artist's Book,exact,0.98,ok,ok,site generic
+Prints & Graphic Works (1959-2005),192,The Desert (Ghost Stories) (K),2001,820x930,Digital montage Vignette,61,Prints,1996-2001,The Desert (Ghost Stories),2001,820 x 930 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),193,Scarecrows and Ghosts (Ghost Stories) (K),2001,630x900,Digital montage. Vignette,62,Prints,1996-2001,Scarecrows and Ghosts (Ghost Stories),2001,630 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),194,Scare Crow and Rabbit Scare (Ghost Stories),2001,780x600,Digital montage & watercolour Vignette,63,Prints,1996-2001,Scare Crow and Rabbit Scare (Ghost Stories),2001,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),195,Déjeuner sans Herbes (Ghost Stories) (K),2001,630x900,Digital montage and watercolour,64,Prints,1996-2001,Dejeuner sans Herbes (Ghost Stories),2001,630 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),196,Combat,2001,,Digital Montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),197,Ghost Story (Ghost Stories),2001,660x760,Chair Persons,65,Prints,1996-2001,Ghost Story (Ghost Stories),2001,660 x 760 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),198,Chair Persons,2001,780x600,Digital montage Vignette,66,Prints,1996-2001,Chair Persons,2001,780 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),199,No Exit (Shipyard) (K),2002,1180x600,Digital montage & watercolour Vignette,160,Prints,2002-2006l,No Exit (Shipyard),2002,1180 x 600 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),200,Clowns,2003,850x103,Digital montage (original collage),,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),201,Clowns in Black,2003,850x103,Digital montage (original collage),,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),202,Shipyard Aerial View (Shipyard) (K),2002,1180x720,Digital montage & watercolour Vignette,161,Prints,2002-2006l,Shipyard Aerial View (Shipyard),2002,1180 x 720 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),203,Ship shapes,2002,,,167,Prints,2002-2006l,Ship Shapes (Shipyard),2002,,,Print,exact,1.00,ok,inventory has no size,inventory has no technique
+Prints & Graphic Works (1959-2005),204,Shipyard Aerial View No 2 (Shipyard),2002,,"Digital montage & woodcut, printed in black, red, blue, yellow, & raw umber Vignette",,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),205,Figurehead (Shipyard) (K),2002,900x700,Digital montage. Vignette,162,Prints,2002-2006l,Figurehead (Shipyard),2002,900 x 700 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),206,Secret Patterns,2002,,Digital montage and watercolour,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),207,Augustine's Shipyard (Shipyard),2002,750x1180,"Digital montage & woodcut, printed in black, orange, blue, yellow & raw umber. Vignette",163,Prints,2002-2006l,Augustine's Shipyard (Shipyard),2002,750 x 1180 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),208,Kabuki (Shipyard) (K),2002,850x800,"Digital montage and woodcut, printed in black, Vignette",164,Prints,2002-2006l,Kabuki 1 (Shipyard),2002,850 x 800 mm,field,Print,exact,0.94,ok,ok,site generic
+Prints & Graphic Works (1959-2005),209,Odyssey (Shipyard) (K),2002,600x900,Digital montage & watercolour Vignette,165,Prints,2002-2006l,Odyssey (Shipyard),2002,600 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),210,Lobster Pots (Shipyard),2002,780x960,Digital montage & watercolour Vignette,166,Prints,2002-2006l,Lobster Pots (Shipyard),2002,780 x 960 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),211,Refit (Shipyard),2003,900x601,Engraving with light digital print with woodcut,169,Prints,2002-2006l,Refit (Shipyard),2003,900 x 601 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),212,Sculpture with grass and stubble,2001,107x680,Digital montage & woodcut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),213,To Catch a Butterfly (colour),2003,630x900,Digital montage & watercolour,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),214,Free (The Gates of Hell - Detail),2003,730x601,Digital montage & watercolour,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),215,Free (The Gates of Hell - Detail),2003,730x601,Digital montage and watercolour (Several sizes),170,Prints,2002-2006l,Free (The Gates of Hell - Detail),2003,730 x 601 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),216,The Gates of Hell,2003,1350x900,Digital montage and watercolour,171,Prints,2002-2006l,The Gates of Hell,2003,1350 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),217,Picnic,2005,970x1220,Digital print& Woodcut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),218,Afterlife,,900x610,Digital print& Woodcut,172,Prints,2002-2006l,Afterlife,2004,900 x 610 mm,field,Print,exact,1.00,inventory has no year,ok,site generic
+Prints & Graphic Works (1959-2005),219,Another butterfly,2004,760x560,Digital Montage with woodcut,173,Prints,2002-2006l,Another Butterfly,2004,760 x 560 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),220,To Catch a Butterfly,2004,550x760,Digital montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),221,Bark,2003,760x550,Digital Montage,174,Prints,2002-2006l,Bark on Picon,2004,760 x 560 mm,field,Print,probable,0.80,MISMATCH,MISMATCH,site generic
+Prints & Graphic Works (1959-2005),222,Twigs,2003,80x620,,176,Prints,2002-2006l,Twigs And Shoots,2004,900 x 680 mm,field,Print,probable,0.80,MISMATCH,MISMATCH,inventory has no technique
+Prints & Graphic Works (1959-2005),223,Grunewald,2003,780x580,Digital montage& Woodcut (2 versions),175,Prints,2002-2006l,Grunewald,2003,780 x 580 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),224,Self defence & Defence,2004,530x760,Digital montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),225,Self protection,,530x760,Digital montage and collage,177,Prints,2002-2006l,Self Protection,2004,530 x 760 mm,field,Print,exact,1.00,inventory has no year,ok,site generic
+Prints & Graphic Works (1959-2005),226,To Challenge (From Text messages),2005,660x460,Digital print and Wood cut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),227,Stones in sunlight and moonlight,2006,890x630,Digital montage & Woodcut,180,Prints,2002-2006l,Stones in Sunlight and Moonlight (Floating World),2006,890 x 630 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),228,The floating world,2006,642x514,Digital montage,181,Prints,2002-2006l,The Floating World (Floating World),2006,642 x 514 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),229,Grass,2006,820x620,Digital montage and wood cut,113,Prints,2007-2010,Grass,2006,820 x 620 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),230,Crusade,2006,700x1000,Digital montage and wood cut,182,Prints,2002-2006l,Crusade (Floating World),2006,700 x 1000 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),231,Walking on water (The Floating World),2006,910x700,Digital montage and woodcut,183,Prints,2002-2006l,Walking on Water (Floating World),2006,910 x 700 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),232,Mirage (The Floating World),2006,642x514,Digital montage with woodcut,178,Prints,2002-2006l,Mirage (Floating World),2006,642 x 514 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),233,Engraved sculpture (The Floating World),2006,750x560,Digital montage and watercolour,184,Prints,2002-2006l,Engraved Sculpture (Floating World),2006,750 x 560 mm,field,"Engraving, Sculpture",exact,1.00,ok,ok,MISMATCH
+Prints & Graphic Works (1959-2005),234,Engraved stones (The Floating World),2006,700x900,Digital montage with woodcut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),235,Sculpture in Grass and Stubble (The Floating World),2006,1070x680,Digital Montage with woodcut,179,Prints,2002-2006l,Sculpture in Grass and Stubble (Floating World),2006,1070 x 680 mm,field,Sculpture,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),236,Grass and netting (The Floating World),2006,560x750,Digital montage and wood cut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),237,Ragtime 1,2005,750x560,Digital montage and woodcut,185,Prints,2002-2006l,Ragtime A,2005,750 x 560 mm,field,Print,probable,0.89,ok,ok,site generic
+Prints & Graphic Works (1959-2005),238,Ragtime 2,2005,750x560,Digital montage and woodcut,186,Prints,2002-2006l,Ragtime B,2005,750 x 560 mm,field,Print,probable,0.89,ok,ok,site generic
+Prints & Graphic Works (1959-2005),239,Ragtime 3,2006,750x560,Digital print,187,Prints,2002-2006l,Ragtime C,2006,750 x 560 mm,field,Print,probable,0.89,ok,ok,site generic
+Prints & Graphic Works (1959-2005),240,Picnic,2006,970x1220,Digital print (1 framed),188,Prints,2002-2006l,Picnic,2006,970 x 1220 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),241,The Grand Memorabilia,2006,550x900,Digital montage (original Collage),189,Prints,2002-2006l,The Grand Memorabilia,2006,550 x 900 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),242,Memorabilia (small version),2006,,Digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),243,The Wave,,,Digital print (2 sizes),,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),244,Amazon (detail),2006,650x760,Plastics engraving,111,Prints,2007-2010,Amazon,2006,650 x 760 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),245,Tatjana's letter,2002,,Digital print,7,Prints,2011-2016,Tatjana's Letter,2002,700 x 980 mm,field,Print,exact,1.00,ok,inventory has no size,site generic
+Prints & Graphic Works (1959-2005),246,Kabuki,2002,880x810,Digital print and wood cut,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),247,Lorca's Flowers,2013,300x210,Digital print,14,Prints,2011-2016,Lorca's Flowers,2013,300 x 210 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),248,Indian Fabric with yellow edges,2012,300x210,,2,Prints,2011-2016,Indian Rug with Yellow Edges,2012,300 x 210 mm,field,Print,probable,0.88,ok,ok,inventory has no technique
+Prints & Graphic Works (1959-2005),249,Tissues 1,2012,300x210,Digital print and collage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),250,Tissues 2,2012,300x210,Digital print and collage,4,Prints,2011-2016,No 2 Tissues,2012,300 x 210 mm,field,Print,probable,0.88,ok,ok,site generic
+Prints & Graphic Works (1959-2005),251,Tissues 3,2012,300x210,Digital print and collage,5,Prints,2011-2016,No 3 Tissues,2012,300 x 210 mm,field,Print,probable,0.88,ok,ok,site generic
+Prints & Graphic Works (1959-2005),252,Dotty sculls,2013,297x420,Digital Print,6,Prints,2011-2016,Dotty Sculls,2013,297 x 420 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),253,Sculls with colours,,420x292,Digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),255,Sculls in the News,2013,297x420,Digital Print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),256,Indian rug with engraved objects,2008,710x530,Digital montage and wood cut,115,Prints,2007-2010,Indian rug with engraved sculpture,2008,710 x 530 mm,field,"Engraving, Sculpture",probable,0.79,ok,ok,MISMATCH
+Prints & Graphic Works (1959-2005),257,The broken Fence,2008,1280x920,Digital montage and surface print,110,Prints,2007-2010,The broken fence,2008,1280 x 920 mm,field,Print,exact,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),258,Titania Inverted,2012,300x210,Digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),259,Indian rug with roots and dancer,2012,420x297,Digital montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),260,Hand and Eye coordination,2006,297x210,Digital montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),261,Twigs with Purple Sky,2014,600x800,Digital Montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),262,Grass and Twigs,2008,297x420,Digital montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),263,The Plastic Fence,2014,600x800,Digital Montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),264,Sculls in the News,2014,297x420,Digital Montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),265,The Vine Press,2014,720x520,Digital Montage,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),262b,To Challenge,2005,650x460,Digital montage & Collage,358,Livres d'artiste,Dartiste,01 To challenge.jpg,2005,650 x 460 mm,field,Artist's Book,probable,0.86,ok,ok,site generic
+Prints & Graphic Works (1959-2005),263b,Chose Life,2005,650x460,Digital montage & Collage,359,Livres d'artiste,Dartiste,02 Choose Life,2005,650 x 460 mm,field,Artist's Book,probable,0.95,ok,ok,site generic
+Prints & Graphic Works (1959-2005),264b,Music turns back clock,2005,600x460,Digital montage & Collage,360,Livres d'artiste,Dartiste,03 Music Turns Back Clock,2005,600 x 460 mm,field,Artist's Book,probable,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),265b,Inspire Dreams (v1),2005,650x600,Digital montage,361,Livres d'artiste,Dartiste,04 Inspire Dreams,2005,650 x 600 mm,field,Artist's Book,probable,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),266b,Inspire Dreams (v2),2005,600x460,Digital montage,362,Livres d'artiste,Dartiste,05 Finding reasons,2005,600 x 460 mm,field,Artist's Book,manual,,ok,ok,site generic
+Prints & Graphic Works (1959-2005),267b,Listen to the heart,2005,650x460,Digital montage,363,Livres d'artiste,Dartiste,06 Listen to the Heart,2005,650 x 460 mm,field,Artist's Book,probable,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),268b,Old Master,2005,420x600,Digital montage,364,Livres d'artiste,Dartiste,07 Old Master 42005,2005,420 x 600 mm,field,Artist's Book,manual,,ok,ok,site generic
+Prints & Graphic Works (1959-2005),269,Just a new Promise,2005,650x460,Digital print,365,Livres d'artiste,Dartiste,08 Just a New Promise,2005,650 x 460 mm,field,Artist's Book,probable,1.00,ok,ok,site generic
+Prints & Graphic Works (1959-2005),270,Cover (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),271,To challenge (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),272,Choose life (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),273,Music turns back clock (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),274,Inspire dreams (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),275,Finding Reasons (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),276,Listen to the heart (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),277,Old Master (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+Prints & Graphic Works (1959-2005),278,Just a new promise (Text Messages),2005,297x210,digital print,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",2,Three youths,1985,200x280,Watercolour and collage,368,Watercolours & Collages,Drawings mythologies 1985,01 Three Youths,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",3,Airport beach,1985,200x280,Watercolour and collage,369,Watercolours & Collages,Drawings mythologies 1985,02 Airport Beach,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",4,At the well,1985,200x280,Watercolour and collage,370,Watercolours & Collages,Drawings mythologies 1985,03 At the Well,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",5,Banter,1985,280x200,Watercolour and collage,371,Watercolours & Collages,Drawings mythologies 1985,03 Banter,1985,280 x 200 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",6,Elders,1985,200x280,Watercolour and collage,372,Watercolours & Collages,Drawings mythologies 1985,04 Elders,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",7,Girls playing beach ball,1985,200x280,Watercolour and collage,373,Watercolours & Collages,Drawings mythologies 1985,05 Girls playing Beachball,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,0.98,ok,ok,site generic
+"Watercolours, Sketches and Collages",8,Music and dance,1985,200x280,Watercolour and collage,374,Watercolours & Collages,Drawings mythologies 1985,06 Music and Dance,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",9,Salome,1985,200x280,Watercolour and collage,375,Watercolours & Collages,Drawings mythologies 1985,07 Salome,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",10,Sexy woman,1985,280x200,Watercolour and collage,376,Watercolours & Collages,Drawings mythologies 1985,08 Sexy Woman,1985,280 x 200 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",11,The entrance,1985,200x280,Watercolour and collage,377,Watercolours & Collages,Drawings mythologies 1985,09 The Entrance,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",12,The Faun,1985,200x280,Watercolour and collage,378,Watercolours & Collages,Drawings mythologies 1985,10 The Faun,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",13,The Procession,1985,200x280,Watercolour and collage,379,Watercolours & Collages,Drawings mythologies 1985,11 The Procession,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",14,Woman with Bananas,1985,200x280,Watercolour collage,380,Watercolours & Collages,Drawings mythologies 1985,12 Woman with Bananas,1985,200 x 280 mm,field,"Collage, Drawing, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",15,Backdrop to Arungabad,2007,380x520,watercolour,408,Watercolours & Collages,India small,Backdrop Aurangabad,2007,380 x 520 mm,field,"Collage, Watercolour",probable,0.85,ok,ok,site generic
+"Watercolours, Sketches and Collages",16,Arungabad Mill (sketch),2007,520x350,watercolour,407,Watercolours & Collages,India small,Aurangabad Mill,2007,520 x 350 mm,field,"Collage, Watercolour",probable,0.90,ok,ok,site generic
+"Watercolours, Sketches and Collages",17,Bikaneer lake 1,2007,380x520,watercolour,409,Watercolours & Collages,India small,Bikaner lake 1,2007,380 x 520 mm,field,"Collage, Watercolour",exact,0.97,ok,ok,site generic
+"Watercolours, Sketches and Collages",18,Bikaneer lake 2,2007,380x520,watercolour,410,Watercolours & Collages,India small,Bikaner lake 2,2007,380 x 520 mm,field,"Collage, Watercolour",exact,0.97,ok,ok,site generic
+"Watercolours, Sketches and Collages",19,Hill Station Arungabad,2007,380x520,watercolour,411,Watercolours & Collages,India small,Hill Station Aurangabad,2007,380 x 520 mm,field,"Collage, Watercolour",exact,0.93,ok,ok,site generic
+"Watercolours, Sketches and Collages",20,Desert with Trees,2007,380x520,watercolour,412,Watercolours & Collages,India small,Desert with Trees Bikaner,2007,380 x 520 mm,field,"Collage, Watercolour",probable,0.81,ok,ok,site generic
+"Watercolours, Sketches and Collages",21,Pottery stall Arungabad,2007,380x520,Watercolour,417,Watercolours & Collages,India small,Pottery Stall Aurangabad,2007,380 x 520 mm,field,"Collage, Watercolour",exact,0.94,ok,ok,site generic
+"Watercolours, Sketches and Collages",22,Pushkar sunset,2007,380x520,watercolour,413,Watercolours & Collages,India small,Pushkar Sunset,2007,380 x 520 mm,field,"Collage, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",23,Taj Gardens,2007,380x520,Watercolour,415,Watercolours & Collages,India small,Taj Garden,2007,380 x 520 mm,field,"Collage, Watercolour",exact,0.95,ok,ok,site generic
+"Watercolours, Sketches and Collages",24,Varanasi Ghats,2007,380x520,Watercolour,416,Watercolours & Collages,India small,Varanasi Gats,2007,380 x 520 mm,field,"Collage, Watercolour",exact,0.96,ok,ok,site generic
+"Watercolours, Sketches and Collages",25,Pushkar Farmland,2007,380x520,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",26,Figures on the Beach,,390x560,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",27,Girls at Famara Washing (sketch),1986,480x340,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",28,Bathers Famara,1987,430x570,watercolour,431,Watercolours & Collages,Lanzarote,06 Bathers,1987,430 x 570 mm,field,"Collage, Watercolour",probable,0.80,ok,ok,site generic
+"Watercolours, Sketches and Collages",29,Mother and Daughter on the Beach,1998,630x480,watercolour,439,Watercolours & Collages,Lanzarote,14 Mother and Daoughter on the Beach,1998,630 x 480 mm,field,"Collage, Watercolour",exact,0.98,ok,ok,site generic
+"Watercolours, Sketches and Collages",30,The Thorn,1985,630x480,watercolour,435,Watercolours & Collages,Lanzarote,10 The Thorn,1985,630 x 480 mm,field,"Collage, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",31,Dotty Women,1998,600x420,watercolour,440,Watercolours & Collages,Lanzarote,15 Dotty Women,1998,600 x 420 mm,field,"Collage, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",32,Figures on a cloudy beach,1998,430x540,watercolour,443,Watercolours & Collages,Lanzarote,18 Figures on a Cloudy Beach,1998,430 x 540 mm,field,"Collage, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",33,Apostle with stone arches,1996,300x210,Pencil drawing,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",34,Diver and Dreamer (sketch),,300x210,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",35,Cacti and rocks,2013,300x210,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",37,Cactus and Hosepipe,2013,660x850,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",38,Camp fire,1995,210x290,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",39,Children with Pet Goats,2006,480x640,watercolour,420,Watercolours & Collages,India small,Children with Pet Goats Bikaner,2006,480 x 640 mm,field,"Collage, Watercolour",probable,0.85,ok,ok,site generic
+"Watercolours, Sketches and Collages",40,Charcoal burner and old iron,,410x520,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",41,Dancer and harpist,1995,200x290,Watercolour & Collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",42,Famara Water station with male nude,,190x290,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",43,Family with pregnant woman,,210x290,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",44,Farm buildings and volcano,,210x290,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",45,Figures on a beach towel,,210x290,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",46,Funnel and rock formation,,500x760,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",48,Geometric shapes at night,,210x290,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",49,Gipsies putting up a frame tent,,280x250,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",50,Girls washing their hair,1986,680x340,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",51,Goat in a Bay with Barges,,200x300,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",52,Goats in a Bay,,200x300,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",53,Headless Woman on the Beach,,200x300,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",54,Hot Landscape with lovers,,430x570,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",55,La Geria with bird scares,1908,450x608,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",56,Lava flow with sunny background,1908,450x570,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",57,Lolita and Blue Beard,,450x570,Pen drawing and watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",58,Mother and baby on the beach,,200x290,Drawing and watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",59,Musicians no 3,,200x290,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",60,Nude in front of mirror,,300x200,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",61,Nude woman with Castle,,300x200,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",62,Old and Young woman at the farmhouse,,200x290,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",63,Pregnant woman with engraved stone,,200x290,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",64,Red Stone at the Bodega,,200x290,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",65,Rocks near Mala,,360x570,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",66,Roped abstract,,590x450,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",67,Ruins in the spring,,420x510,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",68,Seed onions,,420x510,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",69,Ruins with girls,,420x510,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",70,Step into the Future (design for Westminster sculpture competition),,350x280,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",71,Terracotta figurines,,300x190,Pen drawing,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",72,The Burial,,370x590,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",73,The Cockerel Sheherezade,2002,470x600,watercolour,448,Watercolours & Collages,Lanzarote,23 The Cockerel Sheherezade,2002,470 x 600 mm,field,"Collage, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",74,Funnel and YOYO,,500x760,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",75,Two Figures in the tomato field,1986,440x570,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",76,Talking of history,1986,440x570,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",77,Vanity,,190x240,Drawing and watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",78,Woman dressing in the doorway,,530x380,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",79,Annuncios house,1989,450x590,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",80,Cactus and hose pipe,2013,660x850,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",81,Descent into the crater,2001,500x600,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",83,Famara beach purifying station,1982,390x550,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",84,Femme fatale,1987,570x420,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",85,Figures with a wind shield,1987,570x420,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",87,Nude with a castle Lanzarote,1987,390x560,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",89,From Van Gogh to Einstein,2001,,"Digital print and watercolour (Several sizes, 1 framed)",,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",90,Girls on Famara beach,1989,310x480,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",91,Hillside with figures,,440x420,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",92,House with Roots Papagayo,1989,370x510,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",93,Loops,2001,660x500,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",94,Lunar landscape Lanzarote,2001,430x510,Digital montage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",95,Musician and dancer,,350x470,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",96,Rock formation in Mala,1998,500x670,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",97,Sky Spectacular Lanzarote,,750x560,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",98,Stone steles at Mala,1980,450x560,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",99,The green mine,1980,430x590,watercolour,455,Watercolours & Collages,Lanzarote,30 The green Mine,1980,430 x 590 mm,field,"Collage, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",100,Stone washtub,1980,450x560,Watercolour and collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",101,Hello and Goodbye,1998,390x570,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",102,Water well with figures,1998,450x590,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",103,Camel station,,360x540,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",104,Temptations (sketch),,200x280,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",105,Chicken run,,440x630,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",106,Dream horse,,460x560,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",107,Dried plant in a sack,,470x600,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",108,Figures at Famara beach,,480x640,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",109,Flowers and clouds,,420x590,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",110,Garden with dead palm,,420x590,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",111,Guess who is coming for dinner,,470x600,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",112,Geranium in the bay,,430x670,Watercolour and crayon,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",113,La Haria with clouds,,430x670,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",114,Hills with agaves,,480x630,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",115,House on top of the hill,,480x630,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",116,Vineyard with Clouds,,450x630,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",117,Vineyard with Red Hill,,430x600,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",118,Landscape with stubble and agaves,,450x630,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",119,Lichen on the rocks,,460x620,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",120,Lichen,,460x620,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",121,Mala,,450x600,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",122,Organic abstract,,460x640,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",123,Playing football in the clearing,,440x560,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",124,Prickly pears at la Asomada,,460x600,watercolour,427,Watercolours & Collages,Lanzarote,02 La Asomada,1979,430 x 570 mm,field,"Collage, Watercolour",probable,0.80,inventory has no year,MISMATCH,site generic
+"Watercolours, Sketches and Collages",125,Red hill with farm,,460x600,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",126,Rockface,,440x560,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",127,Rock formations,,440x560,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",128,Roots and Lichen,,430x600,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",129,Rust,2013,430x540,Watercolour collage,512,Watercolours & Collages,2011-2014,Rust,2011,,,"Collage, Watercolour",exact,1.00,MISMATCH,missing on site,site generic
+"Watercolours, Sketches and Collages",130,Spring shower,,460x600,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",131,Still life with bucket and gourd,,460x600,watercolour,446,Watercolours & Collages,Lanzarote,21 Still Life With Beans,2000,500 x 700 mm,field,"Collage, Watercolour",probable,0.75,inventory has no year,MISMATCH,site generic
+"Watercolours, Sketches and Collages",132,Still life with shell,,440x640,watercolour,447,Watercolours & Collages,Lanzarote,22 Still life with Shell,2002,460 x 640 mm,field,"Collage, Watercolour",exact,1.00,inventory has no year,MISMATCH,site generic
+"Watercolours, Sketches and Collages",133,Still life with fruit,,450x600,watercolour,454,Watercolours & Collages,Lanzarote,29 Still Life with Birds,,450 x 650 mm,field,"Collage, Watercolour",probable,0.81,ok,MISMATCH,site generic
+"Watercolours, Sketches and Collages",134,The big Fish,,500x600,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",135,View from the Delhi Observatory,,370x500,Watercolour and body paint,484,Watercolours & Collages,India large,Views of the Delhi Observatory,,860 x 1170 mm,field,"Collage, Watercolour",probable,0.92,ok,MISMATCH,site generic
+"Watercolours, Sketches and Collages",137,The Hopoo bird,,480x670,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",138,The horses own Patio,,440x600,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",139,Tomato Crop,,450x620,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",140,The orange House,,470x630,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",141,Waterman's yard,,490x630,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",142,The Wheelbarrow,,440x520,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",143,Turkey walk,,460x620,watercolour,451,Watercolours & Collages,Lanzarote,26 Turkeywalk,2003,460 x 600 mm,field,"Collage, Watercolour",exact,0.95,inventory has no year,MISMATCH,site generic
+"Watercolours, Sketches and Collages",144,Turkeys Marching Home,,470x660,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",145,Twist,,460x570,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",146,Two nudes,,450x300,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",147,Landscape with yellow sky,1985,420x590,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",148,Macho the Cock (Sketch),1985,300x210,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",149,Vineyard at the volcano,2012,450x600,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",150,"Volcano, wheelbarrow and cooking pot",,440x520,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",151,Volcano & Stone formation,,460x640,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",152,Volcano and see of lava,,430x640,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",153,Volcano and succulents,,,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",154,Wild flowers at the Caves,,660x480,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",155,The Wild ones (Sketch),,390x540,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",156,Wild Flowers with Castle,,660x480,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",157,"Yellow flowers, Orange cloud",,450x560,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",158,Airing the Family Bed India,2007,450x560,watercolour,487,Watercolours & Collages,India large,Airing the Family Bed Aurangabad,,870 x 1040 mm,field,"Collage, Watercolour",probable,0.81,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",159,At the Delhi Observatory,2007,390x570,watercolour,472,Watercolours & Collages,India large,At the Delhi Observatory,,1170 x 860 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",160,Bathing hut Varanasi,2007,450x590,watercolour,473,Watercolours & Collages,India large,Bathing Tent Varanasi,,8030 x 6420 mm,field,"Collage, Watercolour",probable,0.88,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",161,The Temple in the lake,2007,360x540,Watercolour,483,Watercolours & Collages,India large,The Temple in the Lake,,1170 x 860 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",162,Cotton Traders,2007,440x630,watercolour,488,Watercolours & Collages,India large,"Cotton Traders, Aurangabad",,860 x 1170 mm,field,"Collage, Watercolour",probable,0.80,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",163,Courtyard with Buffalo,2007,860x1170,watercolour,475,Watercolours & Collages,India large,Courtyard with Buffalo,,1170 x 860 mm,field,"Collage, Watercolour",exact,1.00,missing on site,orientation only,site generic
+"Watercolours, Sketches and Collages",164,Girls Washing Saris,2007,860x1170,watercolour,478,Watercolours & Collages,India large,Girls Washing Saris,,860 x 1170 mm,field,"Collage, Watercolour",exact,1.00,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",165,Harem Jodhpur,2007,1170x860,watercolour,479,Watercolours & Collages,India large,Harem,,1170 x 860 mm,field,"Collage, Watercolour",probable,0.80,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",166,Holy Cows,2007,860x1170,Watercolour,481,Watercolours & Collages,India large,Holy cows,,870 x 1030 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",167,Mud house with figures Khajuraho,2007,490x660,watercolour,421,Watercolours & Collages,India small,Mud House with figures Kujaharo,,450 x 560 mm,field,"Collage, Watercolour",probable,0.89,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",168,Mumbai harbour,2007,490x660,watercolour,490,Watercolours & Collages,India large,Mumbai Harbour,,490 x 660 mm,field,"Collage, Watercolour",exact,1.00,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",169,Pushkar farmland,2007,380x520,watercolour,418,Watercolours & Collages,India small,Pushkar Farmland,2007,380 x 520 mm,field,"Collage, Watercolour",exact,1.00,ok,ok,site generic
+"Watercolours, Sketches and Collages",170,Painted elephants,2007,1180x520,watercolour,492,Watercolours & Collages,India large,"The painted Elephants, Jaipur",,1170 x 860 mm,field,"Collage, Watercolour",probable,0.80,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",171,Watermill Aurangabad,2007,1180x860,Watercolour,485,Watercolours & Collages,India large,Watermill Aurangabad,,1170 x 860 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",172,The Noria,2007,1180x860,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",173,Elephant Gate,2007,1180x860,watercolour,495,Watercolours & Collages,India large,"The Elephant Gate, Jaipur",,1170 x 860 mm,field,"Collage, Watercolour",probable,0.80,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",174,Blue City,2007,1180x860,Watercolour,423,Watercolours & Collages,India small,The Blue City Jaisalmer,,500 x 860 mm,field,"Collage, Watercolour",probable,0.80,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",175,Stained glass reflections,2007,570x660,watercolour,496,Watercolours & Collages,India large,Stained glass reflections,,640 x 538 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",176,Stained Glass and roof terraces,2007,570x660,watercolour,494,Watercolours & Collages,India large,Stained Glass and Roof Terraces Jodhpur,,870 x 1020 mm,field,"Collage, Watercolour",probable,0.89,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",177,Pottery village,2007,440x540,watercolour,491,Watercolours & Collages,India large,"Pottery Village, Kujarajo",,676 x 553 mm,field,"Collage, Watercolour",probable,0.80,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",178,Pushkar with Red Background,2007,860x1180,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",179,The Pyre Varanasi,2007,1017x860,Watercolour,482,Watercolours & Collages,India large,Pyre,,1170 x 860 mm,field,"Collage, Watercolour",probable,0.80,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",180,The Heritage India,2007,860x1017,Watercolour,480,Watercolours & Collages,India large,Heritage,,860 x 1170 mm,field,"Collage, Watercolour",probable,0.80,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",181,Bikinis drying,2013,860x1017,Watercolour collage,509,Watercolours & Collages,2011-2014,Bikinis drying,2011,,,"Collage, Watercolour",exact,1.00,MISMATCH,missing on site,site generic
+"Watercolours, Sketches and Collages",182,Dotty Skulls,2013,860x1017,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",183,Drying the Cloth on the Ground,2009,860x1017,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",184,Two Skulls in the Lava Field,2013,1170x850,,502,Watercolours & Collages,2011-2014,Two sculls in the lava field,2011,,,"Collage, Watercolour",exact,0.96,MISMATCH,missing on site,inventory has no technique
+"Watercolours, Sketches and Collages",185,Spotty Skulls,2013,640x840,,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",186,Spotlights,2012,440x380,watercolour,403,Watercolours & Collages,Fairground in the sea,Spotlights,,500 x 380 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",187,Dolphin ride,2012,440x380,Watercolour collage,394,Watercolours & Collages,Fairground in the sea,Dolphin Ride,,500 x 380 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",188,La Movida,2012,500x300,Watercolour collage,397,Watercolours & Collages,Fairground in the sea,La Movida,,500 x 380 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",189,Giant projection screen,2012,300x500,watercolour,396,Watercolours & Collages,Fairground in the sea,Giant Projection Screen,,380 x 500 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",190,Superwoman Roundabout,2012,500x300,watercolour,404,Watercolours & Collages,Fairground in the sea,Superwoman roundabout,,500 x 380 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",191,Spiderman roundabout,2012,650x330,Watercolour collage,402,Watercolours & Collages,Fairground in the sea,Spiderman Roundabout,,500 x 380 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",192,Spiderman,2012,500x300,watercolour,401,Watercolours & Collages,Fairground in the sea,Spiderman,,500 x 380 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",193,Spiderman and dolphins,2012,300x500,watercolour,400,Watercolours & Collages,Fairground in the sea,Spiderman & Dolphins,,380 x 500 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",194,Fairground structures,2012,500x300,Watercolour collage,395,Watercolours & Collages,Fairground in the sea,Fairground Structures,,500 x 380 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",195,The bull ride,2012,300x500,watercolour,405,Watercolours & Collages,Fairground in the sea,The Bull Ride,,380 x 500 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",196,Triptych no 1,2011,1017x860,Watercolour collage,459,Watercolours & Collages,Albert hall cirque du soliel,No.1 dancer & clown Triptych,,1180 x 870 mm,field,"Collage, Watercolour",manual,,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",197,Triptych no 2,2011,1017x860,Watercolour collage,460,Watercolours & Collages,Albert hall cirque du soliel,No.2 Bring in The Clowns Triptych,,1180 x 870 mm,field,"Collage, Watercolour",manual,,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",198,Triptych no 3,2011,1017x860,Watercolour collage,461,Watercolours & Collages,Albert hall cirque du soliel,No.3 The Grand Slide Triptych,,1180 x 870 mm,field,"Collage, Watercolour",manual,,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",199,Acrobat descending and pink contortionist,2011,760x570,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",200,All Hanging From Ropes,2011,530x380,watercolour,465,Watercolours & Collages,Albert hall cirque du soliel,All hanging on Ropes,,530 x 380 mm,field,"Collage, Watercolour",probable,0.90,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",201,Bring in the Clowns (Sketch),2011,620x460,watercolour,467,Watercolours & Collages,Albert hall cirque du soliel,Bring in the Clowns sketch,,620 x 460 mm,field,"Collage, Watercolour",exact,1.00,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",202,Acrobat with Clowns,2011,530x380,watercolour,462,Watercolours & Collages,Albert hall cirque du soliel,Acrobat with 4 clowns sketch,,530 x 380 mm,field,"Collage, Watercolour",probable,0.81,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",203,Acrobat descending and pink contortionist,2011,760x570,Watercolour collage,464,Watercolours & Collages,Albert hall cirque du soliel,Acrobats Descending and Pink Cortortionist,,1760 x 1570 mm,field,"Collage, Watercolour",exact,0.96,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",204,Blue Acrobat with Shadows,2011,760x570,Watercolour,466,Watercolours & Collages,Albert hall cirque du soliel,Blue acrobat with shadows,,630 x 480 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",205,Pink Acrobat and audience,2011,460x680,Watercolour collage,470,Watercolours & Collages,Albert hall cirque du soliel,Pink acrobat & audience sketch,,460 x 680 mm,field,"Collage, Watercolour",probable,0.88,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",206,Pink acrobats with poles and ropes,2011,300x210,watercolour collage,471,Watercolours & Collages,Albert hall cirque du soliel,Pink Acrobats with Poles & Ropes,,460 x 560 mm,field,"Collage, Watercolour",exact,1.00,missing on site,MISMATCH,site generic
+"Watercolours, Sketches and Collages",207,Dance with red poles and ropes,2011,570x760,Watercolour collage,468,Watercolours & Collages,Albert hall cirque du soliel,Dance with red courtains and ropes,,570 x 760 mm,field,"Collage, Watercolour",probable,0.84,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",208,Grand Slide,2011,630x480,Watercolour collage,469,Watercolours & Collages,Albert hall cirque du soliel,Grand slide sketch,,630 x 480 mm,field,"Collage, Watercolour",probable,0.80,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",209,The big wheel,2011,300x210,Pencil drawing,390,Watercolours & Collages,Blind drawings albert hall cirque du soliel,The big Wheel,,300 x 210 mm,field,"Collage, Drawing, Watercolour",exact,1.00,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",210,Acrobats and dancers with yellow spotlights,2011,300x210,Pencil drawing and coloured tape,381,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Acrobats & Dancers with yellow spotlights,,300 x 210 mm,field,"Collage, Drawing, Watercolour",exact,1.00,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",211,The Great white slide,2011,300x210,Pencil drawing,386,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Great white Slide,,300 x 210 mm,field,"Collage, Drawing, Watercolour",probable,0.89,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",212,All on the ropes,2011,300x210,Pencil Drawing,384,Watercolours & Collages,Blind drawings albert hall cirque du soliel,All on a Rope,,300 x 210 mm,field,"Collage, Drawing, Watercolour",probable,0.83,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",213,Dancers and roof structure,2011,300x210,Pencil Drawing,385,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Dancers & Roof stucture light,,300 x 210 mm,field,"Collage, Drawing, Watercolour",probable,0.88,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",214,Juggler and pottery man,2011,300x210,"Pencil, Watercolour and Tape",393,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Juggler & Pottery Man,,300 x 210 mm,field,"Collage, Drawing, Watercolour",exact,1.00,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",215,Juggler and dancer,2011,300x210,Pencil drawing,387,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Juggler &Dancer Light,,,,"Collage, Drawing, Watercolour",probable,0.86,missing on site,missing on site,site generic
+"Watercolours, Sketches and Collages",216,Net Dancer,2011,300x210,Pencil drawing,388,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Net dancer,,,,"Collage, Drawing, Watercolour",exact,1.00,missing on site,missing on site,site generic
+"Watercolours, Sketches and Collages",217,Yellow spotlight and smoke,2011,300x210,Pencil drawing and tape,392,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Yellow Spotlights & Smoke Black & Colour,,300 x 210 mm,field,"Collage, Drawing, Watercolour",probable,0.74,missing on site,ok,site generic
+"Watercolours, Sketches and Collages",218,Smoke,2011,300x210,Pencil drawing and yellow tape,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",219,Purple Masks and orange wings,2011,300x210,Pencil drawing,389,Watercolours & Collages,Blind drawings albert hall cirque du soliel,"Purple masks, Orange Wings",,,,"Collage, Drawing, Watercolour",probable,0.93,missing on site,missing on site,site generic
+"Watercolours, Sketches and Collages",220,Acrobats with white slide,,300x210,Pencil drawing,383,Watercolours & Collages,Blind drawings albert hall cirque du soliel,Acrobats with White Sheets,,300 x 210 mm,field,"Collage, Drawing, Watercolour",probable,0.86,ok,ok,site generic
+"Watercolours, Sketches and Collages",221,Lorca's Flowers,2013,380x520,Watercolour collage,508,Watercolours & Collages,2011-2014,Lorca's flowers,2011,,,"Collage, Watercolour",exact,1.00,MISMATCH,missing on site,site generic
+"Watercolours, Sketches and Collages",222,Sexy Flowers in a Bay,2012,650x860,,505,Watercolours & Collages,2011-2014,Sexy flowers in a landscape,2011,650 x 860 mm,field,"Collage, Watercolour",probable,0.79,MISMATCH,ok,inventory has no technique
+"Watercolours, Sketches and Collages",223,Katalina's wall flowers,2013,610x460,watercolour,507,Watercolours & Collages,2011-2014,atalina's wall flowers rev,2011,61 x 46 cm,field,"Collage, Watercolour",probable,0.90,MISMATCH,ok,site generic
+"Watercolours, Sketches and Collages",224,House with Bougainvillea,2012,650x850,watercolour,506,Watercolours & Collages,2011-2014,House with burganvillia,2011,820 x 650 mm,field,"Collage, Watercolour",probable,0.89,MISMATCH,MISMATCH,site generic
+"Watercolours, Sketches and Collages",225,Sexy Flowers red and orange,2012,650x870,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",226,Plunging beauty with red flowers,2012,860x1030,Watercolour,504,Watercolours & Collages,2011-2014,plunging beauty & red flowers,2011,86 x 103 cm,field,"Collage, Watercolour",probable,0.89,MISMATCH,ok,site generic
+"Watercolours, Sketches and Collages",227,White and yellow flowers,2012,650x850,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",228,Dotty skulls,2013,860x1170,watercolour,503,Watercolours & Collages,2011-2014,Dotty sculls,2011,,,"Collage, Watercolour",probable,0.92,MISMATCH,missing on site,site generic
+"Watercolours, Sketches and Collages",229,Sculls in the lava field,2013,640x840,watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",230,Two sculls with coloured background,2013,640x840,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",231,Interchange,2014,650x850,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",232,Succulents,2014,650x850,Watercolour,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",233,Butterfly,2014,950x800,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",234,Butterfly in Patio,2014,950x800,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",235,Plants and butterfly,2014,650x880,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",236,Hibiscus and the moon,2014,650x880,Watercolour collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",237,Pond 1,2014,650x880,,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",238,Pond 2,2014,650x880,Watercolour Collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",239,Twigs and Plumbago,2014,950x800,Watercolour Collage,,,,,,,,,unmatched,,,,
+"Watercolours, Sketches and Collages",240,The grand hibiscus,2014,910x1020,Watercolour Collage,,,,,,,,,unmatched,,,,
+Acrylic Sculpture and installations,1,Raft,1968,600x360x170,Space engraving acrylic,275,Sculptures & Installations,1963-2006,05 Raft 600x360x170 mm,1968,600x360x170 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,1,Raft,1968,600x360x170,Space engraving acrylic,233,Sculptures & Installations,Bradford museum retrospective,(1) Raft 600x360x170 mm,1968,600x360x170 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,2,Samurai,1969,1329x500x250,Space engraving,278,Sculptures & Installations,1963-2006,08 Samurai 1320x550x250 mm,1969,1320x550x250 mm,title,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,2,Samurai,1969,1329x500x250,Space engraving,235,Sculptures & Installations,Bradford museum retrospective,(3) Samurai 1320x550x250 mm,1969,1320x550x250 mm,title,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,2,Samurai,1969,1329x500x250,Space engraving,317,Sculptures & Installations,1963-2006,49 Samurai (Stockholm),1963,,,Sculpture,probable,1.00,MISMATCH,missing on site,site generic
+Acrylic Sculpture and installations,3,Windows,1971,1100x850x150,Space engraving,279,Sculptures & Installations,1963-2006,09 Windows 1100x850x150 mm,1969,1100x850x150 mm,title,Sculpture,exact,1.00,MISMATCH,ok,site generic
+Acrylic Sculpture and installations,3,Windows,1971,1100x850x150,Space engraving,236,Sculptures & Installations,Bradford museum retrospective,(4) Windows 1100x850x150 mm,1969,1100x850x150 mm,title,Sculpture,exact,1.00,MISMATCH,ok,site generic
+Acrylic Sculpture and installations,3,Windows,1971,1100x850x150,Space engraving,280,Sculptures & Installations,1963-2006,10 Windows,1969,,,Sculpture,exact,1.00,MISMATCH,missing on site,site generic
+Acrylic Sculpture and installations,4,Welcome Arch,1971,1800x1120x400,"Space engraving, silk screen and etching",281,Sculptures & Installations,1963-2006,11 Welcome Arch 1800x1120x100 mm,1971,1800x1120x100 mm,title,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,4,Welcome Arch,1971,1800x1120x400,"Space engraving, silk screen and etching",237,Sculptures & Installations,Bradford museum retrospective,(5) Welcome Arch 1800x1120x100 mm,1971,1800x1120x100 mm,title,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,5,Echo Chamber,1974,360x320x400,"Space engraving, drilling and lathe formatting",284,Sculptures & Installations,1963-2006,14 Echo Chamber 360x320x400 mm,1974,360x320x400 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,5,Echo Chamber,1974,360x320x400,"Space engraving, drilling and lathe formatting",239,Sculptures & Installations,Bradford museum retrospective,(7) Echo Chamber 360x320x400 mm,1974,360x320x400 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,7,Step into the future,1975,400x480x300,"Sculpture maquette, finalist for Strand sculpture competition",241,Sculptures & Installations,Bradford museum retrospective,(9) Step into the Future 400x480x300 mm,1975,400x480x300 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,7,Step into the future,1975,400x480x300,"Sculpture maquette, finalist for Strand sculpture competition",285,Sculptures & Installations,1963-2006,15 Step into the Future q1975 400x480x300 mm,1963,400x480x300 mm,title,Sculpture,exact,1.00,MISMATCH,ok,site generic
+Acrylic Sculpture and installations,8,The Lure of lost Cultures,,2200x1240x700,"Space engraving, injection moulding and timber",287,Sculptures & Installations,1963-2006,17 The Lure of Lost Cultures 2200x1240x700 mm,1982,2200x1240x700 mm,title,Sculpture,exact,1.00,inventory has no year,ok,site generic
+Acrylic Sculpture and installations,8,The Lure of lost Cultures,,2200x1240x700,"Space engraving, injection moulding and timber",242,Sculptures & Installations,Bradford museum retrospective,(10) The Lure of Lost Cultures 2200x1240x700 mm,1982,2200x1240x700 mm,title,Sculpture,exact,1.00,inventory has no year,ok,site generic
+Acrylic Sculpture and installations,9,Titania,1990,2410x180x1120,Space engraving and welded steel,252,Sculptures & Installations,Bradford museum retrospective,(20) Titania 2410x1180x1120 mm,1990,2410x1180x1120 mm,title,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,10,Fly wheel,1985,990x87x113,Space engraving and welded steel,289,Sculptures & Installations,1963-2006,19 Flywheel 990x870x1130 mm,1985,990x870x1130 mm,title,Sculpture,exact,0.94,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,10,Fly wheel,1985,990x87x113,Space engraving and welded steel,244,Sculptures & Installations,Bradford museum retrospective,(12) Flywheel 990x870x1130 mm,1985,990x870x1130 mm,title,Sculpture,exact,0.94,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,11,Amazon,1985,1000x600x540,Space engraving,290,Sculptures & Installations,1963-2006,20 Amazon 1000x600x540 mm,1985,1000x600x540 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,11,Amazon,1985,1000x600x540,Space engraving,245,Sculptures & Installations,Bradford museum retrospective,(13) Amazon 1000x600x540 mm,1985,1000x600x540 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,12,Hover cube,1989,700x780x300,Space engraving and steel,296,Sculptures & Installations,1963-2006,26 Hovercube1989 700x780x300 mm,1963,700x780x300 mm,title,Sculpture,exact,0.95,MISMATCH,ok,site generic
+Acrylic Sculpture and installations,12,Hover cube,1989,700x780x300,Space engraving and steel,246,Sculptures & Installations,Bradford museum retrospective,(14) Hovercube1989 700x780x300 mm,,700x780x300 mm,title,Sculpture,exact,0.95,missing on site,ok,site generic
+Acrylic Sculpture and installations,14,Macho the Cock,1985,1180x1230x1140,Space engraving and welded steel,292,Sculptures & Installations,1963-2006,22 Macho the Cock 1180x1230x1140 mm,1985,1180x1230x1140 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,14,Macho the Cock,1985,1180x1230x1140,Space engraving and welded steel,247,Sculptures & Installations,Bradford museum retrospective,(15) Macho the Cock 1180x1230x1140 mm,1985,1180x1230x1140 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,14,Macho the Cock,1985,1180x1230x1140,Space engraving and welded steel,294,Sculptures & Installations,1963-2006,24 Macho the Cock (detail),1985,,,Sculpture,probable,1.00,ok,missing on site,site generic
+Acrylic Sculpture and installations,15,Ego the Goat,1987,1300x1070x1067,Space engraving and welded steel,303,Sculptures & Installations,1963-2006,34 Ego the Goat,1987,1300 x 1070 mm,field,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,15,Ego the Goat,1987,1300x1070x1067,Space engraving and welded steel,249,Sculptures & Installations,Bradford museum retrospective,(17) Ego the Goat,1987,1300 x 1070 mm,field,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,15,Ego the Goat,1987,1300x1070x1067,Space engraving and welded steel,320,Sculptures & Installations,1963-2006,52 Ego The Goat (Stockholm),1963,,,Sculpture,probable,1.00,MISMATCH,missing on site,site generic
+Acrylic Sculpture and installations,16,Woman in Waves,1989,950x600x560,Space engraving,298,Sculptures & Installations,1963-2006,28 Woman in Waves 950x600x560 mm,1963,950x600x560 mm,title,Sculpture,exact,1.00,MISMATCH,ok,site generic
+Acrylic Sculpture and installations,16,Woman in Waves,1989,950x600x560,Space engraving,250,Sculptures & Installations,Bradford museum retrospective,(18) Woman in Waves 950x600x560 mm,,950x600x560 mm,title,Sculpture,exact,1.00,missing on site,ok,site generic
+Acrylic Sculpture and installations,17,Titania,1990,2410x180x1120,Space engraving and welded steel,301,Sculptures & Installations,1963-2006,32 Titania,1990,,,Sculpture,exact,1.00,ok,missing on site,site generic
+Acrylic Sculpture and installations,17,Titania,1990,2410x180x1120,Space engraving and welded steel,318,Sculptures & Installations,1963-2006,50 Titania (Stockholm),1963,,,Sculpture,probable,1.00,MISMATCH,missing on site,site generic
+Acrylic Sculpture and installations,18,Fish and Swan,1989,1850x640x550,Two Space engravings exhibited together,307,Sculptures & Installations,1963-2006,38 Fish 1920x880x480 mm,2000,1920x880x480 mm,title,Sculpture,probable,0.80,MISMATCH,MISMATCH,site generic
+Acrylic Sculpture and installations,19,Grotto for Toros,1989,1930x1350x1350,"Space engraving, welded steel and stone",306,Sculptures & Installations,1963-2006,37 Grotto for Torus 1430x1350x1350 mm,1963,1430x1350x1350 mm,title,Sculpture,exact,0.94,MISMATCH,MISMATCH,site generic
+Acrylic Sculpture and installations,19,Grotto for Toros,1989,1930x1350x1350,"Space engraving, welded steel and stone",253,Sculptures & Installations,Bradford museum retrospective,(21) Grotto for Torus 1430x1350x1350 mm,,1430x1350x1350 mm,title,Sculpture,exact,0.94,missing on site,MISMATCH,site generic
+Acrylic Sculpture and installations,20,Icebergs,2000,300x360x160,Space engraving,299,Sculptures & Installations,1963-2006,29 Icebergs 300x360x170 mm,2000,300x360x170 mm,title,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,20,Icebergs,2000,300x360x160,Space engraving,254,Sculptures & Installations,Bradford museum retrospective,(22) Icebergs 300x360x170 mm,2000,300x360x170 mm,title,Sculpture,exact,1.00,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,21,Prismatic Space,2002,420x230x480,Space engraving,308,Sculptures & Installations,1963-2006,40 Prismatic Shapes 420x230x480 mm,2002,420x230x480 mm,title,Sculpture,probable,0.84,ok,ok,site generic
+Acrylic Sculpture and installations,22,SPA,2003,1640x700x700,Space engraving and digital print,309,Sculptures & Installations,1963-2006,41 SPA 1640x700x700mm,2003,1640x700x700mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,22,SPA,2003,1640x700x700,Space engraving and digital print,258,Sculptures & Installations,Bradford museum retrospective,(26) SPA 1640x700x700mm,2003,1640x700x700mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,22,SPA,2003,1640x700x700,Space engraving and digital print,310,Sculptures & Installations,1963-2006,42 SPA (detail),1963,,,Sculpture,probable,1.00,MISMATCH,missing on site,site generic
+Acrylic Sculpture and installations,23,Moon Over the Water,2002,810x1100x640,Space engraving and steel,305,Sculptures & Installations,1963-2006,36 Moon over Water 890x1100x640 mm,2002,890x1100x640 mm,title,Sculpture,probable,0.88,ok,MISMATCH,site generic
+Acrylic Sculpture and installations,24,TAO,1965,1000x600x580,Space engraving and welded steel,291,Sculptures & Installations,1963-2006,21 TAO 1000x600x580 mm,1965,1000x600x580 mm,title,Sculpture,exact,1.00,ok,ok,site generic
+Acrylic Sculpture and installations,24,TAO,1965,1000x600x580,Space engraving and welded steel,240,Sculptures & Installations,Bradford museum retrospective,(8) TAO 1000x600x580 mm,1965,1000x600x580 mm,title,Sculpture,exact,1.00,ok,ok,site generic
