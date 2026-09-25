@@ -63,6 +63,17 @@ for i, it in enumerate(inv):
         pairs.append((sc + bonus, sc, i, j))
 pairs.sort(reverse=True)
 inv_match, site_used = {}, set()
+
+# Manual pairings (inventory no -> website title), fixed before automatic matching.
+# The website's Text Messages entries are the collage originals, not the A4 prints.
+# The inventory lists the 600x460 original after "4 Inspire Dreams" as a second
+# "Inspire Dreams" (266b), but it sits in slot 5 and matches Finding Reasons' size.
+MANUAL = {"266b": "05 Finding reasons", "268b": "07 Old Master 42005"}
+for i, it in enumerate(inv):
+    if str(it["no"]) in MANUAL:
+        j = next(j for j, s in enumerate(site) if s["title"] == MANUAL[str(it["no"])])
+        inv_match[i] = (j, None)
+        site_used.add(j)
 for _, sc, i, j in pairs:
     if i in inv_match or j in site_used:
         continue
@@ -87,7 +98,8 @@ for i, it in enumerate(inv):
         r.update(site_index=j, site_category=s["category"], site_subcategory=s["subcategory"],
                  site_title=s["title"], site_date=s.get("date") or "",
                  site_dimensions=s.get("dimensions") or "", site_technique=s.get("technique") or "",
-                 match="exact" if sc >= 0.93 and SECTION_CAT.get(it["section"]) == s["category"] else "probable", match_score=f"{sc:.2f}")
+                 match="manual" if sc is None else "exact" if sc >= 0.93 and SECTION_CAT.get(it["section"]) == s["category"] else "probable",
+                 match_score="" if sc is None else f"{sc:.2f}")
         # date
         iy, sy = r["inv_year"], r["site_date"]
         r["date_check"] = ("ok" if iy == sy else "inventory has no year" if not iy

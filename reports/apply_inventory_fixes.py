@@ -1,7 +1,7 @@
 """Apply 2014-10 inventory values to database/artworks.json and artworks.csv.
 
-Confident ("exact") and "probable" matches from crosscheck.py are applied
-(probable matches were reviewed and accepted). For each one:
+Confident ("exact"), "probable" and "manual" matches from crosscheck.py are
+applied (probable matches were reviewed and accepted). For each one:
   - technique_detail <- inventory technique (generic `technique` is kept for filters)
   - date             <- inventory year, when the inventory has one
   - dimensions       <- inventory size ("W x H mm"), when the inventory has one
@@ -28,7 +28,7 @@ changes = []
 for art in site:
     art.setdefault("technique_detail", "")
 for r in rows:
-    if r["match"] not in ("exact", "probable"):
+    if r["match"] not in ("exact", "probable", "manual"):
         continue
     art = site[r["site_index"]]
     new = {"technique_detail": r["inv_technique"], "date": r["inv_year"], "dimensions": fmt_dims(r["inv_size_mm"])}

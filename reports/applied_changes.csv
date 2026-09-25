@@ -332,13 +332,12 @@ site_index,title,match,field,old,new
 359,02 Choose Life,probable,technique_detail,,Digital montage & Collage
 360,03 Music Turns Back Clock,probable,technique_detail,,Digital montage & Collage
 361,04 Inspire Dreams,probable,technique_detail,,Digital montage
+362,05 Finding reasons,manual,technique_detail,,Digital montage
 363,06 Listen to the Heart,probable,technique_detail,,Digital montage
+364,07 Old Master 42005,manual,technique_detail,,Digital montage
+364,07 Old Master 42005,manual,date,,2005
+364,07 Old Master 42005,manual,dimensions,60 x 620 mm,420 x 600 mm
 365,08 Just a New Promise,probable,technique_detail,,Digital print
-362,05 Finding reasons,probable,technique_detail,,digital print
-362,05 Finding reasons,probable,dimensions,600 x 460 mm,297 x 210 mm
-364,07 Old Master 42005,probable,technique_detail,,digital print
-364,07 Old Master 42005,probable,date,,2005
-364,07 Old Master 42005,probable,dimensions,60 x 620 mm,297 x 210 mm
 368,01 Three Youths,exact,technique_detail,,Watercolour and collage
 369,02 Airport Beach,exact,technique_detail,,Watercolour and collage
 370,03 At the Well,exact,technique_detail,,Watercolour and collage
