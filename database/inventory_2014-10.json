@@ -3,7 +3,7 @@
   "source": "01 Agathe Sorel Inventory WITH PRICES (2014-10, LATEST, illustrated).pdf",
   "date": "2014-10",
   "currency": "GBP",
-  "notes": "Thumbnails/images removed per request. Extracted via OCR/text-layer reading of the PDF, page by page, cross-checked against the visual table layout. Sections restart numbering (Prints: 1-278; Watercolours/sketches/collages: 1-121). A final 'Sample portfolio' reference section (pages 36-43) lists exhibition-history titles with no location/technique/price data and is captured separately. Pages 59-78 (likely covering artist's books and sculptures/installations per the document's own overview) were not yet reached before this extraction pass ended and are NOT included below.",
+  "notes": "Thumbnails/images removed per request. Extracted via OCR/text-layer reading of the PDF, page by page, cross-checked against the visual table layout. Sections restart numbering (Prints: 1-278; Watercolours/sketches/collages: 1-121). A final 'Sample portfolio' reference section (pages 36-43) lists exhibition-history titles with no location/technique/price data and is captured separately. Pages 59-78 (likely covering artist's books and sculptures/installations per the document's own overview) were not yet reached before this extraction pass ended and are NOT included below. Item 120b (Divine Proportions) was missed in the original extraction: the PDF numbers it 120, the same as The Wind, and lists it first. It was added later from the 2014-06 copy of the inventory ('Agathe Inventory updated with prices'), because the 2014-10 PDF couldn't be read directly.",
   "sections": [
     {
       "section_name": "Prints & Graphic Works (1959-2005)",
@@ -1328,6 +1328,17 @@
           "paper_size_mm": "780x600",
           "stock": "2",
           "price_gbp": "750"
+        },
+        {
+          "no": "120b",
+          "location": "7",
+          "title": "Divine Proportions",
+          "year": "1985",
+          "technique": "Sugar Aquatint and plastic engravings",
+          "image_size_mm": null,
+          "paper_size_mm": "600x780",
+          "stock": "6",
+          "price_gbp": "800"
         },
         {
           "no": 121,
