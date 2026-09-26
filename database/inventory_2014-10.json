@@ -3,7 +3,7 @@
   "source": "01 Agathe Sorel Inventory WITH PRICES (2014-10, LATEST, illustrated).pdf",
   "date": "2014-10",
   "currency": "GBP",
-  "notes": "Thumbnails/images removed per request. Extracted via OCR/text-layer reading of the PDF, page by page, cross-checked against the visual table layout. Sections restart numbering (Prints: 1-278; Watercolours/sketches/collages: 1-121). A final 'Sample portfolio' reference section (pages 36-43) lists exhibition-history titles with no location/technique/price data and is captured separately. Pages 59-78 (likely covering artist's books and sculptures/installations per the document's own overview) were not yet reached before this extraction pass ended and are NOT included below.",
+  "notes": "Thumbnails/images removed per request. Extracted via OCR/text-layer reading of the PDF, page by page, cross-checked against the visual table layout. Sections restart numbering (Prints: 1-278; Watercolours/sketches/collages: 1-240; Acrylic Sculpture and installations: 1-24). A 'Sample portfolio' reference section (pages 36-43) lists exhibition-history titles with no location/technique/price data. Full 78-page document now extracted. Item 120b (Divine Proportions) was missed in the original extraction: the PDF numbers it 120, the same as The Wind, and lists it first. It was added later from the 2014-06 copy of the inventory ('Agathe Inventory updated with prices'), because the 2014-10 PDF couldn't be read directly.",
   "sections": [
     {
       "section_name": "Prints & Graphic Works (1959-2005)",
@@ -1328,6 +1328,17 @@
           "paper_size_mm": "780x600",
           "stock": "2",
           "price_gbp": "750"
+        },
+        {
+          "no": "120b",
+          "location": "7",
+          "title": "Divine Proportions",
+          "year": "1985",
+          "technique": "Sugar Aquatint and plastic engravings",
+          "image_size_mm": null,
+          "paper_size_mm": "600x780",
+          "stock": "6",
+          "price_gbp": "800"
         },
         {
           "no": 121,
@@ -3158,7 +3169,7 @@
     },
     {
       "section_name": "Watercolours, Sketches and Collages",
-      "numbering": "1-121",
+      "numbering": "1-240",
       "items": [
         {
           "no": 2,
@@ -4424,11 +4435,1425 @@
           "paper_size_mm": null,
           "stock": "1",
           "price_gbp": "1200"
+        },
+        {
+          "no": 122,
+          "location": "15/16",
+          "title": "Organic abstract",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "460x640",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 123,
+          "location": "15/16",
+          "title": "Playing football in the clearing",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "440x560",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 124,
+          "location": "15/16",
+          "title": "Prickly pears at la Asomada",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "460x600",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 125,
+          "location": "15/16",
+          "title": "Red hill with farm",
+          "year": null,
+          "technique": "Watercolour",
+          "size_mm": "460x600",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 126,
+          "location": "15/16",
+          "title": "Rockface",
+          "year": null,
+          "technique": "Watercolour",
+          "size_mm": "440x560",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 127,
+          "location": "15/16",
+          "title": "Rock formations",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "440x560",
+          "stock": "1",
+          "price_gbp": "900"
+        },
+        {
+          "no": 128,
+          "location": "framed",
+          "title": "Roots and Lichen",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "430x600",
+          "stock": "1",
+          "price_gbp": "1100"
+        },
+        {
+          "no": 129,
+          "location": "15/16",
+          "title": "Rust",
+          "year": "2013",
+          "technique": "Watercolour collage",
+          "size_mm": "430x540",
+          "stock": "1",
+          "price_gbp": "2000"
+        },
+        {
+          "no": 130,
+          "location": "15/16",
+          "title": "Spring shower",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "460x600",
+          "stock": "1",
+          "price_gbp": "1100"
+        },
+        {
+          "no": 131,
+          "location": "15/16",
+          "title": "Still life with bucket and gourd",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "460x600",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 132,
+          "location": "15/16",
+          "title": "Still life with shell",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "440x640",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 133,
+          "location": "15/16",
+          "title": "Still life with fruit",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "450x600",
+          "stock": "1",
+          "price_gbp": "1100"
+        },
+        {
+          "no": 134,
+          "location": "15/16",
+          "title": "The big Fish",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "500x600",
+          "stock": "1",
+          "price_gbp": "1100"
+        },
+        {
+          "no": 135,
+          "location": "15/16",
+          "title": "View from the Delhi Observatory",
+          "year": null,
+          "technique": "Watercolour and body paint",
+          "size_mm": "370x500",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 137,
+          "location": "15/16",
+          "title": "The Hopoo bird",
+          "year": null,
+          "technique": "Watercolour",
+          "size_mm": "480x670",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 138,
+          "location": "15/16",
+          "title": "The horses own Patio",
+          "year": null,
+          "technique": "Watercolour",
+          "size_mm": "440x600",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 139,
+          "location": "15/16",
+          "title": "Tomato Crop",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "450x620",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 140,
+          "location": "15/16",
+          "title": "The orange House",
+          "year": null,
+          "technique": "Watercolour collage",
+          "size_mm": "470x630",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 141,
+          "location": "15/16",
+          "title": "Waterman's yard",
+          "year": null,
+          "technique": "Watercolour collage",
+          "size_mm": "490x630",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 142,
+          "location": "15/16",
+          "title": "The Wheelbarrow",
+          "year": null,
+          "technique": "Watercolour collage",
+          "size_mm": "440x520",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 143,
+          "location": "15/16",
+          "title": "Turkey walk",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "460x620",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 144,
+          "location": "15/16",
+          "title": "Turkeys Marching Home",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "470x660",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 145,
+          "location": "15/16",
+          "title": "Twist",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "460x570",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 146,
+          "location": "15/16",
+          "title": "Two nudes",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "450x300",
+          "stock": "1",
+          "price_gbp": "900"
+        },
+        {
+          "no": 147,
+          "location": "15/16",
+          "title": "Landscape with yellow sky",
+          "year": "1985",
+          "technique": "watercolour",
+          "size_mm": "420x590",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 148,
+          "location": "15/16",
+          "title": "Macho the Cock (Sketch)",
+          "year": "1985",
+          "technique": "Watercolour",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 149,
+          "location": "15/16",
+          "title": "Vineyard at the volcano",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "450x600",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 150,
+          "location": "15/16",
+          "title": "Volcano, wheelbarrow and cooking pot",
+          "year": null,
+          "technique": "Watercolour collage",
+          "size_mm": "440x520",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 151,
+          "location": "15/16",
+          "title": "Volcano & Stone formation",
+          "year": null,
+          "technique": "Watercolour collage",
+          "size_mm": "460x640",
+          "stock": "1",
+          "price_gbp": "1100"
+        },
+        {
+          "no": 152,
+          "location": "15/16",
+          "title": "Volcano and see of lava",
+          "year": null,
+          "technique": "Watercolour",
+          "size_mm": "430x640",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 153,
+          "location": "15/16",
+          "title": "Volcano and succulents",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": null,
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 154,
+          "location": "15/16",
+          "title": "Wild flowers at the Caves",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "660x480",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 155,
+          "location": "15/16",
+          "title": "The Wild ones (Sketch)",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "390x540",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 156,
+          "location": "15/16",
+          "title": "Wild Flowers with Castle",
+          "year": null,
+          "technique": "watercolour",
+          "size_mm": "660x480",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 157,
+          "location": "15-16",
+          "title": "Yellow flowers, Orange cloud",
+          "year": null,
+          "technique": "Watercolour collage",
+          "size_mm": "450x560",
+          "stock": "1",
+          "price_gbp": "1700"
+        },
+        {
+          "no": 158,
+          "location": "Framed",
+          "title": "Airing the Family Bed India",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "450x560",
+          "stock": "1",
+          "price_gbp": "2500"
+        },
+        {
+          "no": 159,
+          "location": "Framed",
+          "title": "At the Delhi Observatory",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "390x570",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 160,
+          "location": "Framed",
+          "title": "Bathing hut Varanasi",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "450x590",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 161,
+          "location": "framed",
+          "title": "The Temple in the lake",
+          "year": "2007",
+          "technique": "Watercolour",
+          "size_mm": "360x540",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 162,
+          "location": "Framed",
+          "title": "Cotton Traders",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "440x630",
+          "stock": "1",
+          "price_gbp": "5000"
+        },
+        {
+          "no": 163,
+          "location": "Framed",
+          "title": "Courtyard with Buffalo",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "860x1170",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 164,
+          "location": "Framed",
+          "title": "Girls Washing Saris",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "860x1170",
+          "stock": null,
+          "price_gbp": "4500"
+        },
+        {
+          "no": 165,
+          "location": "Framed",
+          "title": "Harem Jodhpur",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "1170x860",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 166,
+          "location": "16",
+          "title": "Holy Cows",
+          "year": "2007",
+          "technique": "Watercolour",
+          "size_mm": "860x1170",
+          "stock": "1",
+          "price_gbp": "5000"
+        },
+        {
+          "no": 167,
+          "location": "15/16",
+          "title": "Mud house with figures Khajuraho",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "490x660",
+          "stock": "1",
+          "price_gbp": "4000"
+        },
+        {
+          "no": 168,
+          "location": "15/16",
+          "title": "Mumbai harbour",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "490x660",
+          "stock": "1",
+          "price_gbp": "2500"
+        },
+        {
+          "no": 169,
+          "location": "Framed",
+          "title": "Pushkar farmland",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "380x520",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 170,
+          "location": "Framed",
+          "title": "Painted elephants",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "1180x520",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 171,
+          "location": "Framed",
+          "title": "Watermill Aurangabad",
+          "year": "2007",
+          "technique": "Watercolour",
+          "size_mm": "1180x860",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 172,
+          "location": "Framed",
+          "title": "The Noria",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "1180x860",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 173,
+          "location": "Framed",
+          "title": "Elephant Gate",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "1180x860",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 174,
+          "location": "15/16",
+          "title": "Blue City",
+          "year": "2007",
+          "technique": "Watercolour",
+          "size_mm": "1180x860",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 175,
+          "location": "framed",
+          "title": "Stained glass reflections",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "570x660",
+          "stock": "1",
+          "price_gbp": "2000"
+        },
+        {
+          "no": 176,
+          "location": "framed",
+          "title": "Stained Glass and roof terraces",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "570x660",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 177,
+          "location": "Loc17/framed",
+          "title": "Pottery village",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "440x540",
+          "stock": "1",
+          "price_gbp": "2500"
+        },
+        {
+          "no": 178,
+          "location": "Loc17/framed",
+          "title": "Pushkar with Red Background",
+          "year": "2007",
+          "technique": "watercolour",
+          "size_mm": "860x1180",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 179,
+          "location": "Loc17/framed",
+          "title": "The Pyre Varanasi",
+          "year": "2007",
+          "technique": "Watercolour",
+          "size_mm": "1017x860",
+          "stock": "1",
+          "price_gbp": "2000"
+        },
+        {
+          "no": 180,
+          "location": "Location17",
+          "title": "The Heritage India",
+          "year": "2007",
+          "technique": "Watercolour",
+          "size_mm": "860x1017",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 181,
+          "location": "Folder17",
+          "title": "Bikinis drying",
+          "year": "2013",
+          "technique": "Watercolour collage",
+          "size_mm": "860x1017",
+          "stock": "1",
+          "price_gbp": "3200"
+        },
+        {
+          "no": 182,
+          "location": "Folder17",
+          "title": "Dotty Skulls",
+          "year": "2013",
+          "technique": "Watercolour collage",
+          "size_mm": "860x1017",
+          "stock": "1",
+          "price_gbp": "3000"
+        },
+        {
+          "no": 183,
+          "location": "17/1.5",
+          "title": "Drying the Cloth on the Ground",
+          "year": "2009",
+          "technique": "watercolour",
+          "size_mm": "860x1017",
+          "stock": "1",
+          "price_gbp": "2000"
+        },
+        {
+          "no": 184,
+          "location": "17",
+          "title": "Two Skulls in the Lava Field",
+          "year": "2013",
+          "technique": null,
+          "size_mm": "1170x850",
+          "stock": "1",
+          "price_gbp": "4000"
+        },
+        {
+          "no": 185,
+          "location": "17",
+          "title": "Spotty Skulls",
+          "year": "2013",
+          "technique": null,
+          "size_mm": "640x840",
+          "stock": "1",
+          "price_gbp": "3000"
+        },
+        {
+          "no": 186,
+          "location": "Loc17/framed",
+          "title": "Spotlights",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "440x380",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 187,
+          "location": "Loc17/framed",
+          "title": "Dolphin ride",
+          "year": "2012",
+          "technique": "Watercolour collage",
+          "size_mm": "440x380",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 188,
+          "location": "Loc17/framed",
+          "title": "La Movida",
+          "year": "2012",
+          "technique": "Watercolour collage",
+          "size_mm": "500x300",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 189,
+          "location": "Loc17/framed",
+          "title": "Giant projection screen",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "300x500",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 190,
+          "location": "Loc17/framed",
+          "title": "Superwoman Roundabout",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "500x300",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 191,
+          "location": "Loc17/framed",
+          "title": "Spiderman roundabout",
+          "year": "2012",
+          "technique": "Watercolour collage",
+          "size_mm": "650x330",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 192,
+          "location": "Loc17/framed",
+          "title": "Spiderman",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "500x300",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 193,
+          "location": "Loc17/framed",
+          "title": "Spiderman and dolphins",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "300x500",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 194,
+          "location": "Loc17/framed",
+          "title": "Fairground structures",
+          "year": "2012",
+          "technique": "Watercolour collage",
+          "size_mm": "500x300",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 195,
+          "location": "Loc17",
+          "title": "The bull ride",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "300x500",
+          "stock": "1",
+          "price_gbp": "1800"
+        },
+        {
+          "no": 196,
+          "location": "Loc17/framed",
+          "title": "Triptych no 1",
+          "year": "2011",
+          "technique": "Watercolour collage",
+          "size_mm": "1017x860",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 197,
+          "location": "Loc17/framed",
+          "title": "Triptych no 2",
+          "year": "2011",
+          "technique": "Watercolour collage",
+          "size_mm": "1017x860",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 198,
+          "location": "Loc17/framed",
+          "title": "Triptych no 3",
+          "year": "2011",
+          "technique": "Watercolour collage",
+          "size_mm": "1017x860",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 199,
+          "location": "Loc17/framed",
+          "title": "Acrobat descending and pink contortionist",
+          "year": "2011",
+          "technique": "watercolour",
+          "size_mm": "760x570",
+          "stock": "1",
+          "price_gbp": "2000"
+        },
+        {
+          "no": 200,
+          "location": "Loc17/framed",
+          "title": "All Hanging From Ropes",
+          "year": "2011",
+          "technique": "watercolour",
+          "size_mm": "530x380",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 201,
+          "location": "Loc17/framed",
+          "title": "Bring in the Clowns (Sketch)",
+          "year": "2011",
+          "technique": "watercolour",
+          "size_mm": "620x460",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 202,
+          "location": "Loc17/framed",
+          "title": "Acrobat with Clowns",
+          "year": "2011",
+          "technique": "watercolour",
+          "size_mm": "530x380",
+          "stock": "1",
+          "price_gbp": "1500"
+        },
+        {
+          "no": 203,
+          "location": "Loc17/framed",
+          "title": "Acrobat descending and pink contortionist",
+          "year": "2011",
+          "technique": "Watercolour collage",
+          "size_mm": "760x570",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 204,
+          "location": "Framed",
+          "title": "Blue Acrobat with Shadows",
+          "year": "2011",
+          "technique": "Watercolour",
+          "size_mm": "760x570",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 205,
+          "location": "15-16",
+          "title": "Pink Acrobat and audience",
+          "year": "2011",
+          "technique": "Watercolour collage",
+          "size_mm": "460x680",
+          "stock": "1",
+          "price_gbp": "2000"
+        },
+        {
+          "no": 206,
+          "location": "15-16",
+          "title": "Pink acrobats with poles and ropes",
+          "year": "2011",
+          "technique": "watercolour collage",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "1200"
+        },
+        {
+          "no": 207,
+          "location": "Framed",
+          "title": "Dance with red poles and ropes",
+          "year": "2011",
+          "technique": "Watercolour collage",
+          "size_mm": "570x760",
+          "stock": "1",
+          "price_gbp": "2500"
+        },
+        {
+          "no": 208,
+          "location": "15-16",
+          "title": "Grand Slide",
+          "year": "2011",
+          "technique": "Watercolour collage",
+          "size_mm": "630x480",
+          "stock": null,
+          "price_gbp": "2500"
+        },
+        {
+          "no": 209,
+          "location": "15-16",
+          "title": "The big wheel",
+          "year": "2011",
+          "technique": "Pencil drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 210,
+          "location": "15-16",
+          "title": "Acrobats and dancers with yellow spotlights",
+          "year": "2011",
+          "technique": "Pencil drawing and coloured tape",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 211,
+          "location": "15-16",
+          "title": "The Great white slide",
+          "year": "2011",
+          "technique": "Pencil drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 212,
+          "location": "15-16",
+          "title": "All on the ropes",
+          "year": "2011",
+          "technique": "Pencil Drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 213,
+          "location": "15-16",
+          "title": "Dancers and roof structure",
+          "year": "2011",
+          "technique": "Pencil Drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 214,
+          "location": "15-16",
+          "title": "Juggler and pottery man",
+          "year": "2011",
+          "technique": "Pencil, Watercolour and Tape",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "950"
+        },
+        {
+          "no": 215,
+          "location": "15-16",
+          "title": "Juggler and dancer",
+          "year": "2011",
+          "technique": "Pencil drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 216,
+          "location": "15-16",
+          "title": "Net Dancer",
+          "year": "2011",
+          "technique": "Pencil drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "700"
+        },
+        {
+          "no": 217,
+          "location": "15-16",
+          "title": "Yellow spotlight and smoke",
+          "year": "2011",
+          "technique": "Pencil drawing and tape",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "700"
+        },
+        {
+          "no": 218,
+          "location": "15-16",
+          "title": "Smoke",
+          "year": "2011",
+          "technique": "Pencil drawing and yellow tape",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "700"
+        },
+        {
+          "no": 219,
+          "location": "15-16",
+          "title": "Purple Masks and orange wings",
+          "year": "2011",
+          "technique": "Pencil drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "700"
+        },
+        {
+          "no": 220,
+          "location": "15-16",
+          "title": "Acrobats with white slide",
+          "year": null,
+          "technique": "Pencil drawing",
+          "size_mm": "300x210",
+          "stock": "1",
+          "price_gbp": "800"
+        },
+        {
+          "no": 221,
+          "location": "17",
+          "title": "Lorca's Flowers",
+          "year": "2013",
+          "technique": "Watercolour collage",
+          "size_mm": "380x520",
+          "stock": "1",
+          "price_gbp": "1600"
+        },
+        {
+          "no": 222,
+          "location": "framed",
+          "title": "Sexy Flowers in a Bay",
+          "year": "2012",
+          "technique": null,
+          "size_mm": "650x860",
+          "stock": "1",
+          "price_gbp": "2000"
+        },
+        {
+          "no": 223,
+          "location": "15/16",
+          "title": "Katalina's wall flowers",
+          "year": "2013",
+          "technique": "watercolour",
+          "size_mm": "610x460",
+          "stock": "1",
+          "price_gbp": "4000"
+        },
+        {
+          "no": 224,
+          "location": "framed",
+          "title": "House with Bougainvillea",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "650x850",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 225,
+          "location": "17",
+          "title": "Sexy Flowers red and orange",
+          "year": "2012",
+          "technique": "Watercolour",
+          "size_mm": "650x870",
+          "stock": "1",
+          "price_gbp": "2500"
+        },
+        {
+          "no": 226,
+          "location": "17",
+          "title": "Plunging beauty with red flowers",
+          "year": "2012",
+          "technique": "Watercolour",
+          "size_mm": "860x1030",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 227,
+          "location": "17",
+          "title": "White and yellow flowers",
+          "year": "2012",
+          "technique": "watercolour",
+          "size_mm": "650x850",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 228,
+          "location": "15/16",
+          "title": "Dotty skulls",
+          "year": "2013",
+          "technique": "watercolour",
+          "size_mm": "860x1170",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 229,
+          "location": "17",
+          "title": "Sculls in the lava field",
+          "year": "2013",
+          "technique": "watercolour",
+          "size_mm": "640x840",
+          "stock": "1",
+          "price_gbp": "4500"
+        },
+        {
+          "no": 230,
+          "location": "15/16",
+          "title": "Two sculls with coloured background",
+          "year": "2013",
+          "technique": "Watercolour collage",
+          "size_mm": "640x840",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 231,
+          "location": "15/16",
+          "title": "Interchange",
+          "year": "2014",
+          "technique": "Watercolour",
+          "size_mm": "650x850",
+          "stock": "1",
+          "price_gbp": "3000"
+        },
+        {
+          "no": 232,
+          "location": "15/16",
+          "title": "Succulents",
+          "year": "2014",
+          "technique": "Watercolour",
+          "size_mm": "650x850",
+          "stock": "1",
+          "price_gbp": "3500"
+        },
+        {
+          "no": 233,
+          "location": "Framed",
+          "title": "Butterfly",
+          "year": "2014",
+          "technique": "Watercolour collage",
+          "size_mm": "950x800",
+          "stock": null,
+          "price_gbp": "3600"
+        },
+        {
+          "no": 234,
+          "location": "Framed",
+          "title": "Butterfly in Patio",
+          "year": "2014",
+          "technique": "Watercolour collage",
+          "size_mm": "950x800",
+          "stock": null,
+          "price_gbp": "3600"
+        },
+        {
+          "no": 235,
+          "location": "framed",
+          "title": "Plants and butterfly",
+          "year": "2014",
+          "technique": "Watercolour collage",
+          "size_mm": "650x880",
+          "stock": null,
+          "price_gbp": "3600"
+        },
+        {
+          "no": 236,
+          "location": "Framed",
+          "title": "Hibiscus and the moon",
+          "year": "2014",
+          "technique": "Watercolour collage",
+          "size_mm": "650x880",
+          "stock": null,
+          "price_gbp": "3600"
+        },
+        {
+          "no": 237,
+          "location": "framed",
+          "title": "Pond 1",
+          "year": "2014",
+          "technique": null,
+          "size_mm": "650x880",
+          "stock": null,
+          "price_gbp": "3600"
+        },
+        {
+          "no": 238,
+          "location": "framed",
+          "title": "Pond 2",
+          "year": "2014",
+          "technique": "Watercolour Collage",
+          "size_mm": "650x880",
+          "stock": null,
+          "price_gbp": "3600"
+        },
+        {
+          "no": 239,
+          "location": "framed",
+          "title": "Twigs and Plumbago",
+          "year": "2014",
+          "technique": "Watercolour Collage",
+          "size_mm": "950x800",
+          "stock": null,
+          "price_gbp": "1900"
+        },
+        {
+          "no": 240,
+          "location": "framed",
+          "title": "The grand hibiscus",
+          "year": "2014",
+          "technique": "Watercolour Collage",
+          "size_mm": "910x1020",
+          "stock": null,
+          "price_gbp": "3550"
         }
+      ],
+      "notes": "Numbering continues from prior extraction (1-121) through 122-240, covering India (Nehru Centre/Bradford Cartwright Hall), Fairground in the Sea (Lanzarote 2012), Albert Hall watercolours (2011), the Cirque du Soleil 'blind drawings' (done in near-total darkness during the performance), and the Sexy Flowers series (2012-2014)."
+    },
+    {
+      "section_name": "Acrylic Sculpture and installations",
+      "numbering": "1-24 (restarts from 1; items 6 and 13 are absent from the original document numbering - no literal duplicate index numbers occur in this section; items 9 and 17 are both titled Titania but are distinct index numbers, not a repeated index)",
+      "items": [
+        {
+          "no": 1,
+          "location": "studio",
+          "title": "Raft",
+          "year": "1968",
+          "technique": "Space engraving acrylic",
+          "size_mm": "600x360x170",
+          "stock": "2",
+          "price_gbp": "18000"
+        },
+        {
+          "no": 2,
+          "location": "studio",
+          "title": "Samurai",
+          "year": "1969",
+          "technique": "Space engraving",
+          "size_mm": "1329x500x250",
+          "stock": "1",
+          "price_gbp": "13500"
+        },
+        {
+          "no": 3,
+          "location": "studio",
+          "title": "Windows",
+          "year": "1971",
+          "technique": "Space engraving",
+          "size_mm": "1100x850x150",
+          "stock": "1",
+          "price_gbp": "15000"
+        },
+        {
+          "no": 4,
+          "location": "studio",
+          "title": "Welcome Arch",
+          "year": "1971",
+          "technique": "Space engraving, silk screen and etching",
+          "size_mm": "1800x1120x400",
+          "stock": "1",
+          "price_gbp": "18000"
+        },
+        {
+          "no": 5,
+          "location": "studio",
+          "title": "Echo Chamber",
+          "year": "1974",
+          "technique": "Space engraving, drilling and lathe formatting",
+          "size_mm": "360x320x400",
+          "stock": "2",
+          "price_gbp": "10000"
+        },
+        {
+          "no": 7,
+          "location": "studio",
+          "title": "Step into the future",
+          "year": "1975",
+          "technique": "Sculpture maquette, finalist for Strand sculpture competition",
+          "size_mm": "400x480x300",
+          "stock": "1",
+          "price_gbp": "12000"
+        },
+        {
+          "no": 8,
+          "location": "studio",
+          "title": "The Lure of lost Cultures",
+          "year": null,
+          "technique": "Space engraving, injection moulding and timber",
+          "size_mm": "2200x1240x700",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 9,
+          "location": "studio",
+          "title": "Titania",
+          "year": "1990",
+          "technique": "Space engraving and welded steel",
+          "size_mm": "2410x180x1120",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 10,
+          "location": "studio",
+          "title": "Fly wheel",
+          "year": "1985",
+          "technique": "Space engraving and welded steel",
+          "size_mm": "990x87x113",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 11,
+          "location": "studio",
+          "title": "Amazon",
+          "year": "1985",
+          "technique": "Space engraving",
+          "size_mm": "1000x600x540",
+          "stock": "1",
+          "price_gbp": "40000"
+        },
+        {
+          "no": 12,
+          "location": "studio",
+          "title": "Hover cube",
+          "year": "1989",
+          "technique": "Space engraving and steel",
+          "size_mm": "700x780x300",
+          "stock": "1",
+          "price_gbp": "30000"
+        },
+        {
+          "no": 14,
+          "location": "studio",
+          "title": "Macho the Cock",
+          "year": "1985",
+          "technique": "Space engraving and welded steel",
+          "size_mm": "1180x1230x1140",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 15,
+          "location": "studio",
+          "title": "Ego the Goat",
+          "year": "1987",
+          "technique": "Space engraving and welded steel",
+          "size_mm": "1300x1070x1067",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 16,
+          "location": "studio",
+          "title": "Woman in Waves",
+          "year": "1989",
+          "technique": "Space engraving",
+          "size_mm": "950x600x560",
+          "stock": "1",
+          "price_gbp": "32000"
+        },
+        {
+          "no": 17,
+          "location": "studio",
+          "title": "Titania",
+          "year": "1990",
+          "technique": "Space engraving and welded steel",
+          "size_mm": "2410x180x1120",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 18,
+          "location": "studio",
+          "title": "Fish and Swan",
+          "year": "1989",
+          "technique": "Two Space engravings exhibited together",
+          "size_mm": "1850x640x550",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 19,
+          "location": "studio",
+          "title": "Grotto for Toros",
+          "year": "1989",
+          "technique": "Space engraving, welded steel and stone",
+          "size_mm": "1930x1350x1350",
+          "stock": "1",
+          "price_gbp": "50000"
+        },
+        {
+          "no": 20,
+          "location": "studio",
+          "title": "Icebergs",
+          "year": "2000",
+          "technique": "Space engraving",
+          "size_mm": "300x360x160",
+          "stock": "1",
+          "price_gbp": "15000"
+        },
+        {
+          "no": 21,
+          "location": "studio",
+          "title": "Prismatic Space",
+          "year": "2002",
+          "technique": "Space engraving",
+          "size_mm": "420x230x480",
+          "stock": "1",
+          "price_gbp": "15000"
+        },
+        {
+          "no": 22,
+          "location": "studio",
+          "title": "SPA",
+          "year": "2003",
+          "technique": "Space engraving and digital print",
+          "size_mm": "1640x700x700",
+          "stock": "1",
+          "price_gbp": "20000"
+        },
+        {
+          "no": 23,
+          "location": "studio",
+          "title": "Moon Over the Water",
+          "year": "2002",
+          "technique": "Space engraving and steel",
+          "size_mm": "810x1100x640",
+          "stock": "1",
+          "price_gbp": "22000"
+        },
+        {
+          "no": 24,
+          "location": "studio",
+          "title": "TAO",
+          "year": "1965",
+          "technique": "Space engraving and welded steel",
+          "size_mm": "1000x600x580",
+          "stock": "1",
+          "price_gbp": "50000"
+        }
+      ],
+      "installation_reference_photos_no_price": [
+        "Installation at Bradford Museum (2012) - Bamboo installation",
+        "Bamboo installation (2012)",
+        "AS With Swan (2010) - Acrylic sculpture",
+        "Ego the Goat Detail (2012)",
+        "Ego the Goat at the Nehru Centre (2012)",
+        "Installation at the Nehru Centre (2012)",
+        "Fish and Swan at the Nehru Centre"
       ]
     }
   ],
-  "incomplete_sections_not_captured": [
-    "Pages 59-78 of 78 total pages (likely artist's books, sculptures and installations per document overview)"
-  ]
+  "incomplete_sections_not_captured": []
 }
