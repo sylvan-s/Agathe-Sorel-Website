@@ -249,7 +249,9 @@ for art in artworks:
     art["exhibition_locations"] = infer_exhibitions(art["category"], subcategory, raw_text, art["date"])
     
     # 7. Representation in Public Collections
-    art["represented_in_public_collections"] = "Yes (Tate, British Museum, Victoria & Albert Museum, etc.)"
+    # Set per work from database/public_collections.json by
+    # reports/apply_public_collections.py; run that after this script.
+    art["represented_in_public_collections"] = ""
     
     # Check if we should keep it
     if art["title"] == "Untitled" and not art["dimensions"] and not art["date"] and not art["edition"]:
