@@ -683,7 +683,7 @@ document.addEventListener('DOMContentLoaded', () => {
         modalArtTechnique.innerText = artwork.technique_detail || artwork.technique || 'Medium not specified';
         modalArtExhibitions.innerText = artwork.exhibition_locations || 'Not specified';
         // Each holding links to its catalogue record (sources are in the same order)
-        const holdings = (artwork.represented_in_public_collections || 'Estate Archive').split('; ');
+        const holdings = (artwork.represented_in_public_collections || '').split('; ');
         const sources = (artwork.public_collection_sources || '').split(' ').filter(Boolean);
         modalArtCollections.replaceChildren();
         holdings.forEach((holding, i) => {

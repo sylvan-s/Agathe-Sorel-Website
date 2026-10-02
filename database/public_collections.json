@@ -1,8 +1,8 @@
 {
   "title": "Agathe Sorel works identified in public collection catalogues",
   "researched": "2026-10",
-  "notes": "Each holding was found by searching the institution's online catalogue, and the URL is the catalogue record or artist page. 'match' says how sure we are that the holding is this website artwork: 'exact' means the title (and usually the date) agree; 'probable' means the title or date differ slightly, and 'catalogued_as' gives the institution's wording. Artworks not listed here get the default_text. Biographies also name the British Museum, British Library, British Council, Ashmolean, Library of Congress, NYPL, MFA Boston, LACMA, Smithsonian, Stedelijk, Bibliotheque nationale, Israel Museum, Skopje and Copenhagen, but no catalogue record for a specific work was found at those institutions, so no work is attributed to them.",
-  "default_text": "No holding of this work found in public collection catalogues",
+  "notes": "Each holding was found by searching the institution's online catalogue, and the URL is the catalogue record or artist page. 'match' says how sure we are that the holding is this website artwork: 'exact' means the title (and usually the date) agree; 'probable' means the title or date differ slightly, and 'catalogued_as' gives the institution's wording. Artworks not known to be in a major institutional collection are left blank. Biographies also name the British Museum, British Library, British Council, Ashmolean, Library of Congress, NYPL, MFA Boston, LACMA, Smithsonian, Stedelijk, Bibliotheque nationale, Israel Museum, Skopje and Copenhagen, but no catalogue record for a specific work was found at those institutions, so no work is attributed to them.",
+  "default_text": "",
   "works": [
     {
       "site_title": "Apres la Moisson",

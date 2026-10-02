@@ -67,4 +67,4 @@ with open(CSV_PATH, "w", newline="") as f:
     w.writerows(site)
 
 n = sum(1 for a in site if a[SOURCES])
-print(f"{n} artworks with identified holdings, {len(site) - n} set to default text")
+print(f"{n} artworks with identified holdings, {len(site) - n} left blank")
