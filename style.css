@@ -3206,3 +3206,7 @@ button {
 
 
 
+
+/* Bridge notes between the two memoir volumes */
+.timeline-bridge .timeline-content { font-style: italic; text-align: center; }
+.timeline-bridge .volume-switch-link { font-style: normal; white-space: nowrap; }
