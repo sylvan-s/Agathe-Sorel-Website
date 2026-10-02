@@ -682,7 +682,23 @@ document.addEventListener('DOMContentLoaded', () => {
         modalArtEdition.innerText = artwork.edition || 'Unique Work / Unknown';
         modalArtTechnique.innerText = artwork.technique_detail || artwork.technique || 'Medium not specified';
         modalArtExhibitions.innerText = artwork.exhibition_locations || 'Not specified';
-        modalArtCollections.innerText = artwork.represented_in_public_collections || 'Estate Archive';
+        // Each holding links to its catalogue record (sources are in the same order)
+        const holdings = (artwork.represented_in_public_collections || 'Estate Archive').split('; ');
+        const sources = (artwork.public_collection_sources || '').split(' ').filter(Boolean);
+        modalArtCollections.replaceChildren();
+        holdings.forEach((holding, i) => {
+            if (i > 0) modalArtCollections.append('; ');
+            if (sources[i]) {
+                const link = document.createElement('a');
+                link.href = sources[i];
+                link.target = '_blank';
+                link.rel = 'noopener';
+                link.textContent = holding;
+                modalArtCollections.append(link);
+            } else {
+                modalArtCollections.append(holding);
+            }
+        });
         
         // Hide metadata table & inquiry button and display autobiography quotes for memoir illustrations
         if (artwork.category === 'Autobiography Illustration') {
