@@ -1156,6 +1156,19 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
         
+        // Bridge links between the two volumes
+        document.querySelectorAll('.volume-switch-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const target = document.querySelector('.volume-select-btn[data-volume="' + link.getAttribute('data-target') + '"]');
+                if (target) {
+                    target.click();
+                    const selector = document.querySelector('.timeline-volume-selector');
+                    if (selector) selector.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+
         // Memoir Inquiry CTA click handler
         if (memoirInquiryBtn) {
             memoirInquiryBtn.addEventListener('click', (e) => {
@@ -1175,7 +1188,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 const messageTextarea = document.getElementById('curator-message');
                 if (messageTextarea) {
-                    messageTextarea.value = "Hello, I am interested in securing a copy of Agathe Sorel's two-volume autobiography, comprising 'From Darkness to Hope' and 'Projections in Space and Time'. Please provide me with more details on how to order this publication. Thank you.";
+                    messageTextarea.value = "Hello, I am interested in securing a copy of Agathe Sorel's two-volume memoirs, 'From Darkness to Hope' and 'Projections in Time and Space'. Please register my interest in the limited edition due in January 2027 and let me know when copies are available. Thank you.";
                 }
                 
                 // Smooth scroll to form
