@@ -1,94 +1,559 @@
 {
   "title": "Agathe Sorel works identified in public collection catalogues",
   "researched": "2026-10",
-  "notes": "Each holding was found by searching the institution's online catalogue, and the URL is the catalogue record or artist page. 'match' says how sure we are that the holding is this website artwork: 'exact' means the title (and usually the date) agree; 'probable' means the title or date differ slightly, and 'catalogued_as' gives the institution's wording. Artworks not known to be in a major institutional collection are left blank. Biographies also name the British Museum, British Library, British Council, Ashmolean, Library of Congress, NYPL, MFA Boston, LACMA, Smithsonian, Stedelijk, Bibliotheque nationale, Israel Museum, Skopje and Copenhagen, but no catalogue record for a specific work was found at those institutions, so no work is attributed to them.",
+  "notes": "Holdings come from two sources. British Museum and Tate holdings were confirmed against the ACKG knowledge graph in the claude_printmasterAI repo (30 BM prints and 2 Tate prints, 2026-10); BM URLs are built from the registration number. The other holdings were found by searching each institution's online catalogue, and their URL is the catalogue record or artist page. 'match' says how sure we are that the holding is this website artwork: 'exact' means the same work, allowing for spelling differences; 'probable' means the title or date differ noticeably, and 'catalogued_as' gives the institution's wording. Artworks not known to be in a major institutional collection are left blank.",
   "default_text": "",
   "works": [
     {
       "site_title": "Apres la Moisson",
       "holdings": [
-        {"institution": "Government Art Collection, London", "accession": "GAC 7036", "catalogued_as": "Après la Moisson, 1960, colour etching, ed. 46/50", "match": "exact", "url": "https://artcollection.culture.gov.uk/artwork/7036/"},
-        {"institution": "Government Art Collection, London", "accession": "GAC 7350", "catalogued_as": "Après la Moisson, 1959, colour etching, ed. 16/50", "match": "exact", "url": "https://artcollection.dcms.gov.uk/artwork/7350/"}
+        {
+          "institution": "Government Art Collection, London",
+          "accession": "GAC 7036",
+          "catalogued_as": "Après la Moisson, 1960, colour etching, ed. 46/50",
+          "match": "exact",
+          "url": "https://artcollection.culture.gov.uk/artwork/7036/"
+        },
+        {
+          "institution": "Government Art Collection, London",
+          "accession": "GAC 7350",
+          "catalogued_as": "Après la Moisson, 1959, colour etching, ed. 16/50",
+          "match": "exact",
+          "url": "https://artcollection.dcms.gov.uk/artwork/7350/"
+        }
       ]
     },
     {
       "site_title": "Vue sur la Montagne",
       "holdings": [
-        {"institution": "Government Art Collection, London", "accession": "", "catalogued_as": "Vue sur la Montagne", "match": "exact", "url": "https://artcollection.dcms.gov.uk/person/sorel-agathe/"}
+        {
+          "institution": "Government Art Collection, London",
+          "accession": "",
+          "catalogued_as": "Vue sur la Montagne",
+          "match": "exact",
+          "url": "https://artcollection.dcms.gov.uk/person/sorel-agathe/"
+        }
       ]
     },
     {
       "site_title": "Peacock",
       "holdings": [
-        {"institution": "Government Art Collection, London", "accession": "", "catalogued_as": "Peacock", "match": "exact", "url": "https://artcollection.dcms.gov.uk/person/sorel-agathe/"}
+        {
+          "institution": "Government Art Collection, London",
+          "accession": "",
+          "catalogued_as": "Peacock",
+          "match": "exact",
+          "url": "https://artcollection.dcms.gov.uk/person/sorel-agathe/"
+        }
       ]
     },
     {
       "site_title": "Croisement des Chemins",
       "holdings": [
-        {"institution": "Arts Council Collection, London", "accession": "ACL 741", "catalogued_as": "Chemin Croisé, 1960, colour etching and aquatint, artist's proof", "match": "probable", "url": "https://artscouncilcollection.org.uk/artwork/chemin-croise"}
+        {
+          "institution": "Arts Council Collection, London",
+          "accession": "ACL 741",
+          "catalogued_as": "Chemin Croisé, 1960, colour etching and aquatint, artist's proof",
+          "match": "probable",
+          "url": "https://artscouncilcollection.org.uk/artwork/chemin-croise"
+        }
       ]
     },
     {
       "site_title": "Troubled Square",
       "holdings": [
-        {"institution": "Victoria and Albert Museum, London", "accession": "E.2-1964", "catalogued_as": "Troubled Square, colour etching, artist's proof, dated 1963", "match": "exact", "url": "http://collections.vam.ac.uk/item/O697724/troubled-square-print-sorel-agatha/"}
+        {
+          "institution": "British Museum, London",
+          "accession": "1964,0411.7",
+          "catalogued_as": "The troubled square, 1963",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_1964-0411-7",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Victoria and Albert Museum, London",
+          "accession": "E.2-1964",
+          "catalogued_as": "Troubled Square, colour etching, artist's proof, dated 1963",
+          "match": "exact",
+          "url": "http://collections.vam.ac.uk/item/O697724/troubled-square-print-sorel-agatha/"
+        }
       ]
     },
     {
       "site_title": "Le Balcon by Jean Genet (Artist's boo title page 1)",
       "holdings": [
-        {"institution": "Arts Council Collection, London", "accession": "PR498", "catalogued_as": "Le Balcon A/P No.1 from set of 3 from Jean Genet's play 'The Balcony', 1964", "match": "probable", "url": "https://artscouncilcollection.org.uk/artwork/le-balcon-ap-no1-set-3-jean-genets-play-balcony"},
-        {"institution": "Philadelphia Museum of Art", "accession": "1965-57-5", "catalogued_as": "Le Balcon, 1964 (printed 1965), photogravure and engraving with gold leaf", "match": "probable", "url": "https://philamuseum.org/collection/object/244161"}
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.1",
+          "catalogued_as": "'Le Balcon' (title page), 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-1",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Arts Council Collection, London",
+          "accession": "PR498",
+          "catalogued_as": "Le Balcon A/P No.1 from set of 3 from Jean Genet's play 'The Balcony', 1964",
+          "match": "probable",
+          "url": "https://artscouncilcollection.org.uk/artwork/le-balcon-ap-no1-set-3-jean-genets-play-balcony"
+        },
+        {
+          "institution": "Philadelphia Museum of Art",
+          "accession": "1965-57-5",
+          "catalogued_as": "Le Balcon, 1964 (printed 1965), photogravure and engraving with gold leaf",
+          "match": "probable",
+          "url": "https://philamuseum.org/collection/object/244161"
+        }
       ]
     },
     {
       "site_title": "The Judge (Le Balcon.. page 3)",
       "holdings": [
-        {"institution": "Arts Council Collection, London", "accession": "PR500", "catalogued_as": "The Judge A/P No 3 of set of 3 from Jean Genet's play 'The Balcony', 1964", "match": "exact", "url": "https://artscouncilcollection.org.uk/artwork/judge-ap-no-3-set-3-jean-genets-play-balcony"}
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.3",
+          "catalogued_as": "The Judge, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-3",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Arts Council Collection, London",
+          "accession": "PR500",
+          "catalogued_as": "The Judge A/P No 3 of set of 3 from Jean Genet's play 'The Balcony', 1964",
+          "match": "exact",
+          "url": "https://artscouncilcollection.org.uk/artwork/judge-ap-no-3-set-3-jean-genets-play-balcony"
+        }
       ]
     },
     {
       "site_title": "The Fire (Le Balcon.. page 11)",
       "holdings": [
-        {"institution": "Arts Council Collection, London", "accession": "PR499", "catalogued_as": "Le Feu A/P No 2 of a set of 3 from Jean Genet's play 'The Balcony', 1964", "match": "probable", "url": "https://artscouncilcollection.org.uk/artwork/le-feu-ap-no-2-set-3-jean-genets-play-balcony"}
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.11",
+          "catalogued_as": "The Fire, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-11",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Arts Council Collection, London",
+          "accession": "PR499",
+          "catalogued_as": "Le Feu A/P No 2 of a set of 3 from Jean Genet's play 'The Balcony', 1964",
+          "match": "probable",
+          "url": "https://artscouncilcollection.org.uk/artwork/le-feu-ap-no-2-set-3-jean-genets-play-balcony"
+        }
       ]
     },
     {
       "site_title": "Everyday Irreality (Le Balcon.. page 10) 67",
       "holdings": [
-        {"institution": "Philadelphia Museum of Art", "accession": "1965-57-14", "catalogued_as": "Everyday Irreality, 1964 (printed 1965)", "match": "exact", "url": "https://philamuseum.org/collection/object/244170"}
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.10",
+          "catalogued_as": "Everyday Reality, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-10",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Philadelphia Museum of Art",
+          "accession": "1965-57-14",
+          "catalogued_as": "Everyday Irreality, 1964 (printed 1965)",
+          "match": "exact",
+          "url": "https://philamuseum.org/collection/object/244170"
+        }
       ]
     },
     {
       "site_title": "Sappho",
       "holdings": [
-        {"institution": "Art Institute of Chicago", "accession": "", "catalogued_as": "Sappho, 1966, line engraving", "match": "exact", "url": "https://www.artic.edu/artists/24515/agathe-sorel"}
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.23",
+          "catalogued_as": "Sappho, 1964, from a triptych",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-23",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Art Institute of Chicago",
+          "accession": "",
+          "catalogued_as": "Sappho, 1966, line engraving",
+          "match": "exact",
+          "url": "https://www.artic.edu/artists/24515/agathe-sorel"
+        }
       ]
     },
     {
       "site_title": "The Wise and Foolish Virgin",
       "holdings": [
-        {"institution": "Tate, London", "accession": "P02336", "catalogued_as": "The Wise and Foolish Virgin, 1966", "match": "exact", "url": "https://www.tate.org.uk/art/artworks/sorel-the-wise-and-foolish-virgin-p02336"},
-        {"institution": "National Gallery of Art, Washington", "accession": "1980.45.1328", "catalogued_as": "The Wise and the Foolish Virgin, Rosenwald Collection", "match": "exact", "url": "https://www.nga.gov/artworks/59067-wise-and-foolish-virgin"}
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.24",
+          "catalogued_as": "The wise and foolish virgins, 1966, from a triptych",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-24",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Tate, London",
+          "accession": "P02336",
+          "catalogued_as": "The Wise and Foolish Virgin, 1966",
+          "match": "exact",
+          "url": "https://www.tate.org.uk/art/artworks/sorel-the-wise-and-foolish-virgin-p02336"
+        },
+        {
+          "institution": "National Gallery of Art, Washington",
+          "accession": "1980.45.1328",
+          "catalogued_as": "The Wise and the Foolish Virgin, Rosenwald Collection",
+          "match": "exact",
+          "url": "https://www.nga.gov/artworks/59067-wise-and-foolish-virgin"
+        }
       ]
     },
     {
       "site_title": "Starlet",
       "holdings": [
-        {"institution": "Harvard Art Museums (Fogg Museum), Cambridge MA", "accession": "M14492", "catalogued_as": "Starlet, etching, bought from the artist 1966", "match": "exact", "url": "https://harvardartmuseums.org/collections/object/261728"}
+        {
+          "institution": "Harvard Art Museums (Fogg Museum), Cambridge MA",
+          "accession": "M14492",
+          "catalogued_as": "Starlet, etching, bought from the artist 1966",
+          "match": "exact",
+          "url": "https://harvardartmuseums.org/collections/object/261728"
+        }
       ]
     },
     {
       "site_title": "On the Farm",
       "holdings": [
-        {"institution": "Ben Uri Collection, London", "accession": "1987-397", "catalogued_as": "On the Farm, dated 1985, hand-coloured print", "match": "probable", "url": "https://benuri.org/artworks/1663-agathe-sorel-on-the-farm/"}
+        {
+          "institution": "Ben Uri Collection, London",
+          "accession": "1987-397",
+          "catalogued_as": "On the Farm, dated 1985, hand-coloured print",
+          "match": "probable",
+          "url": "https://benuri.org/artworks/1663-agathe-sorel-on-the-farm/"
+        }
       ]
     },
     {
       "site_title": "Biplanes and Catamarans",
       "holdings": [
-        {"institution": "Tate, London", "accession": "P02335", "catalogued_as": "Of Biplanes and Catamarans, dated 1976", "match": "probable", "url": "https://www.tate.org.uk/art/artworks/sorel-of-biplanes-and-catamarans-p02335"}
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.29",
+          "catalogued_as": "Biplanes and catamarans, early 1970s",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-29",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        },
+        {
+          "institution": "Tate, London",
+          "accession": "P02335",
+          "catalogued_as": "Of Biplanes and Catamarans, dated 1976",
+          "match": "probable",
+          "url": "https://www.tate.org.uk/art/artworks/sorel-of-biplanes-and-catamarans-p02335"
+        }
+      ]
+    },
+    {
+      "site_title": "Fumee",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "1995,0618.25",
+          "catalogued_as": "Fumée, 1961",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_1995-0618-25",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Two Cultures",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.21",
+          "catalogued_as": "Two Cultures, 1962",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-21",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Suffragette",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.22",
+          "catalogued_as": "Souffragette, 1964",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-22",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Old Wife's Tale",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.25",
+          "catalogued_as": "Old wives' tale, 1966, from a triptych",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-25",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "The General (Le Balcon.. page 2)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.2",
+          "catalogued_as": "The General, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-2",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Chantal (Le Balcon.. page 4)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.4",
+          "catalogued_as": "Chantal, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-4",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Mme. The Queen (Le Balcon.. page 5)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.5",
+          "catalogued_as": "Madame, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-5",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "The Bishop (Le Balcon.. page 6)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.6",
+          "catalogued_as": "The Bishop, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-6",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "The Orator & the Crowd (Le Balcon.. page 7) jpg",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.7",
+          "catalogued_as": "Orator and the Crowd, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-7",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "The Queen (Le Balcon.. page 8)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.8",
+          "catalogued_as": "The Queen, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-8",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Mausoleum for the chief of the secret police (Le Balcon)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0520.66.9",
+          "catalogued_as": "Mausoleum for a Chief of Police, Le Balcon, 1965",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0520-66-9",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Six Months in the Air",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.26",
+          "catalogued_as": "Six months in the air, 1967",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-26",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Observed in High Spirits",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.27",
+          "catalogued_as": "Observed in high spirits, 1967",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-27",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Dark Satanic Mills",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.28",
+          "catalogued_as": "Dark Satanic Mills, c.1972",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-28",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Lanzarote",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.31",
+          "catalogued_as": "Lanzarote, Spring, 1981",
+          "match": "probable",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-31",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Agnus Dei",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "1984,1020,0.1.100",
+          "catalogued_as": "Agnus Dei, 1982-83, from A Tribute to Birgit Skiöld",
+          "match": "probable",
+          "url": "https://www.britishmuseum.org/collection/object/P_1984-1020-0-1-100",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "And the Midgets Would Rule",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.47",
+          "catalogued_as": "And Let the Midgets Rule, c.1985",
+          "match": "probable",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-47",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "The Silver Screen",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.30",
+          "catalogued_as": "The Silver Screen, c.1985",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-30",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Titania (from triptych)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.32",
+          "catalogued_as": "Titania, c.1989",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-32",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Catalana Blanca (Catalana Blanca)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.48",
+          "catalogued_as": "Catalana Blanca, 1997-2000",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-48",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "The Ghost of el Greco (Catalana Blanca)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.34",
+          "catalogued_as": "Le Spectre du Greco, Catalana Blanca, 1997-2000",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-34",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "The Ghost of el Greco with poem (Catalana Blanca)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.34",
+          "catalogued_as": "Le Spectre du Greco, Catalana Blanca, 1997-2000",
+          "match": "probable",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-34",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
+      ]
+    },
+    {
+      "site_title": "Nijinsky (Catalana Blanca)",
+      "holdings": [
+        {
+          "institution": "British Museum, London",
+          "accession": "2001,0128.33",
+          "catalogued_as": "Nijinksy, Catalana Blanca, 1997-2000",
+          "match": "exact",
+          "url": "https://www.britishmuseum.org/collection/object/P_2001-0128-33",
+          "source": "ACKG (claude_printmasterAI knowledge graph)"
+        }
       ]
     }
   ]
